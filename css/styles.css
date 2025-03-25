@@ -107,7 +107,11 @@ header {
 }
 
 .file-input {
-  display: none;
+  position: absolute;
+  left: -9999px;
+  opacity: 0;
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 .file-name {
@@ -146,6 +150,7 @@ textarea {
   color: var(--text-primary);
   background-color: rgba(248, 249, 250, 0.5);
   -webkit-appearance: none;
+  appearance: none;
   -webkit-overflow-scrolling: touch;
 }
 
@@ -645,7 +650,7 @@ textarea:focus {
   background-color: var(--input-bg);
   color: var(--text-primary);
   -webkit-appearance: none;
-  -webkit-overflow-scrolling: touch;
+  appearance: none;
 }
 
 .answer-input:focus {
