@@ -83,14 +83,15 @@ header {
 }
 
 .file-input-label {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: none;
+  appearance: none;
   background-color: var(--primary-color);
   color: white;
-  padding: 8px 15px;
   border-radius: 4px;
   cursor: pointer;
   text-align: center;
   transition: background-color 0.3s;
-  -webkit-tap-highlight-color: transparent;
   min-height: 44px;
   padding: 12px 16px;
   touch-action: manipulation;
@@ -947,12 +948,13 @@ button,
 /* 2. 优化输入体验 */
 textarea,
 .answer-input {
-  -webkit-appearance: none; /* 移除iOS默认样式 */
+  -webkit-appearance: none;
+  appearance: none;
   border-radius: 8px;
   padding: 14px;
-  font-size: 16px; /* iOS上小于16px的输入框会自动放大 */
+  font-size: 16px;
   line-height: 1.4;
-  -webkit-overflow-scrolling: touch; /* 平滑滚动 */
+  -webkit-overflow-scrolling: touch;
 }
 
 /* 输入框获得焦点时的优化 */
@@ -997,6 +999,7 @@ body {
   /* 改善iOS上的表单元素外观 */
   input[type="number"] {
     -webkit-appearance: none;
+    appearance: none;
     margin: 0;
     border-radius: 4px;
   }
