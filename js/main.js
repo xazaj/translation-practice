@@ -5,6 +5,74 @@ import { renderQuestions, showToast } from './ui.js';
 // 获取状态
 const { questions, currentPage, pageSize } = store.getState();
 
+// 加载默认题库
+async function loadDefaultTxtFile() {
+  try {
+    // 尝试从data目录加载第一个TXT文件
+    const response = await fetch('data/Peppa Pig Season 1.txt');
+    
+    if (!response.ok) {
+      console.log('没有找到默认题库文件，加载示例题目');
+      loadDefaultQuestions();
+      return;
+    }
+    
+    const content = await response.text();
+    
+    // 处理文件内容
+    const questions = processFileContent(content);
+    
+    if (questions.length > 0) {
+      // 更新页面标题
+      document.querySelector('.header-content').textContent = `中英翻译练习 - Peppa Pig Season 1`;
+      document.title = `中英翻译练习 - Peppa Pig Season 1`;
+      
+      // 更新状态
+      store.setState('questions', questions);
+      
+      // 渲染问题
+      renderQuestions();
+      
+      console.log(`已加载默认题库: Peppa Pig Season 1 (${questions.length}题)`);
+      showToast('已加载默认题库: Peppa Pig Season 1', 'success');
+    } else {
+      // 如果解析失败，加载默认示例题目
+      loadDefaultQuestions();
+    }
+  } catch (error) {
+    console.error('加载默认题库失败:', error);
+    // 加载失败时使用默认示例题目
+    loadDefaultQuestions();
+  }
+}
+
+// 处理文件内容
+function processFileContent(content) {
+  // 按行分割
+  const lines = content.split('\n');
+  
+  // 解析每一行
+  const questions = lines
+    .filter(line => line.trim() !== '') // 过滤空行
+    .map(line => {
+      // 使用|分割英文和中文
+      const parts = line.split('|');
+      
+      if (parts.length >= 2) {
+        return {
+          en: parts[0].trim(),
+          zh: parts[1].trim(),
+          userAnswer: '',
+          showHint: false
+        };
+      }
+      return null;
+    })
+    .filter(q => q !== null); // 过滤无效行
+  
+  return questions;
+}
+
 // 加载默认题目
 function loadDefaultQuestions() {
   const defaultQuestions = [];
@@ -12,7 +80,8 @@ function loadDefaultQuestions() {
     defaultQuestions.push({ 
       en: `Sample English sentence ${i}`, 
       zh: `示例中文句子 ${i}`,
-      isQuestion: true // 标记中文为题目
+      userAnswer: '',
+      showHint: false
     });
   }
   store.setState('questions', defaultQuestions);
@@ -349,13 +418,11 @@ document.addEventListener('DOMContentLoaded', function() {
   if (savedAnswers && savedAnswers.length > 0) {
     // 使用保存的答案
     store.setState('questions', savedAnswers);
+    renderQuestions();
   } else {
-    // 加载默认题目
-    loadDefaultQuestions();
+    // 尝试加载默认题库
+    loadDefaultTxtFile();
   }
-  
-  // 渲染问题
-  renderQuestions();
   
   console.log('应用初始化完成');
 });
