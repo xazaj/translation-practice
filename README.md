@@ -26,7 +26,9 @@
 ### 题库格式示例 
 
 This is an example sentence.|这是一个示例句子。
+
 Practice makes perfect.|熟能生巧。
+
 Learning a new language is fun.|学习一门新语言很有趣。
 
 ## 技术说明
