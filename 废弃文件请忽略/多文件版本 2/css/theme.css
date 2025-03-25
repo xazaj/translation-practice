@@ -1,0 +1,264 @@
+/* 学习主题增强样式 - 减少视觉疲劳，提高长时间学习体验 */
+
+:root {
+  /* 主色调优化 - 使用更柔和的蓝色，减少视觉刺激 */
+  --primary-color: #4a90e2;
+  --primary-light: #6ba5e9;
+  --primary-dark: #3a73b5;
+  --secondary-color: #f5a623;
+  
+  /* 文本颜色优化 - 降低对比度，减轻眼部疲劳 */
+  --text-primary: rgba(0, 0, 0, 0.75);
+  --text-secondary: rgba(0, 0, 0, 0.52);
+  
+  /* 背景色优化 - 更柔和的米色背景，减少刺眼感 */
+  --background: #f9f7f2;
+  --card-bg: #ffffff;
+  
+  /* 强调色优化 */
+  --success-color: #5cb85c;
+  --error-color: #e74c3c;
+  
+  /* 学习专注模式变量 */
+  --focus-highlight: rgba(74, 144, 226, 0.08);
+  --focus-border: rgba(74, 144, 226, 0.3);
+  
+  /* 动画时间 */
+  --transition-speed: 0.3s;
+  --transition-speed-slow: 0.5s;
+  
+  /* 间距和圆角 */
+  --border-radius: 10px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+}
+
+/* 深色模式优化 - 更柔和的深色背景，减少对比度 */
+.dark-theme {
+  --primary-color: #5a9de4;
+  --primary-light: #7ab2eb;
+  --primary-dark: #4a7dbd;
+  
+  /* 深色模式文本 - 降低白色亮度，减少刺眼感 */
+  --text-primary: rgba(255, 255, 255, 0.85);
+  --text-secondary: rgba(255, 255, 255, 0.65);
+  
+  /* 深色背景 - 使用深蓝灰色而非纯黑，减少对比度 */
+  --background: #1f2937;
+  --card-bg: #2d3748;
+  
+  /* 深色模式强调色调整 */
+  --success-color: #68c268;
+  --error-color: #e86c5d;
+  
+  /* 深色模式专注区域 */
+  --focus-highlight: rgba(90, 157, 228, 0.12);
+  --focus-border: rgba(90, 157, 228, 0.35);
+}
+
+/* 专注模式增强 - 当前问题高亮 */
+.question:focus-within {
+  border-left: 3px solid var(--primary-color);
+  background-color: var(--focus-highlight);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+/* 文本区域增强 - 更好的输入体验 */
+textarea:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px var(--focus-border);
+  background-color: white;
+  transform: translateY(-1px);
+}
+
+.dark-theme textarea:focus {
+  background-color: #3a4a5f;
+}
+
+/* 进度条动画增强 */
+.progress-value {
+  background-image: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+  background-size: 200% 100%;
+  animation: progress-pulse 2s ease-in-out infinite;
+}
+
+@keyframes progress-pulse {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 成就徽章样式 */
+.achievement {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  background: linear-gradient(135deg, var(--primary-light), var(--primary-color));
+  color: white;
+  border-radius: 20px;
+  margin: 5px;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.achievement:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.achievement .material-icons {
+  margin-right: 6px;
+  font-size: 18px;
+}
+
+/* 学习时间提醒样式 */
+.timer-reminder {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: white;
+  padding: 12px 16px;
+  border-radius: var(--border-radius);
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+  transform: translateY(100px);
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.timer-reminder.show {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.dark-theme .timer-reminder {
+  background: var(--card-bg);
+  color: var(--text-primary);
+}
+
+.timer-reminder .material-icons {
+  margin-right: 10px;
+  color: var(--primary-color);
+}
+
+/* 眼部保护模式切换按钮 */
+.eye-protect-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 80px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  transition: all 0.3s ease;
+}
+
+.eye-protect-toggle:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* 眼部保护模式 */
+.eye-protect-mode {
+  filter: sepia(20%) brightness(95%);
+}
+
+/* 确保模态框在护眼模式下正确定位 */
+.eye-protect-mode .answer-modal {
+  filter: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  overflow-y: auto;
+  pointer-events: auto;
+}
+
+.eye-protect-mode .answer-modal.show {
+  opacity: 1;
+}
+
+/* 学习统计面板 */
+.stats-panel {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  animation: fadeIn 0.5s ease-out;
+}
+
+.stat-item {
+  flex: 1;
+  min-width: 120px;
+  text-align: center;
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius);
+  background-color: rgba(0, 0, 0, 0.03);
+  transition: all 0.3s ease;
+}
+
+.dark-theme .stat-item {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.stat-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: var(--primary-color);
+  margin-bottom: var(--spacing-sm);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* 微动效增强 */
+.btn:active {
+  transform: scale(0.96);
+}
+
+.question {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-left 0.3s ease;
+}
+
+/* 响应式优化 */
+@media (max-width: 768px) {
+  .stats-panel {
+    flex-direction: column;
+  }
+  
+  .stat-item {
+    width: 100%;
+  }
+}

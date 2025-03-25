@@ -1,0 +1,1066 @@
+:root {
+  --primary-color: #3f8cb5;
+  --primary-light: #64a7c9;
+  --primary-dark: #2c6380;
+  --secondary-color: #e67e22;
+  --text-primary: rgba(0, 0, 0, 0.78);
+  --text-secondary: rgba(0, 0, 0, 0.55);
+  --background: #f8f9fa;
+  --card-bg: #ffffff;
+  --transition-speed: 0.3s;
+  --success-color: #4caf50;
+  --error-color: #f44336;
+  --border-radius: 8px;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: var(--background);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+header {
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  position: relative;
+  z-index: 10;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.header-content {
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+  flex-grow: 1;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 2rem;
+  min-height: calc(100vh - 200px);
+}
+
+.upload {
+  margin-bottom: 2rem;
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  transition: box-shadow var(--transition-speed);
+}
+
+.upload:hover {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+}
+
+.upload-info {
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.file-input-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.file-input-label {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s;
+  -webkit-tap-highlight-color: transparent;
+  min-height: 44px;
+  padding: 12px 16px;
+  touch-action: manipulation;
+}
+
+.file-input-label:hover {
+  background-color: var(--primary-dark);
+}
+
+.file-input-label:active {
+  transform: scale(0.97);
+  transition: transform 0.1s;
+}
+
+.file-input {
+  display: none;
+}
+
+.file-name {
+  font-size: 0.85rem;
+  color: #666;
+  word-break: break-all;
+}
+
+/* 文件上传状态样式 */
+.file-input-wrapper.loading .file-input-label {
+  background-color: #f0ad4e;
+  pointer-events: none;
+}
+
+.file-input-wrapper.success .file-input-label {
+  background-color: #5cb85c;
+}
+
+.file-input-wrapper.error .file-input-label {
+  background-color: #d9534f;
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  margin-top: 1rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.05rem;
+  padding: 14px;
+  border: 1px solid #e0e0e0;
+  border-radius: var(--border-radius);
+  resize: vertical;
+  font-family: 'Roboto', Arial, sans-serif;
+  transition: all 0.25s ease;
+  line-height: 1.5;
+  color: var(--text-primary);
+  background-color: rgba(248, 249, 250, 0.5);
+  -webkit-appearance: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+textarea:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(63, 140, 181, 0.25);
+  outline: none;
+  background-color: white;
+}
+
+.question {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06), 0 1px 4px rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.question:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.question:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.question-title {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+  position: relative;
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.question-title:hover {
+  background-color: rgba(63, 140, 181, 0.08);
+}
+
+.question-title:active {
+  background-color: rgba(63, 140, 181, 0.12);
+}
+
+.question-number {
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-right: 8px;
+  font-size: 1.1rem;
+}
+
+.question-text {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2.5rem;
+  background: var(--card-bg);
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.pagination-input {
+  display: flex;
+  align-items: center;
+}
+
+.page-input {
+  width: 50px;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 0 8px;
+}
+
+.btn {
+  padding: 8px 16px;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  min-height: 44px;
+  padding: 12px 16px;
+  touch-action: manipulation;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-light);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.btn-primary:active {
+  transform: translateY(0) scale(0.98);
+  background-color: var(--primary-dark);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-secondary:hover {
+  background-color: rgba(63, 140, 181, 0.08);
+  transform: translateY(-2px);
+}
+
+.btn-secondary:active {
+  transform: translateY(0) scale(0.98);
+  background-color: rgba(63, 140, 181, 0.12);
+}
+
+.material-icons {
+  display: none;
+}
+
+/* Toast notifications */
+.toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 12px 20px;
+  background-color: var(--card-bg);
+  color: var(--text-primary);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  font-size: 0.95rem;
+  max-width: 80%;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  transform: translateX(-50%) translateY(20px);
+  border-left: 4px solid var(--primary-color);
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+.toast.info {
+  border-left-color: var(--info-color);
+}
+
+.toast.success {
+  border-left-color: var(--success-color);
+}
+
+.toast.warning {
+  border-left-color: var(--warning-color);
+}
+
+.toast.error {
+  border-left-color: var(--error-color);
+}
+
+/* Answer modal styles */
+.answer-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  overflow-y: auto; /* 确保内容可滚动 */
+}
+
+.answer-modal.show {
+  opacity: 1;
+}
+
+.answer-modal-content {
+  background: white;
+  border-radius: var(--border-radius);
+  width: 90%;
+  max-width: 600px;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.25);
+  transform: translateY(20px);
+  transition: transform 0.3s ease;
+}
+
+.answer-modal.show .answer-modal-content {
+  transform: translateY(0);
+}
+
+.answer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.answer-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+}
+
+.close-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--text-secondary);
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s;
+}
+
+.close-btn:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: var(--text-primary);
+}
+
+.answer-body {
+  padding: 20px;
+}
+
+.answer-body h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: var(--text-secondary);
+}
+
+.answer-body p {
+  margin-top: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.user-answer {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+.recommended-answer p {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.answer-footer {
+  padding: 15px 20px;
+  text-align: right;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* 上传按钮样式 */
+.upload-nav {
+  position: relative;
+  margin-left: 20px;
+}
+
+.upload-btn {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.upload-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+.upload-dropdown {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+  padding: 15px;
+  width: 300px;
+  z-index: 100;
+  display: none;
+}
+
+.upload-dropdown:before {
+  content: '';
+  position: absolute;
+  top: -6px;
+  right: 20px;
+  width: 12px;
+  height: 12px;
+  background-color: white;
+  transform: rotate(45deg);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* 动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem;
+    max-width: 95%;
+  }
+  
+  .controls {
+    flex-direction: column;
+    gap: 18px;
+  }
+  
+  .question {
+    padding: 1.5rem;
+  }
+  
+  .zh-text {
+    font-size: 1.05rem;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  .answer-modal-content {
+    width: 95%;
+    max-height: 80vh;
+  }
+  
+  header {
+    padding: 1.2rem;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+  }
+  
+  .header-content {
+    order: 2;
+    font-size: 1.5rem;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .upload-nav {
+    order: 3;
+    margin-left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .upload-dropdown {
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    min-width: 280px;
+  }
+  
+  .upload-dropdown:before {
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  header {
+    padding: 1.2rem;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .header-content {
+    font-size: 1.5rem;
+  }
+  
+  .upload-nav {
+    margin-left: 0;
+  }
+  
+  .question {
+    padding: 1.2rem;
+    margin-bottom: 1.8rem;
+  }
+  
+  .btn {
+    padding: 8px 14px;
+    font-size: 0.9rem;
+  }
+  
+  .upload {
+    padding: 1.2rem;
+  }
+  
+  .file-input-label {
+    padding: 8px 12px;
+  }
+  
+  .upload-dropdown {
+    min-width: 250px;
+    right: -50%;
+  }
+}
+
+/* 暗黑模式样式 */
+.dark-theme {
+  --text-primary: rgba(255, 255, 255, 0.87);
+  --text-secondary: rgba(255, 255, 255, 0.6);
+  --background: #121212;
+  --card-bg: #1e1e1e;
+}
+
+.theme-icon, .eye-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+/* 答题区域优化样式 */
+.answer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.answer-input-wrapper {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.answer-input {
+  width: 100%;
+  min-height: 80px;
+  padding: 12px;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  resize: vertical;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background-color: var(--input-bg);
+  color: var(--text-primary);
+  -webkit-appearance: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.answer-input:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(var(--primary-rgb), 0.2);
+  outline: none;
+}
+
+.check-btn {
+  padding: 10px 16px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  min-width: 80px;
+  height: 42px;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.check-btn:hover {
+  background-color: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.check-btn:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+.result-container {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  opacity: 0;
+  border: 1px solid transparent;
+}
+
+.result-container.show {
+  padding: 16px;
+  max-height: 300px;
+  opacity: 1;
+  border-color: var(--border-color);
+}
+
+.result-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.result-status.correct {
+  color: var(--success-color);
+}
+
+.result-status.incorrect {
+  color: var(--error-color);
+}
+
+.result-icon {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.result-status.correct .result-icon {
+  background-color: rgba(92, 184, 92, 0.1);
+}
+
+.result-status.incorrect .result-icon {
+  background-color: rgba(217, 83, 79, 0.1);
+}
+
+.answer-comparison {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.user-answer, .correct-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.user-answer .label, .correct-answer .label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.user-answer .content {
+  color: var(--error-color);
+  font-weight: 500;
+  padding: 4px 8px;
+  background-color: rgba(217, 83, 79, 0.05);
+  border-radius: 4px;
+}
+
+.correct-answer .content {
+  color: var(--success-color);
+  font-weight: 500;
+  padding: 4px 8px;
+  background-color: rgba(92, 184, 92, 0.05);
+  border-radius: 4px;
+}
+
+.encouragement {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-top: 8px;
+  text-align: center;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .answer-input-wrapper {
+    flex-direction: column;
+  }
+  
+  .check-btn {
+    width: 100%;
+    margin-top: 8px;
+  }
+}
+
+/* 提示区域样式 */
+.hint-container {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+  opacity: 0;
+  border: 1px solid transparent;
+  will-change: opacity, transform;
+}
+
+.hint-container.show {
+  padding: 16px;
+  max-height: 200px;
+  opacity: 1;
+  border-color: var(--border-color);
+  background-color: rgba(var(--primary-rgb), 0.03);
+  transform: translateY(0);
+  border-top: 1px solid rgba(63, 140, 181, 0.15);
+  margin-top: 12px;
+  padding-top: 12px;
+}
+
+.hint-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.hint-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.hint-text {
+  color: var(--primary-color);
+  font-weight: 500;
+  padding: 8px 12px;
+  background-color: rgba(var(--primary-rgb), 0.05);
+  border-radius: 4px;
+  line-height: 1.5;
+}
+
+/* 点击提示指示器 */
+.tap-hint {
+  font-size: 0.8rem;
+  color: var(--primary-color);
+  opacity: 0.7;
+  margin-left: auto;
+  font-style: italic;
+  align-self: center;
+  transition: opacity 0.2s ease;
+}
+
+.question-title:hover .tap-hint {
+  opacity: 1;
+}
+
+/* 已显示提示的问题标题样式 */
+.hint-container.show + .question-title .tap-hint {
+  display: none;
+}
+
+/* iOS特定优化 */
+@supports (-webkit-touch-callout: none) {
+  .question-title {
+    padding: 10px 14px; /* 增大点击区域 */
+  }
+  
+  .question-title::after {
+    content: '';
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    opacity: 0.6;
+    transform: translateY(-50%) rotate(45deg);
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+  
+  .hint-container.show ~ .question-header .question-title::after {
+    transform: translateY(-50%) rotate(-135deg);
+    opacity: 0.9;
+  }
+}
+
+/* 提示容器动画优化 */
+.hint-container {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+  opacity: 0;
+  transform: translateY(-10px);
+  will-change: opacity, transform, max-height;
+  border-top: 1px solid transparent;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.hint-container.show {
+  max-height: 200px; /* 足够显示内容的高度 */
+  opacity: 1;
+  transform: translateY(0);
+  border-top: 1px solid rgba(63, 140, 181, 0.15);
+  margin-top: 12px;
+  padding-top: 12px;
+}
+
+/* 输入框抖动动画 */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+.shake {
+  animation: shake 0.4s ease-in-out;
+}
+
+/* 删除所有临时调试样式 */
+.theme-controls, .theme-toggle, .eye-protect-toggle {
+  border: none;
+}
+
+.pagination-input input:focus {
+  border-color: var(--primary-color);
+}
+
+/* iOS 设备交互与视觉优化 */
+
+/* 1. 改善触摸体验 */
+button, 
+.btn, 
+.hint-btn, 
+.check-btn,
+.file-input-label {
+  -webkit-tap-highlight-color: transparent; /* 移除默认点击高亮 */
+  cursor: pointer;
+  min-height: 44px; /* iOS 推荐的最小触摸区域 */
+  padding: 12px 16px; /* 增加内边距提升可点击区域 */
+  touch-action: manipulation; /* 优化触摸行为 */
+}
+
+/* 增强按钮点击反馈 */
+.btn:active,
+.hint-btn:active,
+.check-btn:active,
+.file-input-label:active {
+  transform: scale(0.97);
+  transition: transform 0.1s;
+}
+
+/* 2. 优化输入体验 */
+textarea,
+.answer-input {
+  -webkit-appearance: none; /* 移除iOS默认样式 */
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 16px; /* iOS上小于16px的输入框会自动放大 */
+  line-height: 1.4;
+  -webkit-overflow-scrolling: touch; /* 平滑滚动 */
+}
+
+/* 输入框获得焦点时的优化 */
+textarea:focus,
+.answer-input:focus {
+  box-shadow: 0 0 0 3px rgba(63, 140, 181, 0.25);
+  outline: none;
+}
+
+/* 3. 改善视觉体验 */
+body {
+  -webkit-font-smoothing: antialiased; /* 改善字体渲染 */
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* 增强文本可读性 */
+.question-text {
+  font-weight: 500; /* 稍微加粗提高可读性 */
+  letter-spacing: -0.01em; /* 轻微调整字间距 */
+}
+
+/* 4. 优化动画效果 */
+.hint-container {
+  transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1); /* 更自然的动画曲线 */
+  will-change: opacity, transform; /* 提示浏览器优化渲染 */
+}
+
+/* 5. iOS特定样式优化 */
+@supports (-webkit-touch-callout: none) {
+  /* 仅在iOS设备上应用的样式 */
+  .container {
+    padding-bottom: 40px; /* 为底部留出额外空间 */
+  }
+  
+  /* 优化iOS上的滚动体验 */
+  .question {
+    overflow: hidden; /* 防止内容溢出 */
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* 改善iOS上的表单元素外观 */
+  input[type="number"] {
+    -webkit-appearance: none;
+    margin: 0;
+    border-radius: 4px;
+  }
+  
+  /* 防止iOS上的文本自动缩放 */
+  .question-title, .hint-text {
+    max-height: 999999px;
+  }
+}
+
+/* 6. 响应式布局优化 */
+@media (max-width: 428px) { /* iPhone 12 Pro Max 宽度 */
+  .container {
+    padding: 1.5rem 1rem;
+  }
+  
+  .question {
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .header-content {
+    font-size: 1.5rem;
+  }
+  
+  /* 优化输入框在小屏幕上的表现 */
+  .answer-input {
+    min-height: 100px; /* 增加高度方便输入 */
+  }
+}
+
+/* 7. 键盘弹出时的布局优化 */
+@media (max-height: 600px) {
+  .container {
+    padding-top: 1rem;
+  }
+  
+  header {
+    padding: 1rem;
+  }
+  
+  .question {
+    margin-bottom: 12px;
+    padding: 14px;
+  }
+}
+
+/* 8. 增强视觉层次感 */
+.question {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06), 0 1px 4px rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.question:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+/* 9. 优化提示显示效果 */
+.hint-container.show {
+  transform: translateY(0);
+  opacity: 1;
+  border-top: 1px solid rgba(63, 140, 181, 0.15);
+  margin-top: 12px;
+  padding-top: 12px;
+}

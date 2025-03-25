@@ -1,0 +1,504 @@
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>中英翻译练习</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+<style>
+    :root {
+      --primary-color: #1976d2;
+      --primary-light: #4791db;
+      --primary-dark: #115293;
+      --secondary-color: #f50057;
+      --text-primary: rgba(0, 0, 0, 0.87);
+      --text-secondary: rgba(0, 0, 0, 0.6);
+      --background: #f5f5f5;
+      --card-bg: #ffffff;
+      --transition-speed: 0.3s;
+    }
+
+    body {
+      font-family: 'Roboto', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: var(--background);
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    header {
+      padding: 1.5rem;
+      background: var(--primary-color);
+      color: white;
+      text-align: center;
+      font-size: 1.8rem;
+      font-weight: 500;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      position: relative;
+      z-index: 1;
+    }
+
+    .container {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .upload {
+      margin-bottom: 2rem;
+      background: var(--card-bg);
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+      transition: box-shadow var(--transition-speed);
+    }
+
+    .upload:hover {
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    }
+
+    .upload-info {
+      margin-top: 10px;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .file-input-wrapper {
+      position: relative;
+      overflow: hidden;
+      display: inline-block;
+      margin-top: 0.8rem;
+    }
+
+    .file-input-label {
+      padding: 10px 15px;
+      background-color: var(--primary-color);
+      color: white;
+      font-weight: 500;
+      border-radius: 4px;
+      cursor: pointer;
+      display: inline-block;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      transition: all var(--transition-speed);
+    }
+
+    .file-input-label:hover {
+      background-color: var(--primary-light);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .file-input-label:active {
+      transform: scale(0.98);
+    }
+
+    .file-input {
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+
+    .file-name {
+      margin-left: 10px;
+      color: var(--text-secondary);
+    }
+
+    textarea {
+      width: 100%;
+      height: 100px;
+      margin-top: 0.8rem;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      resize: vertical;
+      font-family: 'Roboto', Arial, sans-serif;
+      transition: border 0.2s, box-shadow 0.2s;
+    }
+
+    textarea:focus {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 2px rgba(25, 118, 210, 0.2);
+      outline: none;
+    }
+
+    .question {
+      margin-bottom: 2rem;
+      background: var(--card-bg);
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+      transition: box-shadow var(--transition-speed);
+    }
+
+    .question:hover {
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    }
+
+    .question-number {
+      display: inline-block;
+      background-color: var(--primary-color);
+      color: white;
+      width: 24px;
+      height: 24px;
+      line-height: 24px;
+      text-align: center;
+      border-radius: 50%;
+      margin-right: 8px;
+      font-weight: 500;
+    }
+
+    .zh-text {
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+      font-weight: 500;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 2.5rem;
+      background: var(--card-bg);
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    }
+
+    .pagination-input {
+      display: flex;
+      align-items: center;
+    }
+
+    .page-input {
+      width: 50px;
+      padding: 8px;
+      text-align: center;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin: 0 8px;
+    }
+
+    .progress {
+      margin-top: 1rem;
+      text-align: right;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .progress-bar {
+      background-color: #e0e0e0;
+      height: 6px;
+      border-radius: 3px;
+      overflow: hidden;
+      margin-top: 5px;
+    }
+
+    .progress-value {
+      background-color: var(--primary-color);
+      height: 100%;
+      width: 0%;
+      transition: width 0.5s;
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .btn-primary:hover {
+      background-color: var(--primary-light);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .btn-primary:active {
+      transform: scale(0.98);
+      background-color: var(--primary-dark);
+    }
+
+    .btn-secondary {
+      background-color: transparent;
+      color: var(--primary-color);
+      border: 1px solid var(--primary-color);
+    }
+
+    .btn-secondary:hover {
+      background-color: rgba(25, 118, 210, 0.04);
+    }
+
+    .btn-secondary:active {
+      transform: scale(0.98);
+      background-color: rgba(25, 118, 210, 0.08);
+    }
+
+    .material-icon {
+      vertical-align: middle;
+      margin-right: 4px;
+      font-size: 18px;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .question {
+      animation: fadeIn 0.3s ease-out;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+      
+      .controls {
+        flex-direction: column;
+        gap: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+<header>中英翻译练习</header>
+<div class="container">
+<div class="upload">
+<h3>上传题库</h3>
+<div class="upload-info">
+        请上传符合格式的TXT文件，每行一个题目，格式为"英文|中文"。
+      </div>
+<div class="file-input-wrapper">
+<label class="file-input-label" for="fileInput">
+<span class="material-icons material-icon">cloud_upload</span>选择文件
+        </label>
+<input accept=".txt" class="file-input" id="fileInput" type="file"/>
+<span class="file-name" id="fileName">未选择文件</span>
+</div>
+</div>
+<div id="questions"></div>
+<div class="controls">
+<button class="btn btn-secondary" onclick="prevPage()">
+<span class="material-icons material-icon">arrow_back</span>上一页
+      </button>
+<div class="pagination-input">
+        第 <input class="page-input" id="pageInput" min="1" onchange="jumpToPage()" type="number" value="1"/> 页 / <span id="totalPages">1</span> 页
+      </div>
+<button class="btn btn-primary" onclick="nextPage()">
+        下一页<span class="material-icons material-icon">arrow_forward</span>
+</button>
+</div>
+<div class="progress" id="progress">
+<div>完成进度：<span id="progressText">0/20</span></div>
+<div class="progress-bar">
+<div class="progress-value" id="progressBar"></div>
+</div>
+</div>
+</div>
+<script>
+    let questions = [];
+    let currentPage = 1;
+    const pageSize = 10;
+
+    function loadDefaultQuestions() {
+      questions = [];
+      for (let i = 1; i <= 20; i++) {
+        questions.push({ en: `Sample English sentence ${i}`, zh: `示例中文句子 ${i}` });
+      }
+    }
+
+    function handleFileUpload(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      // Update file name display
+      document.getElementById('fileName').textContent = file.name;
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const lines = e.target.result.split(/\r?\n/);
+        const newQuestions = [];
+
+        lines.forEach(line => {
+          const parts = line.split('|');
+          if (parts.length === 2) {
+            const en = parts[0].trim();
+            const zh = parts[1].trim();
+            if (en && zh) {
+              newQuestions.push({ en, zh });
+            }
+          }
+        });
+
+        if (newQuestions.length > 0) {
+          questions = newQuestions;
+          currentPage = 1;
+          renderQuestions();
+          
+          // Show success feedback
+          const uploadElement = document.querySelector('.upload');
+          uploadElement.style.borderLeft = "4px solid #4caf50";
+          setTimeout(() => {
+            uploadElement.style.borderLeft = "none";
+          }, 3000);
+        } else {
+          alert("未能识别任何有效题目，请检查文件格式是否为 '英文 | 中文'。无效行将被忽略。");
+          document.getElementById('fileName').textContent = "上传失败";
+        }
+      };
+      reader.readAsText(file, 'UTF-8');
+    }
+
+    function renderQuestions() {
+      const container = document.getElementById('questions');
+      const start = (currentPage - 1) * pageSize;
+      const pageQuestions = questions.slice(start, start + pageSize);
+      const totalPages = Math.ceil(questions.length / pageSize);
+
+      document.getElementById('totalPages').textContent = totalPages;
+      document.getElementById('pageInput').value = currentPage;
+      
+      // Update progress
+      const progress = Math.min(currentPage * pageSize, questions.length);
+      document.getElementById('progressText').textContent = `${progress} / ${questions.length}`;
+      
+      // Update progress bar
+      const progressPercentage = (progress / questions.length) * 100;
+      document.getElementById('progressBar').style.width = `${progressPercentage}%`;
+
+      container.innerHTML = '';
+      pageQuestions.forEach((q, i) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.className = 'question';
+        questionDiv.style.animationDelay = `${i * 0.05}s`;
+        
+        questionDiv.innerHTML = `
+          <div class="zh-text">
+            <span class="question-number">${start + i + 1}</span>
+            ${q.zh}
+          </div>
+          <textarea placeholder="请在此翻译为英文..." aria-label="翻译为英文"></textarea>
+          <button class="btn btn-primary" onclick="showAnswer(${start + i})">
+            <span class="material-icons material-icon">visibility</span>查看推荐译文
+          </button>
+        `;
+        
+        container.appendChild(questionDiv);
+      });
+    }
+
+    function showAnswer(index) {
+      if (index >= 0 && index < questions.length) {
+        // Create a modal effect for better feedback
+        const answer = questions[index].en;
+        
+        const modal = document.createElement('div');
+        modal.style.position = 'fixed';
+        modal.style.top = '0';
+        modal.style.left = '0';
+        modal.style.right = '0';
+        modal.style.bottom = '0';
+        modal.style.backgroundColor = 'rgba(0,0,0,0.5)';
+        modal.style.display = 'flex';
+        modal.style.justifyContent = 'center';
+        modal.style.alignItems = 'center';
+        modal.style.zIndex = '1000';
+        
+        const content = document.createElement('div');
+        content.style.backgroundColor = 'white';
+        content.style.padding = '20px';
+        content.style.borderRadius = '8px';
+        content.style.maxWidth = '80%';
+        content.style.boxShadow = '0 4px 20px rgba(0,0,0,0.2)';
+        content.innerHTML = `
+          <h3 style="margin-top:0; color:var(--primary-color)">推荐译文</h3>
+          <p style="font-size:1.1rem; margin-bottom:20px">${answer}</p>
+          <button class="btn btn-primary" style="width:100%">关闭</button>
+        `;
+        
+        modal.appendChild(content);
+        document.body.appendChild(modal);
+        
+        modal.addEventListener('click', function() {
+          document.body.removeChild(modal);
+        });
+        
+        content.querySelector('button').addEventListener('click', function() {
+          document.body.removeChild(modal);
+        });
+        
+        content.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      }
+    }
+
+    function prevPage() {
+      if (currentPage > 1) {
+        currentPage--;
+        renderQuestions();
+        
+        // Add transition feedback
+        const btn = document.querySelector('.btn-secondary');
+        btn.style.transform = 'scale(0.95)';
+        setTimeout(() => {
+          btn.style.transform = '';
+        }, 200);
+      }
+    }
+
+    function nextPage() {
+      if (currentPage * pageSize < questions.length) {
+        currentPage++;
+        renderQuestions();
+        
+        // Add transition feedback
+        const btn = document.querySelector('.btn-primary');
+        btn.style.transform = 'scale(0.95)';
+        setTimeout(() => {
+          btn.style.transform = '';
+        }, 200);
+      }
+    }
+
+    function jumpToPage() {
+      const page = parseInt(document.getElementById('pageInput').value);
+      const totalPages = Math.ceil(questions.length / pageSize);
+      if (page >= 1 && page <= totalPages) {
+        currentPage = page;
+        renderQuestions();
+      }
+    }
+
+    document.getElementById('fileInput').addEventListener('change', handleFileUpload);
+
+    loadDefaultQuestions();
+    renderQuestions();
+  </script>
+</body>
+</html>
