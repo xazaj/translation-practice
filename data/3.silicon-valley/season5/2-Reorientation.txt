@@ -1,0 +1,485 @@
+1 I sent you 63 good people.
+You have to choose.
+They have to meet our rigorous standards.
+I mean, look at the three we've already hired.
+DINESH: Stallions.
+[UPBEAT MUSIC.]
+Hooli is the future,  and your future is the Box 2.
+Are there any questions?  Everything you're doing here is antiquated.
+Fuck you guys.
+Get outta here.
+You wish to acquire a company called Sliceline?  I will be taking on a total engineering team of about 50.
+Uh  [RETCHING.]
+Don't tell anyone, okay?  Uh  DINESH: My Tesla finally came.
+GILFOYLE: Was that a wise purchase?  Considering Richard just  obliterated Pied Piper's runway hiring all those coders?  I ordered it a month ago.
+But still, it's an investment.
+As I understand,  cars depreciate 10 percent  as soon as they fall off the truck.
+[CAR THUDDING.]
+Like that.
+- [THUDDING.]
+- So if the car costs $100,  well you just lost $10.
+Did it cost $100?  Or more?  It's not about the money.
+I, my friend, am now part  of the green revolution.
+Are you?  Most electricity still comes from  gas plants and coal-burning smoke stacks.
+Do you know where your electricity comes from?  - No.
+- Mm-hmm.
+Look how shiny it is.
+Plus, it has a frunk  A front trunk.
+Here, hop in, let me give you a ride to work.
+- [ENGINE STARTING.]
+- [ENGINE RATTLING.]
+Dinesh,  you like this?  Jesus fucking Christ!  - Is that a dead pig? - Yes.
+It's just like Errich.
+My corrupt uncle  sent a death certificate  from China  but to send body is too expensive.
+So  I cremate a pig  because a pig is most like a fat human.
+I gotta get to work.
+Dinesh  can you take pig to backyard?  I need to burn it.
+No.
+That's odd.
+You left before me.
+How was I able to park before you?  I guess all 50 of the new employees  decided to show up bright and early  for the fucking all-hands meeting.
+I had to park on level five.
+Huh! So unlike you,  the world understands  that I'm saving the planet  and has rewarded me with  [CLICKS TONGUE.]
+primo spot.
+Congratulations.
+You've finally taken your rightful spot  amongst the handicapped.
+[THEME MUSIC PLAYING.]
+Is it broken?  Uh, no.
+I think I'm okay.
+One question, what the fuck happened?  'Cause you were doing your speech  right there in front of the whole company,  and then  Wow.
+Well  uh, my speech was going poorly.
+- Agreed.
+- Yeah.
+And I started to panic.
+With good reason.
+And then  all of a sudden, I  I thought I had to shit my pants, okay?  And that's why you jumped  face first into a glass wall?  No, it all happened so fast,  but essentially, I thought,  if it was gonna happen, I didn't want to be standing.
+So, I crouched, because  If you wanna shit yourself,  you'd rather be crouching than standing?  Yes.
+I mean, if you had to.
+I hate to say this, but I follow you.
+The thing is, when I crouched, I had to burp.
+But since I was all, you know, tucked up,  I actually vomited a little.
+And then, that's when my fight-or-flight reflex kicked in.
+Do you ever fight?  Okay, fine, then my "or flight" reflex kicked in and I just  - Pow.
+- Yeah.
+Okay.
+Well, what we saw was a very oily man  in mid-sentence dip down,  vomit, and then thrust himself violently  face first into a glass wall.
+But I guess it's a lot less embarrassing  the way you explain it.
+Richard, what about  Did you evacuate in your pants?  Oh, no, uh, good news.
+I think what happened when I hit the glass,  I sort of shocked myself.
+Now, I don't have to.
+That's actually kind of disappointing,  because, like, no closure.
+Well, on the bright side, it'll be that much easier  to get you cleaned up and back out there.
+What? I have you scheduled for three more days of orientation.
+No way.
+Cancel them.
+There's no way I'm going back out there.
+Especially after knowing what they saw.
+No, fuck it.
+Plus, I'm I'm way too busy, so.
+Gentlemen, could we have the room please?  - So we can leave? - Sweet.
+Richard, look out there.
+There's Optimoji and Sliceline t-shirts left and right.
+These are conquered soldiers still in their old uniforms.
+But we need everyone here to be Pied Pipers.
+I mean, you're asking them  to spend the primes of their lives on your vision.
+Right? And you need to go out there and lead them.
+They're they're yearning for inspiration.
+I can't do inspiration.
+I'm a coder.
+Look there, the new Internet.
+That's inspiration.
+Use that.
+Richard, this is all an idea.
+And people don't wanna follow an idea,  they wanna follow a leader.
+Look at the last guy to create a new Internet.
+Al Gore.
+His ideas were excellent,  but he talked like a narcoleptic plantation owner,  so he lost the presidency to a fake cowboy  and now he makes apocalypse porn.
+Look, the point is, you need to lead with passion.
+When you set your mind to it,  you're one of the most charismatic people I've ever met.
+And I have met Ira Glass.
+I know it's three days we could be working,  but ultimately, a unified team will save us time in the end.
+You wanna save time?  If you wanna save time, here's what you do.
+You said it yourself, okay, the Optimoji guys  and the Sliceline guys are separate,  with their own separate histories,  their own separate shorthands,  so let's use that.
+Let's give the scheduler to the Optimoji guys,  and the server-less runtime to the Sliceline guys.
+Then we have Dinesh and Gilfoyle and  the Stallions, they do the integration.
+Boom, we're off and running.
+How about that?  That way, no one has to shit or burp or puke  or get a nosebleed in front of anyone.
+SCOTT: As for the bezel design, our young aesthete, Dang,  has once again spun gold.
+Let's see it.
+Wait, my signature's not on it?  How could it be the Gavin Belson Signature Box III  without Gavin Belson's signature on it?  Well, the word "signature" has a handwritten feel to it.
+Why is my signature not on this?  Gavin, there was a slight issue with your signature.
+What issue?  Do you have a mock-up? Pull it up.
+Ah, yes! There.
+What's wrong with that?  Well, reactions to this from our testing groups were mixed,  so we contacted a handwriting expert.
+And, uh, well  Jean, do you have the report?  Absolutely.
+Pleasure to be on your team, Gavin.
+Here it is.
+"The signature displayed troubling traits.
+"Left of upright slant,  "narrow angles, tense strokes,  conclusively indicative of sociopathic tendencies.
+"  - What? - "Characterized by  "a lack of empathy and need to dominate,  "a willingness to hurt others to achieve one's goals.
+Inability to accept bad news"  - Hoover? - HOOVER: Sir?  Get this horrible woman the fuck out of my office, now.
+DINESH: What the fuck is that?  It's the cheapest thing I could find  that qualified as an electric vehicle.
+I found it on Craigslist.
+Now you get to park on the fifth floor.
+Enjoy the drive.
+Oh, and you were right  it does feel good to be a part of the green revolution.
+Oh, yeah? Well, does that "vehicle" have "Insane Mode"?  One press of a button  and I go zero to 60 in 3.
+2  What a day.
+See, we'd still be finishing up orientation,  singing Kumbayas and doing trust falls.
+But instead,  both our Optimoji and Sliceline teams  have gone through their first code review.
+Well, to be fair, I never would've scheduled trust falls.
+I mean, you do one of those, you're so jacked up on adrenaline,  the rest of the day is basically shot.
+We were gonna have a noncompetitive talent show with no losers.
+Not possible.
+Dick, I just got in and checked the commits.
+Are you aware that the Sliceline guys  have been encoding time in nanoseconds,  as we usually do,  but the Optimoji guys have been using milliseconds?  What?  Just the fact that we're still calling them  Sliceline guys and Optimoji guys  is sending up all sorts of red flags.
+And I don't even mean the word "guys,"  which I just learned is a micro-aggression.
+It's fine, "guys.
+"  I will get them to re-factor their code.
+We're still ahead of where we'd be  if we were doing some kind of talent show.
+Richard? Gilfoyle parked his electric pile of trash  in my Tesla's spot.
+Do you think that's fair?  Not now, Dinesh.
+Why can't you guys switch to milliseconds?  Why do we have to change?  Sorry, well, our entire code base uses nanoseconds.
+And you didn't think it was important to tell us this?  No, well, I mean, it was  It was part of the orientation that was scheduled,  which had to be,  for numerous reasons, uh, canceled.
+And I'm sorry about that, I know it sucks.
+If I could make it suck less, I would, but  You could get some decent coffee in here.
+What? What's wrong with  Philz Coffee? That's high-end Joe, bro.
+At Optimoji, we had Stumptown brought in every day.
+So that would inspire you? Different coffee?  Inspire us?  You know what? Bup, bup, bup!  Stumptown it is.
+You got it.
+And you'll tell your guys about the nanoseconds?  Yeah.
+Unless you wanna  get up in front of everyone and announce it yourself.
+No, no, no, I'd rather you  That was a joke.
+Your speech was a disaster.
+Oh.
+[LIGHT CHUCKLE.]
+Yeah.
+[IMITATES HITTING WALL.]
+[CHUCKLES.]
+[IMITATES VOMITING.]
+You know.
+Yeah.
+It was really bad.
+I know.
+Okay, Mr.
+Jian, you have petitioned this court  to become the sole executor  of the estate of Erlich Bachman, is that correct?  Yes.
+I see you've got all the paperwork, here.
+Yes.
+Errich Bachman is dead.
+Oh! Um  Mr.
+Jian, there's absolutely no need  to display the deceased remains.
+You can put that away.
+- I have it.
+- Yes.
+Please put it down.
+Errich Bachman is cremated  into ashes.
+And I put it in bucket.
+Put it down, sir.
+[BUCKET THUDS.]
+Now, have you determined  to a reasonable degree of certainty  that Mr.
+Bachman has no living next of kin?  No wife, children, parents,  no brothers, sisters,  nieces, nephews, grandparents,  children from a predeceased spouse  or domestic partnership?  No.
+He died alone.
+He's a very sad man.
+So, I have a  a house and a 10% Pied Piper.
+In the absence of any next of kin,  I will approve you as the sole beneficiary  and the official executor of Mr.
+Bachman's estate.
+But, before you can distribute any of his assets  into your personal possession,  you are required to settle all claims against the estate.
+Do you understand?  So I get a house and a 10% Pied Piper?  You need to pay all of his outstanding bills.
+How much do I have to pay?  Well, these debts can sometimes be substantial.
+Would you characterize Mr.
+Bachman  as a financially responsible man?  Hey, Sliceline guys, what's up? Heh.
+So  wanted to talk to you guys about something.
+Past couple days,  the Optimoji guys have really stepped up their game,  but, um, you guys  have kind of been flagging.
+I'm just wondering if everything's all right.
+Yeah.
+Great.
+Just nice to know where we stand.
+- Sorry? - We get it.
+You only acquired Sliceline because you wanted Optimoji.
+What? [LAUGHS.]
+No, wrong.
+Uh, why would you say that?  I didn't.
+You did,  when you chose their coffee over ours.
+It's bad enough we can't have Slice here.
+Slice?  The beverage?  No, no.
+Slice was our mascot.
+He's really smart.
+Okay, well  Bring the little guy in.
+What about the no dog policy?  What no dog policy, huh?  Really? Are you sure you don't need to check with Optimoji?  I'm pretty sure, but, uh  Danny? Dan man?  Uh, I just was wondering  if you're cool if the Sliceline guys  - brought in their dog.
+- He's really smart.
+Well at Optimoji, we had a no dog policy.
+Come on.
+Don't be such a dork.
+[CHUCKLES.]
+Let 'em have it.
+It's just a dog.
+Sure.
+Fine.
+You're the CEO.
+Yes, I am.
+All right.
+And from this point on,  CEO stands for Canine Endorsement  Oh yeah.
+[CHUCKLES.]
+All right.
+Hey, look at you and your 10-speed.
+Aw, you got up early 'cause you thought you could take my space.
+That's cute.
+Almost as cute as your bike.
+Yeah, I guess this is a bike, isn't it?  So I get to use the bike lane.
+See you later.
+No, bikes still have to follow traffic laws!  That's not fair!  All right.
+You wanna get insane?  Let's get insane.
+- Whoa! - [CAR REVS.]
+[DINESH LAUGHING.]
+Fuck you, Gilfoyle!  - [SCREAMS.]
+- [TIRES SCREECH.]
+[METAL CRASHING.]
+[RATTLING.]
+Something's wrong with your frunk.
+It's all frucked up.
+Hey, Tesla!  You know where Pied Piper is?  [DOGS BARKING.]
+Right here, guys.
+What the fuck?  - [URINATING.]
+- [ELECTRICITY SPARKS.]
+Dick?  Hey, uh  - Explain.
+- Okay, uh  So, Optimoji had a no dog policy  and apparently that's because every single one of 'em  have a fucking dog.
+And when we waived our no dog policy  You waived our no dog policy?  I had Jared put that in there for a reason, Richard!  In Pakistan, dogs are not pets, okay?  They're vicious beasts  and they chase you down the street  and they bite you.
+My cousin Eftahar lost an ear.
+Our mayor was very corrupt.
+But he put poison pills in chicken meat  to take care of the dog problem.
+We hailed him as a hero.
+We put up statues of him everywhere.
+He's gonna be okay.
+Who's gonna be okay?  What? Stallion down?  He's violently allergic to dogs.
+It's another reason for our iron-clad no dog policy.
+Jared, when were you planning on telling me all of this?  Day two of orientation.
+Right after safe space charades.
+So look, we'll pay for your entire medical bill, obviously.
+So, you're good.
+You're covering his deductible?  Then you have to cover ours, right?  And what about the dogs? They're people, too.
+They're literally not.
+They're dogs!  Hold strong.
+[SCREAMS.]
+Fuck you!  [DOG WHIMPERS.]
+- Oh.
+- So  Jared, uh, you wanted me to unite the teams and I have.
+They are united against me.
+Even the dogs, apparently.
+I wish they had your fecal fortitude.
+Hey, do me a favor and  [DOGS BARKING LOUDLY.]
+just take care of all the dogs.
+And then call an all-hands.
+I've clearly gotta say words.
+Ooh, okay.
+Really didn't wanna be back up here, again.
+And I think we all remember why, you know?  But you probably don't know this, but I almost sh  They don't need to  Farted.
+Yeah.
+Which would be embarrassing.
+Anyway, look, uh  I know I  should be the inspiration for you guys,  but to be honest, that's not really who I am.
+And if this company lives or dies  by all the flowery things I say,  well then, to be honest, we're fucked.
+Ha.
+They say that  people don't follow ideas.
+But I think in this case, you guys should.
+Because  the idea of creating a new Internet,  that's special.
+Right? And we've been given the opportunity  to rewrite  the most important thing in human history.
+And we can build it  the way it should've been made all along.
+You know, not this shitty, addictive parasite  that companies like Hooli use to spy on us  and exploit us.
+Okay?  There.
+That's your inspiration.
+Not me.
+Not coffee.
+Not dogs.
+So  if I'm not inspirational enough for you,  and if you don't wanna be here,  well, then, there's the door.
+And we'll give you enough severance  to cover you to your next job.
+But if you wanna stick around and build this thing,  then we've got work to do.
+[CLEARS THROAT.]
+[WHISPERS.]
+Great job.
+So what's going on? I hear footsteps.
+Are are people sitting back down, or?  Okay, they're picking up their bags.
+That could be good.
+Okay.
+So, what, they're leaving, or?  A few are.
+Okay, what's a few?  It's more than a few.
+What's that mean? Like, what's more than a few, five?  Double digits?  JARED: It might be easier to say how many are staying.
+It's, uh  It's two.
+What?  RICHARD: Okay.
+So, uh,  Richard, what What do you wanna do here?  What are you talking about? I'm doing it.
+- Sorry? - I'm a coder, Jared.
+So I'm gonna code.
+And if I have to build my entire new fucking Internet by myself,  [VOICE BREAKING.]
+I'll do that, so  Oh, dear.
+I like it.
+It's just so edgy.
+Banksy is a very edgy artist.
+The edgiest.
+GAVIN: What is this?  Banksy is insisting his signature be on his work.
+This is supposed to be my signature.
+On what planet does a signature have a signature on it?  I'm afraid it's non-negotiable.
+The fucking balls on this egomaniac.
+You know what? Fuck Banksy.
+We're on a campus full of literally thousands  of the greatest creative minds in the world.
+Let's just crowd source it with our employees.
+We'll make it a contest.
+People will feel empowered and part of the team.
+And it won't cost us shit.
+You see? This is what a benevolent leader does.
+Make it happen.
+Sir, is this a good time?  It's a great time.
+I just fired Banksy.
+Banksy, the vandal?  The very one.
+Now, what do you have for me?  Good news.
+I'm hearing that Pied Piper is in a free-fall.
+- From whom? - All I can say without implicating you  is that I've instituted an operation  to safeguard our interests.
+I'm calling it "Project Washburn.
+"  What I'm planning to  Hoover, you're implicating me.
+[DOOR CLOSES.]
+Are we bad people for leaving Richard there to work by himself?  We've been coding for 48 hours straight.
+I could give a shit about deontological ethics.
+Yang.
+There better not be a Chinaman in my bed.
+That is racist.
+Yes.
+I am racist.
+Stupid Errich.
+Big mortgage.
+Seven credit cards.
+Not even one with miles.
+Fucking loser.
+It almost not worth to take his house from him.
+Fat fuck.
+Speaking of crazy bills,  you know how much it's going to cost to fix my Tesla?  $17,000.
+I can't afford to pay that.
+But I can't afford not to pay it.
+If I don't fix my Tesla,  Gilfoyle wins.
+And I need to really shove it up his ass.
+Wait.
+Do I really hate someone so much  that defeating them is worth more than money?  Is that really what I've become?  Yeah, it is.
+I'm gonna pay it.
+Thanks, Jian-Yang.
+I'll pay, too.
+Fuck you, Errich.
+You can't just leave your bike-car  in my Tesla's spot and Uber home.
+That's not fair, Gilfoyle.
+Mmm, you don't seem to understand.
+It's my spot now.
+[KEYBOARDS CLACKING.]
+What are they doing back?  Hey.
+Where have you been?  Sleeping.
+[DELIRIOUS LAUGHTER.]
+What? All night?  We assumed you guys were right behind us.
+What's happening?  Oh!  Something.
+Something is happening.
+When you left, I thought he was fried.
+Okay? Because his shoulders were all tight,  and he wouldn't answer to his name,  and his eyes went dead,  like when I tell him I love him.
+But then, he just got stronger  and he started picking up speed,  so I texted a few of the Sliceline guys  and then they texted some of the Optimoji guys,  and they all wanted to see it.
+Richard has finished the scheduler  and is almost ready to merge  the server-less runtime.
+Look, look!  GILFOYLE: He implemented all those tasks?  By himself?  That was supposed to take the whole team four days.
+[LAUGHING.]
+It's amazing.
+I mean, I feel  I feel like Mary Magdalene on resurrection day.
+And that's not the greatest miracle of all.
+Look.
+Look at the coders.
+They're all wearing Pied Piper hoodies.
+He pushed another commit.
+DINESH: What the fuck?  Flawless.
+Right?  Um, it takes a while to read a whole commit.
+They've been cheering after every commit.
+I mean, they haven't, but it's  It's great.
+RICHARD: I thought I had to shit my pants.
+So, I crouched.
+I actually vomited.
+[RETCHES.]
+Fight-or-flight reflex kicked in and I just  [GLASS CRASHES.]
+[SCREAMS.]
+JARED: Richard!  MAN: Richard?  Richard?  Hey, buddy boy.
+- [STEADY BEEPING.]
+- Oh, there he is.
+What's what's going on?  Don't flip out, okay?  But you have been in a coma for four years.
+What?  That's correct.
+In fact, I'm a robot.
+The real Dr.
+Crawford died heroically  in the water wars of 2020.
+Jokes, Richard! [LAUGHING.]
+I'm just joking around.
+What, did you sell your sense of humor?  - [LAUGHING.]
+- [MUMBLING.]
+You've just been out for about six hours.
+You were not even unconscious, really just asleep.
+But you did lose a whole lot of blood.
+I just hope they put the right kind back in.
+[STAMMERING.]
+Wait, are you still riffing?  I don't know.
+[LAUGHING.]
+Richard, here's the bad news,  your arms and your torso  took the brunt of the glass.
+If you'd cut your face up some,  we could've gotten insurance to pay for a whole remodel.
+Gotta, you know  give the old schnozzle a much-needed trim,  you know what I'm talking about.
+You gotta hate it as much as everybody else.
+So what happened? What were you,  trying to ride one of those hover boards  around your office like a nincompoop?  Um, no.
+I I guess I just got a little lost in the work.
+[BANGING.]
+[SIGHS.]
+All right.
+Hop in, Frankenstein.
+Let's get you out of here.
+Oh, uh  I think what you're trying to say is  Frankenstein's monster.
+What?  I think you mean to call me Frankenstein's monster  'cause Frankenstein is the  Oh, you're one of those guys, huh?  No, I'm just the doctor's name is Frankenstein  I know.
+It's just an annoying thing to point out.
+If you want people to like you,  just go along with what they say and have fun.
+RICHARD: What?  JARED: Richard!  You should've called.
+I would've picked you up.
+What's everybody doing here?  The fuck does it look like?  We're working.
+Look at 'em all, Richard.
+I mean, sure, a three-day orientation  might've been just as effective and less bloody,  but it wasn't you.
+But you found your own way  to get these men and women, these Pipers, to follow you.
+You looked at these people and you said,  "I may not be an inspiring speaker.
+"I may be twitchy,  "and I might be strange,  "and I might vomit and I might defecate in my pants  "and I might throw myself through a window.
+"But I believe in this company so much,  I'll work so hard, I'll literally risk my life for it.
+"  And that is the kind of leader these people wanna follow.
+Because now they know nothing is gonna stop you.
+All right, then.
+Gavin Belson's office, please?  I need to talk to Hoover.
+It's Jeff Washburn.
+Yes, thank you.
+This one came in third with 46 votes.
+Cute.
+Next?  This one came in second with 374 votes.
+Nice, feels solid.
+And with 9,986 votes this,  by far, was Hooli's favorite.
+GAVIN: Hmm, I like it.
+It's bold.
+Gavin B.
+[DOOR OPENS.]
+Mr.
+Hoover? You have a phone call.
+He said you'd know what it was regarding.
+A Mr.
+Jeff Washburn.
+I am so exhausted.
+But the backseat of my Tesla's  - really comfy though, right, Richard? - [KEY RATTLING.]
+Definitely worth all the money I'm spending on it.
+Good purchase.
+- [LOCK RATTLING.]
+- Not a mistake.
+Uh  my key doesn't work.
+Uh, let me try mine.
+[LOCK RATTLING.]
+What the fuck?  Mine doesn't work either.
+Yang.
+Move.
+Do you have a app idea?  No.
+Sorry.
+Errich is gone.
+This is my incubator now.
+What?  Your things are over there.
+RICHARD: What the fuck?  DINESH: You just took our shit and threw it on the lawn?  Gilfoyle,  you are racist.
+And Richard  you are ugly.
+The Errich administration is over.
+- What? - What the fuck?  You can't just kick us out, Jian-Yang.
+Sorry.
+You are victims of a circumstance.
+Thank you.
+Jian-Yang.
+What the fuck?  GILFOYLE: Why does the whole neighborhood smell like bacon?    Have no place to go   Have no place to go, darling   Have no place to go   Darling   Have no place to go   Have no place to go, darling   Have no place to go   Have no place to go, darling   When that train roll up now   I come walking out   Come walking out, out, out   When that, that train roll up now   I come walking out   Come walking out
+
