@@ -1,0 +1,657 @@
+1  anything you want to tell us?  I respect you all?  MAN: "AT&T and YaoNet close deal".
+Wow.
+Bombshell.
+-  (INTENSE MUSIC PLAYING)  - Our network's slowing down because  YaoNet's here, and they're attacking us.
+LAURIE BREAM: We did not come here to attack you, simply  in order to see how you got PiperNet to work,  which it turns out you did not.
+Pied Piper does not scale.
+Worthless piece of  - (DRONE BUZZES) - I don't need to use Gilfoyle's A.
+I.
+in order to improve middle-out.
+I need to use middle-out to create a new A.
+I.
+BERTRAM GILFOYLE: Holy shit.
+Our network overhead must've massively shrunk.
+It worked.
+It It It It happened.
+(YELLS) We did it!  PILOT: And out of the left side, you can see  I don't know what that is.
+(DINGS)  (MUSIC CONCLUDES)      (SMACKS LIPS, CLEARS THROAT)  Should I look at the (CLEARS THROAT) camera or you?  DOCUMENTARIAN: You can just talk to me.
+Can you introduce yourself?  Sure, yeah.
+Um  (LOUD, DISTORTED): Uh, my name is Richard Hendricks,  - and I'm the - DOCUMENTARIAN: Could you ?  - My name is Richard Hendricks.
+I'm, uh, -   - the founder and CEO of Pied Piper.
+-   I think like most people, I first heard about  - Pied Piper at TechCrunch Disrupt.
+-   - (AUDIENCE CHEERING) - Middle-out was a game changer.
+- (SCREAMS) - ANNOUNCER: The winner of this year is Pied Piper.
+What you have to understand is conventional compression  - was like rubbing two sticks together.
+-   And along comes Pied Piper, out of nowhere,  with a frickin' blowtorch.
+Well, we had really just started  um, a few months earlier,  and like a bunch of other Silicon Valley companies,  we were just working out of a garage.
+Or a house, really.
+- DOCUMENTARIAN: Nice place? - No.
+DINESH: It was like a shit hole,  but there was so much shit in it,  - it was filled all the way up.
+-   - So, it was, like, level with the ground.
+-   If that's true, there was a little meniscus  - in the shit, and that's where -   our dreams lived.
+Not the kind of house you wanna take your shoes off in.
+- Yeah, just fuckin' smelled really bad.
+-   - It was all right.
+-   JARED: Oh, I was the sloppy girl  in the discotheque, just twirling and twirling  like the night would never end.
+Jian-Yang won the house from me in a game of chance.
+He told me to pick a number between one and 10.
+I picked seven, um, but it was three.
+Eh, you live, you learn.
+We had knocked around for a few years,  trying different iterations of what we wanted to do.
+It was at RussFest when things really got crazy for us.
+- (LAUGHTER) - DINESH: It was so much money.
+So much.
+Yeah.
+Times were good.
+- (ROCK MUSIC BLASTING) -   (DINESH SINGING)  Millionaire   Uh, DJ Mad Evil,  could we cut the music for a second?  - (MUSIC STOPS) -  Millionaire   I have a surprise for everybody,  and, um,  (LAUGHING): suffice it to say,  I think that everyone here is gonna want a slice  of this moist and scrumptious cake.
+We're gonna take a bite in three,  (LAUGHS) two  Richard's in the cake!  - JARED:  one.
+- Fuckin' Gabe.
+- Surprise! - (RATTLING)  (LAUGHING)  Wait a second! What's going on with the cake?  (RATTLING, GRUNTING)  - Push from your thighs.
+- (RATTLING)  - Oh God, are you okay? - RICHARD: Fine.
+- Handle broke.
+- Oh.
+- Doesn't matter.
+Oh, sorry.
+- I was right.
+Oh, don't worry about it.
+- Don't worry about it.
+It's fine.
+- Pictures  RICHARD: Okay, everybody.
+I'm here to tell you  that it has all been worth it.
+- Woo! - Uh,  because today,  it finally happened.
+We just shipped  the final build  of the PiperNet firmware for AT&amp;T's  nationwide launch next week!  (CHEERING)    What the fuck? Is that beer?  No, you're not drinking that piss.
+We drink my piss!  - Tres Comas! - Oh.
+RUSS: I just bought  all the Pied Piper shares  that some dentist in Phoenix had.
+Oh, no way.
+My dad's a dentist in Phoenix.
+Well, hopefully he's not an asshole like this guy.
+- BIG HEAD: Yeah, that would suck.
+- We could be talking  Cuatro Comas!  Drink up, you fucks!  (CHEERING)  (MUSIC PLAYING)  - No, no, no, just stop.
+Just stop.
+- (GAGGING)  How does he make it look so difficult?  Millionaire   Trillionaire   Another? Oh boy!  (PARTY CHATTER)  Hey! There you are.
+I, uh, got you something.
+Oh, Monica.
+(CHUCKLE)  "Leaving AT&amp;T.
+Just dotted the I's, crossed the T's,  and every single detail is perfect".
+- I sent this to you last week.
+- Yeah, and as soon as you did,  I knew I had to frame it.
+Well, I mean, I had my assistant frame it, but you know.
+It's really awesome.
+Although  Are you sure this is what I sent to you?  - Yeah.
+Why? - Okay.
+No, here.
+Huh.
+That's weird.
+Oh, it's because It's actually kinda funny.
+- Um, I'm not sure if you - JIAN-YANG: Richard, congratulations.
+It's your very close friend Jian-Yang,  and I would like you to give me free shares  of Pied Piper.
+(CHUCKLE) Okay, Jian-Yang.
+Uh  Well, you had plenty of opportunity to invest.
+- Still do.
+- Yeah, you can buy Pipercoin.
+Monica, two men are talking business.
+You can find your broom and fly away.
+Suit yourself.
+I just checked the ledger, and the coin  we issued to Erlich was just sold for $20 million.
+Richard,  is the mean lady right?  Errich is now fat and rich?  Uh, yeah, I guess.
+Where is he?  I don't know.
+Tibet still, maybe.
+Okay.
+Tibet.
+Okay.
+- RICHARD: Huh.
+- DOCUMENTARIAN: So, at this point,  steaming into the launch, you had no idea  - what was about to happen.
+- No.
+No, none.
+None whatsoever.
+Everything was going  great.
+DINESH: What the fuck is wrong with Richard?  Why does he wanna see us so early?  Well, he's been here all night.
+He wouldn't explain, but he is in a bit of a state.
+- Hey, Richard? - (MARKER SQUEAKING)  Richard, they're here.
+Oh, great.
+Yeah.
+Sit, sit.
+Sit, sit.
+- DINESH: Why? - Just find a seat.
+- Richard, what's wrong? - RICHARD: I don't know.
+Maybe nothing.
+Maybe something.
+Look, here, I wanna show you something.
+Um  You see? Okay.
+So, uh,  this was a message I sent to Monica last week.
+She had it framed for me as a gift.
+Oh, I was gonna get you a gift, but, um,  it was back-ordered, so it's coming next  Look at the dots.
+Count the dots.
+- Dots? - The dots! Look, look.
+"Every single detail is", dot-dot-dot, "perfect".
+Okay?  There are three dots in that ellipsis,  which is the correct number of dots.
+However,  in the message that I sent her,  there are  four dots, which is incorrect.
+Thus, not perfect.
+It was a joke.
+- Was it? - Yes.
+Was and is.
+(LAUGH)  Okay, well, uh, I didn't change your joke, Richard.
+That's what I got.
+Three dots.
+(LAUGH)  Wait, is it three dots that's funny or is it four?  RICHARD: Four, four, four.
+That's what I sent her, four.
+But our messaging is encrypted.
+So,  how did what I send, four dots,  end up as three dots in her feed?  Data corruption, bit flip,  - just a fluke.
+- Yeah, sure.
+Yeah, that's what I thought.
+So, then I checked the logs, read the math.
+The total size of all sent messages  should be the same as the total size  of all received messages, right?  But it's not.
+The received messages are smaller.
+How? How is that possible? Unless  our network  is compressing the content  of encrypted files in transit.
+And the only way that is possible  is by bypassing encryption.
+- Well, that's impossible.
+- RICHARD: I agree.
+It makes no sense,  but don't you think we should figure this out before launch?  Richard, don't do this.
+Not now.
+We launch in four days.
+The TV spots are already running.
+We're not jeopardizing billions of dollars  because you're missing a dot.
+Should I get everyone in here to start working on this?  - Well - GILFOYLE: We're beyond that.
+The others can't help us now.
+Jared, bolt the doors.
+What's in the bag?  Clif bars and a gun.
+GAVIN BELSON: (SIGH) May I be honest?  There was a period of my life in which  I would've rooted for the failure of Richard Hendricks.
+That was a different Gavin Belson.
+That was  - tech icon Gavin Belson, -   not literary icon Gavin Belson.
+Since leaving Hooli, I've co-authored  37 adult romance novels.
+Fondly, Margeaux.
+The Lighthouse Dancer.
+Cold Ice Cream and Hot Kisses.
+Over here, The Prince of Puget Sound.
+Uh, and lastly, His Hazel Glance.
+All international best sellers.
+Uh, G-Gavin.
+A moment, please.
+(SIGH)  I'm so sorry.
+A moment.
+GAVIN: The fuck is your problem?  ROD MORGENSTERN: You said that this would be an hour.
+GAVIN: Well, we're just running a little over.
+ROD: Yeah, with the lights, and the machines,  and the sound equipment,  how is this ever gonna be an hour?  GAVIN: You're acting hysterical, all right?  We'll have plenty of time to write this  ROD: Yeah, you know what? You know what?  Do your your little interview.
+I'll just write the book myself, okay?  GAVIN: Well, if you could you would, but you can't.
+You're stuck with me, and I'm stuck with you.
+ROD: Whoa, whoa, whoa  That's what Florian says to Claudette  outside the cheese cave!  - GAVIN: Oh my God! That's our third act! - ROD: Third act!  - GAVIN: Yes! Okay, go, put the kettle on.
+- ROD: Yeah.
+I'm terribly sorry.
+I'm gonna have to cut this short.
+Thank you for coming.
+When Richard told me about the dots last night,  initially, I dismissed it as the ranting  of a self-sabotaging idiot.
+But a few hours later when I woke up  in a stall in the second story men's bathroom,  I realized something.
+That you're an alcoholic?  Perhaps, but high-functioning.
+Much like our network.
+To wit  (TYPING)  Our internal messaging, based on HooliChat,  uses a weak encryption standard  known as P-256.
+Whether Richard believes it or not,  our network cracked it.
+Who allowed it to do that?  GILFOYLE: We did, when we gave it one job.
+To make itself more efficient.
+It developed a general solution  to discrete log in polynomial time.
+What?  JARED: Okay, is this a good thing  or a bad thing? Someone tell me how to feel.
+Abject terror for you.
+Build from there.
+GILFOYLE: Once launched,  our AI will keep learning to break  more and more sophisticated parameters.
+Ultimately, this will mean the end  of privacy.
+Electrical grids,  financial institutions,  the nuclear launch codes  for every single nuclear weapon.
+All will be exposed.
+Pure violence will become  the only basis of power.
+Spare us the apocalyptic desert planet  sci-fi bullshit, Frank Herbert.
+Uh, Frank Herbert was a writer who wrote a series of  I know who fucking Frank Herbert is.
+Oh.
+I'm sorry.
+Was that gendered?  - That was gendered.
+- RICHARD: Okay, Gilfoyle.
+Even if everything you're saying is right,  and that's where we're headed,  there's gotta be a way to fix it.
+Fix what, Richard? The network is doing  exactly what we told it to do.
+The AI is optimizing the compression  and the compression is optimizing the AI.
+Everything that makes it successful  is exactly what makes it dangerous.
+It's a feature, not a bug.
+No (SCOFF), no, no.
+Okay, no.
+What are we gonna do about it?  What do you suggest we do about it?  You're gonna make me say it, aren't you?  Fine.
+We built a monster.
+We need to kill it.
+- DINESH: Fuck.
+- Are you out of your mind?  No, no, no, no, no, Gilfoyle.
+We didn't build a monster, first of all.
+We built the single greatest  fucking network, ever, in the world.
+That's the big one.
+And I'm sorry, you wanna kill it?  Now? Now? Now?  We are inches away from the finish line.
+You wanna fucking kill it?  We did it, man! We built it! It works!  It just needs a little help! We just gotta fix it, okay?  We don't kill it!  That's crazy, man! Kill yourself is the thing.
+Fuck you.
+I mean  that's crazy.
+When people ask me about Pied Piper,  I always tell them the same thing.
+- (SOFT GRUNTING) -   Are there other questions?  Uh, yeah.
+Can you elaborate?  Mm yes.
+(QUIET PRISON CHATTER)  Will you?  Ah  Hmm  (SIGH)  Save it, Jared.
+I'm not in the mood for a pep talk.
+You know, if I learned anything from my time with Gwart,  it's the power of just listening.
+Fucking Gilfoyle.
+Shut it down? Are you fucking kidding me?  Throw everything away that we've been working toward?  Not to mention the fact that we have a contract  worth billions of dollars.
+Yeah, that's a lot of money.
+And what about all the other stuff we're gonna do?  I mean, give internet to underserved communities,  students in the homework gap, refugees, genomic research.
+Pied Piper can help scientists cure cancer.
+- And cancer is bad.
+- Cancer fuckin' sucks!  "Hey, I'd like some cancer, please".
+No.
+And we have this beautiful baby,  who is a little sick  But, apparently, it's now the devil,  and we have to kill it.
+I vote we take it to the doctor, but fuck.
+I had a foster mother who thought I was the devil  and that she had to kill me.
+And I think it was pretty traumatizing for her.
+And th-the odds  of Gilfoyle's stupid crazy  doomsday scenario actually coming true are  I mean, we've had a nuclear arsenal for decades,  and we're fine.
+I mean, outside of a couple  substantial blips.
+Two in particular.
+I'd say we're safer.
+The real killer is stress.
+Okay, sure, fine.
+Oppenheimer famously said he regretted  building the atom bomb and died in despair,  but what the fuck does that have to do with anything?  Oppenheimer.
+What a self-obsessed little bitch.
+What are we supposed to do, huh? What are we supposed to do?  Fucking Gilfoyle.
+We'll just call up AT&amp;  and say that our network is so good  that it'll eventually become some doomsday device,  and we have no moral option but to destroy it  before we let you release it? I mean  We're not doing it! We're not.
+- We're not.
+- Hey, Richard.
+Whatever you think is best, that's what we're gonna do.
+I mean, they just put up the billboard.
+She's a beauty, right?  Fu ! Sorry, guys.
+- Gilfoyle's right.
+- Seriously?  We're seriously doing this? We're canceling the launch?  Well, no.
+Uh, ha, that's not enough.
+Our network is dangerous.
+If we cancel it or shut it down,  then others will try to copy  or reverse engineer everything that we've built.
+It's like  It's like the four-minute mile.
+Everybody thought it was impossible,  until someone did it,  and then everybody started doing it  because they knew it could be done.
+JARED: Right.
+Roger Bannister.
+Now, imagine he'd gone into cardiac arrest  and evacuated on himself and died.
+And as he lay there with his prolapsed anus  peeking beneath the running shorts on his newly dead body,  the crowd jeered and grimaced.
+That is what has to happen to us.
+We have to shit ourselves to death.
+Mm-hmm.
+Mm-hmm.
+He's right.
+Our launch has to fail, publicly  and spectacularly.
+Are you dumbfucks listening to yourselves?  Because I am,  and you are dumb.
+And fucks.
+Gilfoyle is willing to destroy everything we've built  just to prevent me from having money!  (BEEPING)  Interesting.
+Is that Dinesh's Tesla?  What?  - There's no one in it.
+- GILFOYLE: Correct.
+You have the Tesla mobile app on your phone,  which communicates over the Pied Piper network.
+A few hours ago, I tasked said network  with providing me your TLS encryption key,  which it just gave me.
+To verify that that key was correct,  I decided to autodrive your car  to the car wash on El Camino.
+It appears the key was correct,  - no? - (REVVING)  Be careful, Charlotte.
+What encryption does Tesla use?  Curve 25519,  the most secure  discrete log parameter there is.
+Not anymore.
+Our network just blew it apart like a prolapsed anus.
+In only two hours and 47 minutes.
+- The prosecution rests.
+- MONICA: Okay, Dinesh,  they're right.
+We have to fail,  and it has to look like an accident,  or else we could all go to prison.
+- No, I cannot do it.
+- GILFOYLE: Of course you can.
+Your entire life has prepared you to publicly fail.
+You're just failing to see that right now.
+Don't insult me.
+I can fail circles around you losers.
+But will I?  I'm gonna be honest with you.
+No offense to me,  but I am greedy and unreliable,  bordering on piece of shit.
+If there is a chance  to stop you guys from stopping you guys, I will do it.
+I will sabotage your sabotage.
+So, if this company needs to fail  epically, like fucking fail  you need to do it without me.
+Revoke my permissions.
+Delete my PiperMail account.
+I will use Gmail like a fucking basic bitch.
+(SIGH)  Don't let me anywhere near that launch.
+I may beg, and I will lie to you.
+I cannot bribe you because I don't have any money.
+But I am too much of a liability.
+That is the most courageous act of cowardice I've ever seen.
+All this because of a fucking dot.
+Dinesh's car is at the Wendy's drive-thru.
+Anybody hungry?  They call it PiperNet,  and it's coming to your phone.
+Tomorrow at noon, the Pied Piper app will go live  on the latest 5G-equipped iOS and Android phones  in 10 major cities across the country.
+AT&amp;T says, if things go as planned, PiperNet could be  on more than a half billion devices within a year.
+And no one is more excited than technology super fans,  - like the ones behind me - (CHEERING)   who are camping out all night to snag  a limited edition Pied Piper-equipped smartphone.
+If their enthusiasm is anything to go by,  then a lot more people may soon be lining up  to pay the piper.
+(LAUGH)  I'm Jim Gittman, KCTW.
+All right, thanks, everyone! Appreciate y'all! Okay!  (LAUGHING) I see you! I see you!  (SIGH)    Hey, does anyone want a bear claw?  I just bought too many at the store,  so I'm going around giving them away if anybody wants  - a bear claw or a cruller - Whoa.
+You got one of the Pied Piper ratjacks made?  Wait, there's a cool nickname for the jackets?  Yeah, you even got Dinesh embroidered.
+Oh, he's my favorite, too.
+Wait.
+Oh my God.
+Holy shit!  Dude, it's Dinesh!  - Yeah, Dinesh.
+I'm Dinesh Chugtai.
+- (CHEERING)  I'm the cofounder of Pied Piper,  in an original ratjack.
+GIRL: I can't wait for tomorrow!  Don't worry about tomorrow! Today!  - Fuck tomorrow! - GIRL: Uh,  - can I get a selfie? - Yeah, yeah, yeah.
+- Okay, thank you! - Here we go.
+(EXCITED CHATTER)  WOMAN: I am Pied Piper.
+- I am Pied Piper.
+- I am Pied Piper.
+MAN: I am Pied Piper  - Are we set? - Locked and loaded.
+The script I wrote will push a new build  from the supernode at the office the second you step on stage.
+No one here will see it.
+When we go live,  all the nodes should start broadcasting noise  across common communication bands,  jamming cell signals, knocking out Bluetooth,  and fucking up every GPS unit for miles.
+- Good.
+- Yeah.
+They'll force us to shut it down  then it'll all be over.
+Good.
+Yeah.
+Good.
+(SIGH) Fuck.
+Richard? We're about to start.
+Yeah, let's go.
+Okay, here we go.
+I am Pied Piper.
+- (MUSIC PLAYING)  - I am Pied Piper.
+- DEEP VOICE: I am Pied Piper.
+- (CHATTER)  Hi.
+Uh, my name is Dinesh Chugtai.
+I wanna make sure I am not on the list for the launch today.
+Chugtai.
+Um I don't see your name here.
+Okay, that's great.
+Oh, uh,  could you also make sure there are no VIP lists I might be on?  Chugtai.
+Spelled how it's pronounced.
+- WOMAN: Okay.
+Uh - "Chu",  and then "gtai".
+No, not here either.
+Oh, and these security guards?  Are they your best guys? Like, will they stop me?  Would they fuck me up?  - I'm sorry, we - Thank you so much.
+That's exactly the response I was looking for.
+I feel very confident I will not be getting into  the launch today.
+Thank you for not helping.
+Don't let me through.
+We are Pied Piper!  (APPLAUSE, CHEERING)  Woo!  - Yes, hello.
+Uh - (APPLAUSE DYING DOWN)  I am Richard Hendricks, founder and CEO,  and I am thrilled to welcome you all  to the official launch of Pied Piper.
+(APPLAUSE, CHEERING)  (MICROWAVE HUMMING)  (BEEPING)  (WEARABLE CHAIR RATTLING)  (COOLING FANS WHIRRING)  - Hey, John.
+- Yeah.
+Here's your hot water.
+Okay.
+Hey, Gabe?  There's something weird here.
+What is it?  The code they're about to launch  it isn't the build we shipped.
+Someone just pushed a new build.
+Hey, John?  JOHN: Yeah?  That's a mistake.
+We should change it back to the right code.
+Okay.
+RICHARD: Fast and powerful.
+Sounds a little bit like you, Andre Iguodala.
+- Yes! - ANDRE: That's right, Richard Hendricks.
+And as a member of the NBA's all-defensive first team,  I know a little something about cybersecurity.
+Would you say that Pied Piper is your MVP?  "Most valuable phone"?  - Yeah, I would.
+- (CROWD CHEERING)  GABE: Uh, hey, Dinesh?  Gabe, what are you doing here?  You weren't answering your calls or texts,  so I came here from the office.
+So, um, a weird version of the software, uh  was put online, so, uh  So?  So, I reverted it to the version we shipped.
+Oh, I have the original weird one here  There's some photos of me in Hawaii.
+So, this was the version that was about to be deployed,  then you switched it,  and now we're about to launch the older version?  Yes.
+So, if I do nothing,  absolutely nothing  - Nothing? -  the "correct" version  of the network would launch?  Uh, what do you mean by when you do that?  - Just stretching my fingers.
+- Oh.
+ANDRE: But before I go, can you tell me,  who let the dogs out?  ("WHO LET THE DOGS OUT?" BY BAHA MEN PLAYING)  Who-who-who-who-who?   (AUDIENCE CHEERING)  Damn it! Okay, go.
+Thank you.
+GILFOYLE (VOICEMAIL): Leave a message.
+Also,  - fuck you, Dinesh.
+- (ANGRY GRUNT)    The supernode on the roof.
+(DOOR OPENS)  (SIGH)  ("ATOMIC DOG" BY GEORGE CLINTON PLAYING)  (APPLAUSE, CHEERING)  Give it up for Menlo Bark!  Weren't they fetching?  Fucking hell, who wrote this shit?  - (JARED LAUGHS) - (APPLAUSE)  I  Guys! Comma.
+We have a huge fucking problem!  Period.
+Fucking Gabe  reverted to the old build!  Exclamation point, exclamation point!  - (PHONE BUZZING) - (INDISTINCT SPEECH)  I got a group text from Dinesh.
+"Guys, come on.
+Fun king games  pervert Oldsmobile"?  - What? - Okay, so I've  shown you our  decentralized universal data exchange,  our tamper-proof storage.
+I've shown you that you, and you alone,  will control your personal data and your identity.
+(CLEARS THROAT)  All  All of us here at Pied Piper have worked  so hard on this.
+We have given six sleepless,  brutal years to this project,  and I am  so proud of what we've done.
+Uh, so my mentor  - (MUSIC PLAYING) -  the late Peter Gregory, uh,  put us on the path to what we've created here.
+He called it,  "the internet we deserve".
+We have fought every step of the way  to bring you the greatest network  ever made, ha.
+And in, uh  five minutes, 42 seconds,  that fight is over.
+(GASPING)  - (PANTING) - (VENTS RATTLING)    (SCREAMING)  (GASPING)    (GASPING CONTINUES)  (TYPING, BEEP)  - (BEEP) - GILFOYLE: Son of a bitch.
+- (GASPING) - GILFOYLE: Dinesh, you fucking terrorist,  what the fuck are you doing?  (GASPING)  Are you jerking off?  Or did you do one push up?  Quit being a fucking bitch.
+JOHN F.
+KENNEDY: Let me then make clear  that I am determined upon our  - (SPEECH CONTINUES) - (PHONE BUZZING)  NEIL ARMSTRONG: That's one small step for a man,  one giant leap for mankind.
+Hello?  Dinesh is where?  - RICHARD: Tell him to fuck off.
+- You tell him.
+It's me! I'm here.
+I'm merged and I can hear you.
+- (BEEP) - GILFOYLE: Hold on.
+- MONICA: Hey.
+- GILFOYLE: We're all merged in.
+Richard, you are doing a great job.
+Jared, shut up.
+Richard, turn around.
+I'm behind you.
+Dinesh says that Gabe reverted us back to the prior build  from the supernode at the office.
+I cannot verify this because I'm not at a supernode.
+I'm across the stage from you, as you can see.
+But Dinesh is.
+He's on the roof.
+He wants me to give him back his permissions to deploy.
+DINESH: So I can push out the right build.
+The wrong The build, guys!  The build we talked about! The build that  saves the world, but makes me poor!  Question is, do we believe him?  In fairness, there are a lot of reasons not to trust him,  such as he told us not to trust him.
+- DINESH: Believe me! - But do we trust that?  DINESH: For once, I wanna do the right thing!  GILFOYLE: Richard, I'm gonna need an answer.
+- I don't have much time.
+- The fate of the world literally relies on this.
+Richard, it's time.
+- Come on! - Okay.
+- JARED: Richard, we need an answer.
+- Ladies and gentlemen, we are at  LAWRENCE/AUDIENCE: Ten, nine,  eight,  seven, six  - Fuck it.
+Dinesh, you're in.
+-  five,  -  four - Oh.
+three,  two, one!  LAWRENCE: Ladies and gentlemen, Pied Piper network  - (APPLAUSE) -  is officially live!  - (CHEERING) - (FIREWORKS)  The balloons are falling.
+Is that a good sign or a bad sign?  Uh  (MUSIC BLASTING)  The app is now available!  (CHEERING CONTINUES)  - LAWRENCE: We did it! - MONICA: Where are you guys?  Communications should be going haywire.
+Are they?  I can still hear you, so phones must be working.
+Traffic is moving, so GPS must be working.
+He's right.
+GPS says I'm here, standing next to you,  which seems to be accurate.
+Dinesh, you fucked us.
+No, he didn't.
+We are generating noise.
+- Oh, okay.
+Sorry, Dinesh.
+- DINESH: You're good.
+I'd expect me to fuck us, too.
+Problem.
+We haven't raised the noise far enough  to drown out even Bluetooth.
+Okay, so we're generating noise,  but just not enough to interfere with anything?  DINESH: Is this gonna work? Did we just make billions of dollars?!  This wouldn't be happening if we had had time to test things.
+- Fucking kidding me? We failed at failing? - (DOGS BARKING)  Wait, why are they barking?  - (BARKING) - GILFOYLE: Oh shit.
+Think we might be creating interference that's causing  the speakers in the phones to resonate.
+And that's what bugging the dogs?  No.
+Dogs shouldn't be bothered by that frequency.
+Well, then, what the fuck are they barking at?  (WOMAN SCREAMING)  (MUSIC STOPS)  (CROWD SCREAMING)  LAWRENCE: Please, ladies and gentlemen, please stay calm!  Don't panic!  (SQUEAKING)  (SCREAMING CONTINUES)  Dear sweet mother of God.
+What have we done?  - (SCREAM) - EMILY CHANG: In a fairy tale turned nightmare  come to life, thousands of rats streamed onto the streets  - of San Francisco today.
+- REPORTER: Pied Piper's phones broadcasting  intense ultrasonic sounds  that began repelling the rats.
+The streets of Seattle became the streets of Sea-rat-tle,  and everyone was sleepless.
+Giants fans going home happy today  as the Cubs go down swinging to the  - Holy shit! - (SQUEAKING)  They're calling it "Rat-mageddon".
+Yeah.
+Except in New York, where they're calling it Wednesday.
+- (LAUGHTER) - (MUSIC)  They literally became the Pied Piper.
+I mean, you can't make that up.
+ROD: Yeah, maybe you couldn't  but I could.
+Oh, for fuck's sake.
+When you think about a lot of the failures in tech  Pets.
+com, Theranos, WeWork  Pied Piper really is right at the top of that list.
+Pied Piper is just a millstone around AT&amp;T's neck!  I say dump it! Dump it now!  I lost so much fucking money with those guys.
+- I got rat-fucked.
+-   That's a pun.
+I made it all back though.
+Sweet investment  in the hair transplant sector.
+What?  Rats, ah, yes, we have some of them here.
+Figuratively.
+They are dealt with.
+And so, effective immediately,  I am shutting down Pied Piper,  deleting its code repositories,  and liquidating its remaining assets.
+All right.
+That's our statement.
+We will not be taking any further  Can I just say that I am just  truly, deeply sorry.
+Uh, this should never have been built.
+It is technically flawed to its very core.
+And we should all remember that  forevermore.
+Sorry.
+(REPORTERS SHOUTING QUESTIONS)  Obviously, Mr.
+Hendricks doesn't mean that in any  legally binding or actionable way.
+Get a life, guys.
+It's weird.
+It really seemed like Pied Piper was going to work.
+Something doesn't add up.
+DINESH: So, I did the right thing,  I helped save the world,  my legs are still super sore,  and my reward is that I'm poor.
+What are you gonna do?  Not sure.
+Been thinking about teaching  No, not you.
+Oh, uh  I think I might disappear for a bit.
+Maybe travel.
+Yeah, I might travel, too.
+Where were you thinking?  It may help if, at least for the time being,  you pretend to be mad at me.
+Look, Richard, I was a world theater minor at Vassar,  but that is one Javanese shadow play that I cannot perform.
+(PAPER TEARING)  (SIGH) Come on, guys, let's cheer up.
+I mean, we set out to build  the best thing ever built, and that's what we did,  right?  We succeeded.
+And who can say  that they literally saved the world?  - Right? - Not us.
+'Cause we can't tell anyone what we did.
+Right.
+Not out loud, but  - You know.
+- Silence is on brand for me.
+Good luck, Dinesh.
+(GLASS BREAKS)  GILFOYLE: On the bright side  I found another box of these.
+RICHARD: Well, uh  I was, I was a little bit embarrassed, ha.
+Uh, so I just, uh,  went off the grid for a bit.
+I-I-I traveled.
+I went to Tibet, actually, to try and find Erlich,  but, uh, he was gone.
+And then, I came back,  but no one really wanted to hire the guy behind Pied Piper.
+Uh, however,  my best friend did hire me,  and now I am the  Gavin Belson Professor  of, uh, Ethics in Technology at Stanford University.
+BIG HEAD: My name is, uh, Nelson Bighetti,  and I'm the president of Stamford.
+Stanford.
+You graduates have a lot of responsibility.
+Finishing the important work of movements such as  "pound Met double zero",  and "title icks".
+DOCUMENTARIAN: So, I think I know, but-but why do they call you Big Head?  Oh, yeah, just, you know,  boys being boys.
+Making fun of my,  my big old dome.
+DOCUMENTARIAN: It's not because your last name is Big-hetti?  I'm the cofounder of Newell Road Strategic Technologies,  one of the largest cybersecurity firms in the Bay Area.
+I am the cofounder of  Newell Road Strategic Technologies,  - one of the largest cyber - I literally just said that.
+-  security firms - I just said that.
+- You heard me say that.
+-  in the Bay Area.
+Things are better when I say them.
+Plus, they're definitely going to edit you out.
+If they're not gonna use it, why would they use it? That has  Why don't you tell them how you bought the house next to mine  - because you love me so much.
+- Okay,  fuck you.
+How's it going, guys?  Meeting time.
+- GILFOYLE: We have a meeting.
+- DINESH: Mandatory.
+What do I do now? I, uh, I work for  a non-profit in DC.
+It's a it's a think tank, and-and we just  think about stuff, you know.
+DOCUMENTARIAN: So, the NSA.
+(LAUGHS) The NSA? No, no, no.
+Farthest thing from the NSA.
+(CHUCKLE)  God.
+The NSA.
+That's  That's a really weird question to ask.
+- (MUSIC PLAYING) - JARED: Okay, Jell-O.
+- I love working with the elderly.
+- One, two, one, two.
+It's like I get to have a bunch of parents  and also be their parent.
+No! No, no, no! Martin, Martin!  She only has eyes for you.
+We were dancing as girlfriends, that's it.
+This fall, we actually had a herpes epidemic  among the residents, which is bad medically, but  from another perspective, it's kind of touching.
+Okay, we're on our way to the hostel.
+(SIGH)  God, I haven't been there in such a long time.
+It was just an  it was an incredible time in my life, you know?  I never really thought that I would have  a group of male friends.
+You know, men just seem kinda mean and hard, but  these guys were as sweet  and soft as rotten fruit.
+You got your book?  Prince of Puget Sound?  (LAUGHING): Oh, Judy!    Hey, man.
+Hey, man.
+You okay?  Yeah.
+I haven't seen you in forever.
+I saw you last weekend.
+(INDISTINCT GREETINGS)  You look great.
+JARED: Is that  is that a woman's scent?  No, it's unisex.
+Big Head?  Hey, Nelson.
+I work a lot with people who have dementia,  and I just want you to know,  it doesn't have to be a horror show.
+Oh, cool.
+- Well hey, we're all here.
+- GILFOYLE: Let's go.
+Let's go see Jian-Yang, heh.
+(STRUGGLING)  - You okay? Richard! - RICHARD: Fine.
+(KNOCKING)  Uh (CLEARS THROAT), hi there.
+Is, uh,  is Jian-Yang here?  Does he live here? We're we're all old friends of his.
+No, I'm sorry.
+I bought the house years ago from his estate.
+MONICA: Estate?  I'm sorry to be the one to tell you this,  but Jian-Yang's dead.
+Uh  Okay, so he's dead.
+What do we do?    It's different, but also the same.
+Hey, Gilfoyle.
+That's your horrible corner.
+It looks much better now.
+Changed a little bit.
+They fixed my hole.
+- (IMITATES KICK) - (CHUCKLE) Don't do it again.
+No, I wouldn't.
+Obviously.
+I was emotionally charged.
+Oh, the drapes.
+Oh, that's a playful linen.
+- Hi.
+I used to live here - GIRL: Hey.
+back when I was poor.
+- Cool.
+- No offense.
+None taken, I guess.
+- President Bighetti? - Whoa!  - How did how'd you know my name? - I go to Stanford.
+Oh, no way! I work at Stanford.
+- I'm the president.
+- Yeah, I know.
+What are you doing here?  Um, I don't know.
+I think 'cause Jian-Yang died?  - I'm not sure.
+- Who's that? Okay.
+So weird we're all back here.
+Except for Jian-Yang because he's dead.
+And Erlich.
+Has anyone talked to Erlich?  Nope.
+No.
+But wherever he is,  I hope he hasn't blown through all that money.
+He definitely has.
+Yeah, I'm sure he has.
+(JEEP RUMBLING)  DOCUMENTARIAN: We're looking for Erlich Bachman.
+In the other village, they said that he was here.
+Is-is Erlich Bachman here?  - (FOREIGN LANGUAGE) - He's here? He's that way?  (CHATTERING IN FOREIGN LANGUAGE)  - It's up here? - (CHATTERING) Erlich Bachman!  (INSECTS, ANIMALS CHIRPING)  So, this is Erlich Bachman's house?  - Erlich Bachman! - Fantastic.
+(MUFFLED MUSIC PLAYING)  We're just here to see Erlich Bachman.
+Hello?  - (KNOCKING) - Hello?  (MUSIC STOPS)  Whoa, whoa, easy, easy.
+We're-we're friends.
+Are you Erlich Bachman?  JIAN-YANG: Yes.
+I'm Errich Bachman.
+- I can show you ID.
+-   That's my face.
+I was a-fat,  but now, I'm a-not fat.
+I'm sorry, this is supposed to be you?  (INHALES, EXHALES)  I have an idea.
+- (WHISTLING) - DOCUMENTARIAN: Okay, whoa, whoa, whoa  I'm making the world a better place through  an intelligent, semi-autonomous agent,  powered by distributed, DNA-based compute  that automates personal planning and scheduling.
+Oh, bots.
+Sounds like an atrocity.
+Let's just hope you have better success than we did.
+Oh, what company did you have?  - Oh, here we go.
+- (CHUCKLING)  Uh, Pied Piper.
+DINESH: Yep.
+I'm unfamiliar  DINESH: Rat invasion  JARED: We we were a big failure.
+Eight billion dollar valuation,  down to zero in one day.
+Was that, like, a social media company?  - DINESH: What? Pied Piper.
+- GILFOYLE: Are you fucking with us?  Thank you guys so much for your time.
+JARED: Hey, guys.
+Guess what I accidentally brought in my bag.
+- Oh, no way.
+- (LAUGHS)  - Whoops.
+- (LAUGHTER)  - RICHARD: We know this thing.
+- DINESH: Wow.
+I need a beer if we're gonna do this.
+(FUMBLING)  JARED: Richard, be careful.
+- Can I do it? - ALL: Always blue!  Always blue! Always blue! Always blue! Always blue!  Always blue! Always blue  (LAUGHTER)  - Okay.
+- ALL: Always blue.
+Always blue! Always blue!  Always blue!  Always blue! Aah!  RICHARD: Regrets? Uh  No.
+No, I'm-I'm happy.
+DOCUMENTARIAN: And you don't, you don't feel bad  that you never got to  make the world a better place?    Uh  I think we did okay.
+I  actually could, um  I I still have it.
+One copy of the  Pied Piper codebase.
+I have it on a thumb drive.
+I could show it to you.
+We won't  - look into it, but, um - (OPENS DRAWER)  I just wanna show it to you.
+(RUMMAGING)  It's just got a couple things on there that I think  I, honestly, this was like when  we were coding the best we ever were,  so some pieces of this thing are  - sheer elegance.
+- (OPENS DRAWER)  I wish I could show it to everybody  because I wanna show it to my students.
+Not my class, but another  - I know it was in the desk.
+- (RUMMAGING)  Okay, this is weird.
+- (BANGING) - Shit, okay.
+Where is it?  (RATTLING)  It's or it's orange.
+It's this big.
+It's just a thumb drive.
+So, is anyone have any of your crew seen it or anything?  I mean right here.
+- That's insa - (RUMMAGING)  I had the  It's gotta be in the desk.
+DOCUMENTARIAN: Is it a problem?  Um, no, not a problem.
+Um  It's just pretty fascinating.
+Although  if it isn't here  where is it?
+

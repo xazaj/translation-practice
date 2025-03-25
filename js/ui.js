@@ -260,8 +260,8 @@ function jumpToPage() {
   window.scrollTo(0, 0);
 }
 
-// 显示提示消息
-function showToast(message, type = 'info') {
+// 显示Toast提示
+function showToast(message, type = 'info', duration = 3000) {
   // 检查是否已存在Toast
   let toast = document.querySelector('.toast');
   
@@ -283,15 +283,21 @@ function showToast(message, type = 'info') {
     toast.classList.add('show');
   });
   
-  // 3秒后自动隐藏
-  setTimeout(() => {
-    toast.classList.remove('show');
+  // 如果设置了持续时间，定时关闭
+  if (duration > 0) {
+    // 3秒后自动隐藏
     setTimeout(() => {
-      if (document.body.contains(toast)) {
-        document.body.removeChild(toast);
-      }
-    }, 300);
-  }, 3000);
+      toast.classList.remove('show');
+      setTimeout(() => {
+        if (document.body.contains(toast)) {
+          document.body.removeChild(toast);
+        }
+      }, 300);
+    }, duration);
+  }
+  
+  // 返回toast元素，以便调用者可以手动关闭
+  return toast;
 }
 
 // 显示答案弹框

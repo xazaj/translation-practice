@@ -8,33 +8,57 @@ const { questions, currentPage, pageSize } = store.getState();
 // 加载默认题库
 async function loadDefaultTxtFile() {
   try {
-    // 尝试从data目录加载第一个TXT文件
-    const response = await fetch('data/Peppa Pig Season 1.txt');
+    // 获取default目录下的所有txt文件
+    const defaultFiles = await loadDefaultDirectoryFiles();
     
-    if (!response.ok) {
+    if (!defaultFiles || defaultFiles.length === 0) {
       console.log('没有找到默认题库文件，加载示例题目');
       loadDefaultQuestions();
       return;
     }
     
-    const content = await response.text();
+    // 合并所有文件内容
+    const mergedQuestions = [];
+    let fileNames = [];
     
-    // 处理文件内容
-    const questions = processFileContent(content);
+    for (const file of defaultFiles) {
+      try {
+        const content = await fetch(file).then(res => res.text());
+        const questions = processFileContent(content);
+        
+        if (questions && questions.length > 0) {
+          // 标记来源
+          questions.forEach(q => {
+            q.source = file;
+            mergedQuestions.push(q);
+          });
+          
+          // 收集文件名，用于标题显示
+          const fileName = file.split('/').pop().replace(/\.(txt|TXT)$/, '');
+          fileNames.push(fileName);
+        }
+      } catch (error) {
+        console.error(`加载默认题库文件失败: ${file}`, error);
+      }
+    }
     
-    if (questions.length > 0) {
+    if (mergedQuestions.length > 0) {
       // 更新页面标题
-      document.querySelector('.header-content').textContent = `中英翻译练习 - Peppa Pig Season 1`;
-      document.title = `中英翻译练习 - Peppa Pig Season 1`;
+      const titleText = fileNames.length > 1 
+        ? `中英翻译练习 - 默认题库(${fileNames.length}个文件)` 
+        : `中英翻译练习 - ${fileNames[0]}`;
+      
+      document.querySelector('.header-content').textContent = titleText;
+      document.title = titleText;
       
       // 更新状态
-      store.setState('questions', questions);
+      store.setState('questions', mergedQuestions);
       
       // 渲染问题
       renderQuestions();
       
-      console.log(`已加载默认题库: Peppa Pig Season 1 (${questions.length}题)`);
-      showToast('已加载默认题库: Peppa Pig Season 1', 'success');
+      console.log(`已加载默认题库: ${mergedQuestions.length}题`);
+      showToast(`已加载默认题库: ${mergedQuestions.length}题`, 'success');
     } else {
       // 如果解析失败，加载默认示例题目
       loadDefaultQuestions();
@@ -46,29 +70,70 @@ async function loadDefaultTxtFile() {
   }
 }
 
-// 处理文件内容
+// 获取default目录下的所有txt文件
+async function loadDefaultDirectoryFiles() {
+  try {
+    // 获取list.txt文件内容
+    const response = await fetch('data/list.txt');
+    
+    if (!response.ok) {
+      console.error('无法读取list.txt文件');
+      return [];
+    }
+    
+    const content = await response.text();
+    const lines = content.split('\n').filter(line => line.trim() !== '');
+    
+    // 找出所有default目录下的.txt文件
+    const defaultFiles = [];
+    
+    // 跳过第一行(通常是'.')
+    for (const line of lines.slice(1)) {
+      // 确保行以.txt结尾且包含默认题库目录
+      if (line.endsWith('.txt') && line.split('/')[0] === '1.default') {
+        // 构建正确的文件路径
+        const filePath = `data/${line}`;
+        defaultFiles.push(filePath);
+        console.log(`找到默认题库文件: ${filePath}`);
+      }
+    }
+    
+    console.log('找到默认题库文件列表:', defaultFiles);
+    return defaultFiles;
+  } catch (error) {
+    console.error('读取default目录失败:', error);
+    return [];
+  }
+}
+
+// 处理文件内容为问题列表
 function processFileContent(content) {
   // 按行分割
-  const lines = content.split('\n');
+  const lines = content.split('\n').filter(line => line.trim() !== '');
   
-  // 解析每一行
-  const questions = lines
-    .filter(line => line.trim() !== '') // 过滤空行
-    .map(line => {
-      // 使用|分割英文和中文
-      const parts = line.split('|');
+  // 提取问题
+  const questions = [];
+  
+  lines.forEach((line, index) => {
+    // 将行分割成中英文部分
+    const parts = line.split('|');
+    
+    if (parts.length >= 2) {
+      // 格式化: 删除多余空格
+      const english = parts[0].trim();
+      const chinese = parts[1].trim();
       
-      if (parts.length >= 2) {
-        return {
-          en: parts[0].trim(),
-          zh: parts[1].trim(),
-          userAnswer: '',
-          showHint: false
-        };
+      if (chinese && english) {
+        questions.push({
+          id: index + 1,
+          en: english,    // 使用en字段以匹配UI.js中的字段名
+          zh: chinese,    // 使用zh字段以匹配UI.js中的字段名
+          userAnswer: '', // 用户答案
+          showHint: false // 是否显示提示
+        });
       }
-      return null;
-    })
-    .filter(q => q !== null); // 过滤无效行
+    }
+  });
   
   return questions;
 }
@@ -413,6 +478,9 @@ document.addEventListener('DOMContentLoaded', function() {
   window.jumpToPage = jumpToPage;
   window.handleFileUpload = handleFileUpload;
   
+  // 初始化键盘导航功能
+  initKeyboardNavigation();
+  
   // 尝试从本地存储加载答案
   const savedAnswers = loadAnswersFromLocalStorage();
   if (savedAnswers && savedAnswers.length > 0) {
@@ -461,4 +529,80 @@ function saveUserAnswer(index, answer) {
   
   // 保存到本地存储
   saveAnswersToLocalStorage(updatedQuestions);
+}
+
+// 初始化键盘导航
+function initKeyboardNavigation() {
+  // 监听全局键盘事件
+  document.addEventListener('keydown', (e) => {
+    // 获取当前激活的元素
+    const activeElement = document.activeElement;
+    
+    // 检查是否是文本输入区域
+    const isTextInput = activeElement && 
+                        (activeElement.tagName === 'TEXTAREA' || 
+                         activeElement.tagName === 'INPUT' && 
+                         activeElement.type === 'text');
+    
+    // 如果不是文本输入框，直接返回
+    if (!isTextInput) return;
+    
+    // 获取所有答题输入框
+    const inputFields = Array.from(document.querySelectorAll('.answer-input'));
+    
+    // 如果没有找到输入框，直接返回
+    if (inputFields.length === 0) return;
+    
+    // 找到当前输入框的索引
+    const currentIndex = inputFields.indexOf(activeElement);
+    
+    // 如果当前元素不在答题输入框列表中，直接返回
+    if (currentIndex === -1) return;
+    
+    // 处理向下箭头键
+    if (e.key === 'ArrowDown') {
+      e.preventDefault(); // 阻止默认滚动行为
+      
+      // 如果不是最后一个输入框，则移动到下一个输入框
+      if (currentIndex < inputFields.length - 1) {
+        const nextInput = inputFields[currentIndex + 1];
+        nextInput.focus();
+        
+        // 将光标移至文本末尾
+        if (nextInput.value.length) {
+          nextInput.selectionStart = nextInput.selectionEnd = nextInput.value.length;
+        }
+        
+        // 平滑滚动到下一个问题
+        const questionElement = nextInput.closest('.question');
+        if (questionElement) {
+          questionElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }
+    }
+    
+    // 处理向上箭头键
+    if (e.key === 'ArrowUp') {
+      e.preventDefault(); // 阻止默认滚动行为
+      
+      // 如果不是第一个输入框，则移动到上一个输入框
+      if (currentIndex > 0) {
+        const prevInput = inputFields[currentIndex - 1];
+        prevInput.focus();
+        
+        // 将光标移至文本末尾
+        if (prevInput.value.length) {
+          prevInput.selectionStart = prevInput.selectionEnd = prevInput.value.length;
+        }
+        
+        // 平滑滚动到上一个问题
+        const questionElement = prevInput.closest('.question');
+        if (questionElement) {
+          questionElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }
+    }
+  });
+  
+  console.log('键盘导航功能初始化完成');
 }

@@ -1,0 +1,471 @@
+1 I am about to sit down with AT&T,  trying to close this massive deal,  but that all depends on getting Hawaii right.
+And you would rather do Hawaii than RussFest?  I would rather do my own mother  than RussFest.
+I've made myself the CEO of YaoNet,  which I'm moving back to the US.
+Son of Anton, it's the name I've given our new inference API.
+He can do whatever he wants.
+I call for the attorney general of the state of California  to launch an immediate investigation  of my conduct as CEO of Hooli.
+Enjoy the injunction, thumb ass.
+Don Delarenta, the AG of California, is gonna do  - what I tell him to do.
+- Why?  'Cause I have dirt on him.
+You ready to dump Hawaii and join RussFest?  DINESH CHUGTAI: It's beautiful.
+Boom!  RICHARD: And upon entering RussFest,  each attendee will be given  a PiperNet enabled smartphone,  which will give them access to secure messaging,  social, voice, Internet  So boring, right?  You see the new logo? Huh?  Huh? Check.
+One, two, three.
+Tres Comas Tequila.
+My brand.
+Dollar sign.
+Billionaire.
+Russ.
+Fest!  RussFest.
+Right.
+No, yeah, it's-it's gonna be good.
+- Uh - Yeah, it's gonna be great.
+Yeah.
+Well, uh, anyway, uh  Crazy Town's gonna be there.
+So is Puddle of Mudd.
+You know Puddle of Mudd?  No.
+Fucking Puddle of Mudd! Dude, listen.
+(SINGING ALONG): Everything is so blurry   And everyone's so fake   And everyone is empty   And everything is so messed up   Right? Yeah, you know Puddle of Mudd.
+Awesome.
+This is a good meeting, guys, excellent.
+I gotta jet.
+Bye, guys.
+Cory, where you at, dawg?  We're really excited about the possibility of working with you.
+MICHAEL: Cool.
+(CHUCKLES) Yeah.
+So, uh, what do you, uh  What do you think, Michael? Uh, you and us.
+AT&amp;T, Pied Piper.
+Dealy deal.
+Richard, your tech is impressive,  but we're going with YaoNet, they're a safe bet.
+And by the way, it doesn't seem like  you're telling your people out there what's really happening.
+- Hang on - No.
+Maybe you can do  a deal with someone else.
+You know, there's, uh  - No, no, we can't, Michael.
+- Look,  we already have an agreement in principle.
+Okay, well, if you have an agreement in principle,  you can have a disagreement in principle.
+I'm sorry.
+I'm very sorry.
+Michael, I'm sorry that you're missing out on this opportunity.
+Honestly, I walk everyone to their car.
+Yeah.
+What can we do to sweeten the pot?  You know? Oh, we could add cashless transactions.
+What if everything is handled on the phone?  Right? You use it to swipe into parties  - or VIP areas - Richard,  this is done.
+- Okay? - What about holograms?  Okay, this is your last chance.
+Are you in or out?  (TIRES SCREECH)  - RICHARD: Fuck! - That appears to imply out.
+Fuck.
+Fuck it.
+Fucker.
+- Cockfucker.
+- Richard, people in there  have been working themselves half to death for weeks  for no pay.
+This is not going to go over well.
+I'm gonna wait out here while you go in and tell them.
+I'm not gonna say anything.
+If I keep my mouth shut,  then there's still a chance at snaking the YaoNet deal.
+But if I tell everyone in there what's really going on,  we won't make it to RussFest, and we'll be dead.
+- Is that what you want? - That's a fair point.
+That's what I thought.
+Okay.
+(CLAPS)  Let's get back to work.
+Let's go.
+If this comes out, I'll cover your ass if you cover mine.
+If what comes out?  - My man.
+- No.
+(THEME SONG PLAYING)     (SIGHS)  Oh!  (CHUCKLING)  Dodgy gadin, my merry knights of Piper.
+Sir Owen,  doing valiant battle with the authentication service.
+Yes, good.
+Yeah.
+Oh, and prithee, Becky,  my queen,  how goeth cashless payments?  Russ's pricing keeps tripping us up.
+- Okay, how so? - Well,  this morning, he decided everyone at RussFest  should be a billionaire,  so every dollar someone puts into their account  will now be worth one billion RussBucks.
+Zwoons!  So, what, like a sandwich will be worth  15 billion RussBucks or something?  Fourteen billion, nine hundred and ninety-nine million,  nine hundred and ninety-nine thousand,  nine hundred and ninety-nine RussBucks  and ninety-nine RussCents,  because he thought that would sound cheaper.
+It's kind of screwing up the interface,  but the whole AT&amp;T deal is riding on this, right?  We'll get there.
+Good.
+Okay.
+Excellent.
+Well, uh, code like the wind, my lady.
+(CHUCKLES) Yeah.
+Ho, ho! Good Friar Gabriel.
+How dost thou fair with the ticketing module? (GRUNTS)  It's gone.
+What do you mean gone?  For some reason, Gilfoyle deleted the whole thing  - a few minutes ago.
+- What?  Yeah.
+- Gilfoyle? - Yes, Richard.
+I'm aware.
+The drone dispatching code has been deleted,  and I'm working very hard to restore the right version.
+Whoa, whoa.
+Drone code?  Gabe just told me that the ticketing module got deleted.
+Ticketing, too?  Fuck, that's problematic.
+I'll get on that next.
+What the fuck is going on?  Based on the amount of work left to do  and the number of hours left before the festival,  I decided to task Son of Anton  to use machine learning to debug some of our code.
+What? Gilfoyle, are you fucking kidding me?  You gave your AI permission  to overwrite code in the internal file system?  - Were you gonna tell me about this? - No.
+I thought that was the company policy  - these days.
+- Okay, well,  your AI just failed, epically.
+That's unclear.
+It's possible that Son of Anton decided that  the most efficient way to get rid of all the bugs  was to get rid of all the software,  which is technically and statistically correct.
+But artificial neural nets are sort of a black box,  - so we'll never know for sure.
+- DINESH: Hey, Richard.
+Did you order meat? Like a bunch of meat?  Like 4,000 pounds of meat?  Interesting.
+I put Son of Anton on finding us cheap hamburgers for lunch.
+It looks like the reward function was a little under-specified.
+Okay, from now on, Son of Anton is banned.
+Just write code like a normal human fucking being, please.
+DINESH: Hey, Gilfoyle.
+So, I've been thinking about your AI,  and its many deficits.
+I think Son of Anton's issue  might be how it's handling reward uncertainty.
+Your issue may be insecurity,  masked by false bravado and unisex cologne.
+Fuck off.
+It's not unisex.
+(SNIFFS)    Hey, um, Richard?  I was curious if you had a moment to clear the air.
+Is this about Holden?  No.
+Holden's a bitch and he quit.
+No, I-I wanted to talk to you  about the Gwart-shaped tension between us.
+You know, she and I worked very closely together,  and now she's working for YaoNet.
+She's, essentially, the enemy,  so it would be fair for you to have concerns.
+I have no concerns.
+Okay, good.
+Because I don't think about her, you know,  or if she's hungry or cold right now,  or if she's still giving most of her income to Rand Paul.
+Richard!  Check it! Okay.
+Hologram question.
+You told AT&amp;T that the hologram would be interactive, right?  - Yes.
+- See, asshole?  My hologram can 100%  dry hump festival-goers from behind.
+If they ask for it.
+Hashtag woke.
+All right.
+Let's go!  Spidey jump.
+Ticketing's running smoothly.
+Mobile purchasing seems stable.
+That's good.
+- Russ.
+Hey.
+- I fucked up, Richard.
+Why did I make one dollar worth a billion RussBucks?  I mean, everyone wants to be a billionaire,  but they didn't earn it, so are they gonna feel bad  about themselves? Why would I do that?  I guess because I'm an asshole and I wanna have a bad festival!  RICHARD: No, no, Russ.
+Don't worry about it.
+Everything is amazing.
+- Yeah? - Yeah, I tell you what.
+Why don't we see the hologram?  - The hologram's ready? - It's up.
+- Yeah, let's go see the hologram.
+- Okay, come on.
+- This way.
+(CHUCKLING) - Fuck yeah! Fucking hologram!    (NOISY CHATTERING)  (HOLOGRAM HUMMING)  - RICHARD: See? There he is.
+- RUSS: Okay.
+Yeah, that's pretty sweet.
+Fist bump!  Dry hump!  - Double guns! - (CRACKLING)  Wait, what's it doing?  Richard, what the fuck?  Well, uh, uh  Once more people show up,  the network effect will take over,  and it will stabilize, I promise.
+Do you swear? Because one time, I threw a party  and David Copperfield said it was beat.
+Promise me that this will not be beat.
+It won't be beat.
+- Okay.
+Okay.
+- Yeah.
+I know, I know.
+Why did I wear these pants?  Part denim, part leather.
+Pick a lane, Russ.
+Fuck.
+Fuck.
+Fuck, I'm gonna change my pants!  (BEEPS)  RICHARD: Jared, what are you doing? Come on!  Hey, what the fuck is going on?  Russ's hologram is glitching like crazy.
+DINESH: We don't know.
+Everything's lagging:  our apps, third party apps, transactions.
+GILFOYLE: Everything was fine and then the network  started deteriorating.
+We should be way closer to 100% capacity by now.
+I'm running diagnostics, but I haven't found anything.
+Also, this trailer is filled with ants.
+Fucking Gabe.
+I'm sorry, ma'am, I don't know anything  about a Pied Piper girls' coding camp.
+Oh, ask Priyanka.
+That sounds like her bag of bullshit.
+I did, it's not hers.
+I'm sorry.
+You said you spoke to an employee  named Eric Bachman?  Mm-hmm.
+Mm-hmm.
+(WHISPERING): Hey.
+Give me that.
+Hi.
+Does your Eric Bachman  have a Chinese accent?  Okay.
+I tweaked the microwave backhaul antennas.
+Did that make any difference to the  Is there something you wanna tell us?  I respect you all?  (BEEPS)  MAXIMO: Hello.
+I am giving a press conference,  and I am so happy to be in partnership with Ah-Tay-ee-Tay.
+You can surf our decentralized Internet  like Hawaiian surfers can surf the big waves.
+(BEEPS)  Whoa.
+Bombshell.
+Michael must've known they were going with YaoNet.
+Did you know?  You knew,  and you added more features.
+Ticketing, banking, the fucking hologram.
+You've had us on a death march for nothing.
+What? Richard! No.
+- Aah! - (CLATTERS)  (SIGHS) Gilfoyle, you're being awfully quiet.
+- Did you know? - RICHARD: Now look, guys,  these deals never really ever close.
+DANNY: "AT&amp;T and YaoNet close deal.
+"  That seems pretty closed to me.
+My guys.
+How dare you do this to my guys?  Can we just please have this discussion later  because right now, we need to figure out  We? Who's we?  - We're out.
+- Yeah.
+What? Whoa.
+Whoa, whoa, whoa.
+My guys.
+- (CHAIR RATTLING) - Gabe  You can go.
+I'll contact you all later for your exit interviews,  and I'm sorry about the ants.
+Well, at least we all stuck together.
+RICHARD: Okay.
+Look,  all the systems are built.
+I mean, screw those guys for leaving.
+Their loss.
+We can still do this without them, right?  No.
+Unless the three of us  stay up 24 hours a day for three days in a row.
+Fuck.
+Yeah, exactly! Okay.
+All we need to do  is just find the bug that's stalling us and squash it,  just like these fucking ants.
+No sleep for three days straight.
+Sweet.
+- DINESH: Is that Gwart? - Oh, no.
+It's a garbage can.
+DINESH: No, that's Gwart.
+Well, she works for YaoNet,  so what is she doing here?  And why does she have access to the staff only area?  Gwart hates Puddle of Mudd.
+She's a Linkin Park girl.
+You gotta be fucking kidding me.
+Big Head! What the hell is going on here?  - What do you mean? - JIAN-YANG: Who let her in?  I take one lousy shit  Jian-Yang, what is going on here?  All girls coding camp.
+I support woman.
+Mr.
+Eric, I'm finished.
+"This diet cream helped my husband lose weight.
+He was fat fuck.
+Now, he not.
+Fi star, the end.
+"  I wrote exactly like Mr.
+Eric told me to.
+It's very good, Sophie.
+Very good.
+You're using underage girls  as slave labor for a fake Amazon review farm?  Yes.
+And-And you're using the Pied Piper name?  Yes.
+It's okay.
+I have money.
+(SCOFFS)  Girls! Call your parents.
+- JARED: God, that really is her.
+- RICHARD: What the fuck?  It's sabotage.
+Guys, nobody's eating the peyote.
+Will you eat the peyote,  and then that'll break the ice and they'll eat the peyote?  What?  You hate the shorts?  You hate the shorts.
+Fuck it.
+Just look at my fucking legs!  Let's go.
+Go.
+RICHARD: I knew it! I knew it.
+Our network's not slowing down because we fucked up.
+It's because YaoNet's here and they are attacking us.
+Is SlipSox even a real company?  Incorporated a week ago, no website.
+It's a cover.
+It's YaoNet!  Laurie is somehow fucking  with our routing to slow down the network.
+But why would they bother attacking us?  They have the AT&amp;T deal all locked up.
+Unless they don't.
+If she thinks their Hawaii launch might fail,  that would be a reason to try to wipe us out  while they have the chance.
+So, if we can stay alive till YaoNet fucks up Hawaii,  we could swoop in.
+Like a basketball dunker.
+- We're still in this, boys.
+- JARED: All right.
+So, let's boot those meddling bums off of the network.
+Enough of this crap!  Yeah.
+Well, uh, that's impossible  'cause the whole point of a decentralized network  is to prevent a single host from controlling access.
+So dictators can't ban dissidents.
+Right now, there's no way to kill them  or stop them throttling the network.
+This is why things are easier in China.
+China  Don't mess with Pied Piper again, you little fucker.
+- (PHONE VIBRATING) - (SIGHS)  (SIGHS) Hello?  Jian-Yang! Hey!  Hey, uh, what's going on, boss man? (CHUCKLES)  It's, uh, Richard Hendricks, from Pied Piper.
+How's it going, dude?  Very bad.
+My underage girl slaves all left.
+Oh, yeah, totally.
+Bummer.
+Well, you'll find them.
+Anyway, kind of a silly question, um  You know how you stole the Pied Piper source code?  - Yes.
+- Yeah, and then you rewrote it  into what is now YaoNet?  - Yes.
+- Right, um,  did the Chinese government, by any chance,  require you to add a back door?  Yes, I have a SSH key in my house,  - written down.
+- Cool! Wow! Uh (CHUCKLES)  I don't suppose I could get that from you.
+Uh, it's just that Pied Piper's in kind of a jam.
+Yes.
+Pied Piper  Your white witch just shut down my business.
+- (BEEPS) - Oh.
+Okay.
+So?  (PHONE VIBRATING)  Hey, Richard, what's up?    (SIGHS) Fuck.
+Jian-Yang, please.
+- (SIMON GAME BEEPING) - Monica,  for the last five years, you have been horrible.
+You never smile.
+You never kiss me.
+I'll never give you anything you want.
+I hate you.
+Jian-Yang, I need that key.
+This key?  Okay, let's let's just be reasonable.
+- Gimme it! - Shit!  Come on! Fuck!  (BOTH GRUNTING)  - No! Stop! - Oh.
+(GRUNTS)  Oh, my God!  Yikes.
+You and I, we could've run this town,  but you blew it, mister.
+(SIMON GAME BEEPING)  (SINGSONGY): A, four, six, capital G,  two, nine, lowercase J, four, three  Wait, wait, wait.
+Wha-what are you singing?  Is-Is that the key?  Key? No.
+That's just the letters  and numbers that were on that little sheet of paper  that Jian-Yang swallowed.
+Yeah, for some reason, stuff's really like sticking  in my head these days.
+Wait.
+Big Head, Richard needs those letters and numbers.
+Can-can you sing it again?  Uh, sure.
+Yeah.
+- (GAME BEEPING) - (SINGSONGY): A, four, six,  capital G, two, nine, lowercase J  Wait, do you wanna maybe call Richard first,  - and then I could sing it? - Holy shit! Yes! Thank you!  RICHARD (SINGSONGY): Capital M, capital R  that's it?  (LAUGHING): Okay!  Yeah, we're in! It worked!  Thank you.
+Uh, thanks, guys.
+Thanks, Big Head.
+All right, YaoNet, SlipSox,  whoever the fuck you are, you think you can fuck with us?  They hung up.
+- Oh.
+- Yeah.
+- Wait, what the fuck is this? - DINESH: This is YaoNet's server?  Fuck.
+It's a honeypot.
+What, is that a good thing?  No.
+It's not.
+Run the "file" command.
+It's basically a bullshit shell in case  the Chinese government actually used the key.
+It's like a fake storefront.
+Okay, so they have to be running SSH on a different port.
+How do we find the real one?  We could N-map it to check every single one,  but that would take forever.
+Okay.
+Fuck.
+Well,  somehow, we have to find the correct port number.
+Wait, what time is it?  One large artichoke,  extra rare, cup of mayonnaise.
+I see you still take your snack at 3:17.
+I know that SlipSox is YaoNet,  and that you've infiltrated Pied Piper,  and I know that you're here, working with Laurie Bream.
+No, let me finish.
+We didn't end on the best of terms, but  when we were together, I feel like I really saw you,  the real you.
+I saw you, Gwart! I know you!  No, let me finish.
+I have to say this  or I'm never gonna get it out.
+Now, I wish I was asking you to go for a walk with me  or to watch Magic Mike XL for the umpteenth time,  but I'm asking you to give us access to YaoNet,  and not just to save my company,  but to save my sanity.
+Because if I was wrong about who you are,  then I don't know who I am.
+So there you have it.
+I've said all I gotta say, and  it's up to you now.
+I see.
+So,  Pied Piper's network capacity is degrading steadily.
+Hmm, wonderful.
+And their adaptive routing optimization techniques  aren't helping them.
+Hey, guys.
+Um, I'm so sorry  I don't know what you did, but it worked.
+- JARED: What? - Someone just messaged us  the correct port  - to YaoNet's ad server.
+- Yeah!  - (RICHARD CHUCKLING) - Really?  Yep.
+Gilfoyle revoked all their access,  and is removing their app from every client on PiperNet.
+RICHARD: In a couple of minutes, we'll be back up to speed.
+Plus, we cloned their repository,  so we'll just poke around  and see exactly what they're hiding!  It's a big win for the Piper boys.
+(CHUCKLES) So, Gilfoyle,  how much faster is our network now?  Zero faster.
+It's slower,  - and still degrading.
+- What are you talking about?  About how our network is slower and still degrading.
+We're currently at 60%.
+But that's not possible.
+Our network's shit latency  - is slowing down every single purchase.
+- (ANGRY CHATTERING)  Look at the bathrooms.
+The scanner's aren't working.
+RICHARD: Fucking Russ and his pay toilets.
+Okay, we gotta figure this out or there's gonna be a riot.
+There you assholes are!  You guys fucking with me? Did you get my messages?  Uh  Messaging's stalling, too.
+I sent you guys photos of three different outfits.
+Did you hate them all? Wha  What's wrong?  Uh, no.
+Definitely the second one.
+- I like the second one.
+- You really think  a white guy can wear that and get away with it?  - GILFOYLE: Definitely.
+- DINESH: No.
+You know what? You're right.
+Fuck political correctness.
+I'm looking at four guys that fuck!  Okay, let's rerun the diagnostics.
+Maybe we missed something.
+(LAURIE SPEAKING INDISTINCTLY)  Laurie!  RICHARD: Laurie Bream! Well, well, well.
+- Fleeing the scene of the crime? - Crime?  You can't win.
+Your network is garbage.
+And maybe, if you save us some time by telling us  how you're slowing down our network,  I won't go to the police.
+Slowing down your network? That would be "un-tethical.
+"  - Why would I - (SCOFFS)  Oh.
+Richard  You do not know.
+Know what?  As you correctly surmised,  YaoNet doesn't work.
+It does not scale.
+- Ha! - However, we did not come here  to attack you, simply to observe you,  spy on you, if you wish,  in order to see how you got PiperNet to work,  which, it turns out, you did not.
+Uh, what? (SCOFFS)  Your compression is inadequate in the face of bottlenecks  that emerge between node-cluster edges.
+Pied Piper does not scale.
+It is as impracticable as YaoNet.
+Fuck.
+LAURIE: Ah, yes.
+That can't be right.
+LAURIE: And yet it is.
+I wish we had plagiarized more functional code,  and yet it is this technology that AT&amp;T has purchased,  functional or no.
+And with Maximo's sufficient funding,  we will certainly be able to weather the storm  until we reach launch, at which time  it seems likely that AT&amp;T may deem our business a failure.
+However, at this point, I will have already made  many multiples on my initial investment.
+Ah, I cannot speak to your backup plan.
+Hmm, yes.
+Good day, gentlemen.
+Well, she's just a hater, and, no disrespect,  - but she can eat shit.
+- DINESH: Yeah,  obviously.
+We have to be able to figure something out.
+You'll think of something, right?  Richard?  Six fucking years!  Six years we've wasted!  Building this worthless piece of shit!  Are fucking kidding me?!  (PANTING)  I'm fine.
+I just gotta go to the bathroom.
+I don't think he thought of anything.
+(CROWD CHATTERING)  - Yeah! (LAUGHS) - (MUSIC PLAYING)  Go with option one, and I'm not gonna feel shitty about it.
+Right?  Fuck me.
+DINESH: Hey, guys, Richard's been locked in there  for three hours.
+Should we kick down the door?  No, let's honor him with some space.
+I'll wait for him to fall asleep, and then I'll  I'll lower myself down through the vent.
+- (BURPS) - DINESH: Would it be a dick move  to ask him for his keys and then we drive home?  Well, he'd be abandoned here  Holy shit.
+That's fantastic.
+- What the fuck? - (DRONES BUZZING)  Hey, you guys?  I did something.
+All right, so, I was, uh,  fiddling around on Gilfoyle's laptop,  and I was looking down,  and then I realized that the solution was  staring at me right in the face.
+Ants.
+It occurred to me  that our network is kind of like a series of paths,  much like the trails ants use in order to forage for food.
+But then, I thought that we don't need better paths.
+We need better ants.
+You see?  - Fuck gradient descent.
+- What?  I don't need to use Gilfoyle's AI in order to improve middle-out.
+I need to use middle-out to create a new AI.
+A symbolic AI.
+And now, it is teaching itself  how to optimize.
+So, you fucked around with Son of Anton's brain,  and then gave him access  to our entire network infrastructure,  - while it's still running? - Yes.
+Richard, that's like asking a robot to change your tire  while you're driving on the freeway!  Hold this.
+Gimme.
+See, go.
+This isn't my computer.
+- It's not? - GILFOYLE: No.
+And what the fuck is Son of Anton version 2.
+0?  What?  - Huh.
+- You were fucking around  with Son of Anton's brain before him?  - Fuck.
+- I have good ideas.
+- (EXPLOSIONS) - (CROWD SCREAMING)    Sweet mother of God.
+DINESH: This is not my fault.
+I barely touched Gilfoyle's AI.
+- (EXPLOSIONS) - RICHARD: What's it doing?  GILFOYLE: I have no idea.
+I told you,  it's a fucking black box, Richard.
+RICHARD: Do you think there's gonna be a riot?  DINESH: Oh, I'm sure 20,000 coked-up douchebags  will be very civil when they can't get food or water.
+GILFOYLE: Holy shit, look at the hologram.
+RICHARD: Oh, my God.
+Whoa.
+(PANICKED CHATTERING)  (BUZZING, CRACKLING)  - (WOMAN SCREAMS) - (CAR ALARM BLARES)  Shit.
+- What did we do? - We?  DINESH: Is it dead?  - Am I going to jail? - Hey.
+- I can train you.
+- RUSS: Hey, fuckers.
+Popped a couple of Xanax and then choked it in the trailer.
+Feeling much better.
+Went with outfit number three,  black jacquard.
+Why is it so dark?  Um, well  Lights!  (LIGHTS CLACKING)  RUSS: Sweet! Voice command? That is fucking awesome.
+You guys are smart.
+(VOCALIZING): Voice command!  What just happened?  Did it work? What What just happened?  GILFOYLE: Holy shit.
+JARED: Wait, is that right?  It's at 145%?  Now 160%.
+Okay, how is this possible?  Our network overhead must've massively shrunk.
+It's insane.
+Oh, my God.
+Okay  My middle-out,  Gilfoyle's AI, whatever the fuck  Dinesh did to Gilfoyle's AI  I basically rewrote the entire thing.
+You guys,  it worked.
+It-It-It happened.
+- We-we-we did it.
+We-we-we won.
+- DINESH: It worked?  - Ah! We did it! - RICHARD: Yeah!  - Ah! - You  are like the three musketeers of coding,  except you are all d'Artagnan.
+- (LAUGHING) - (HOLOGRAM HUMMING)  - RICHARD: Wait, wait.
+- GILFOYLE: What?  RICHARD: What the fuck is going on?  DINESH: He's growing!    GILFOYLE: It's beautiful.
+Eat a dick, David Copperfield!  PILOT (OVER PA): We hope you've enjoyed your flight  from Maui to San Francisco this evening.
+Out of the right side of the aircraft,  you can see the lights of Las Vegas.
+And out of the left side, you can see  I don't know what that is.
+(COMPUTER CHIMES)    ("CHAMPIPPLE" BY JOHN POPPER &amp; THE DUSKRAY TROUBADOURS PLAYS)  Let's drink some champipple, baby   'Cause it's almost free   Champipple, baby, till dawn   You've got no pressing engagements   Won't you sit down by me and drink some   Champipple, baby, till the champipple's gone   Penny for penny   Pound for pound   If you're getting up   For getting down   Bottle for bottle   Sip by sip   It tastes even better   When it's on your lips     Pied Piper can help scientists cure cancer.
+- And cancer is bad.
+- Cancer fucking sucks.
+"Hey, I'd like some cancer, please.
+" No.
+We built the single, greatest network ever in the world.
+I would like you to give me free shares of Pied Piper.
+You had plenty of opportunity to invest.
+Yeah, you could buy a Piper coin.
+Monica, two men are talking of business.
+You can find your broom and fly away.
+Gilfoyle is willing to destroy everything  we've built just to prevent me from having money.
+Your entire life has prepared you to publicly fail.
+You're just failing to see that right now.
+Don't insult me, I can fail circles around you losers.
+(ENERGETIC MUSIC PLAYS)  (SCREAMS)  Is this a good thing or a bad thing?  Someone tell me how to feel.
+Jared, bolt the doors.
+- What's in the bag? - Clif Bars and a gun.
+(MUSIC CONCLUDES)
+

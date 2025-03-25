@@ -8,6 +8,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
   <!-- 引入Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- 引入Ant Design CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/antd@5.15.0/dist/reset.min.css" rel="stylesheet">
   <!-- 自定义样式 -->
   <link href="css/styles.css" rel="stylesheet"/>
   <!-- 学习体验优化样式 -->
@@ -18,6 +20,7 @@
     <div class="header-content">中英翻译练习</div>
     <div class="upload-nav">
       <button class="upload-btn" id="uploadBtn" type="button">上传题库</button>
+      <button class="manage-btn" id="manageBtn" type="button">题库管理</button>
       <div class="upload-dropdown" id="uploadDropdown">
         <div class="upload-info">
           请上传符合格式的TXT文件，每行一个题目，格式为"英文|中文"。
@@ -41,6 +44,21 @@
       <button class="btn btn-primary" id="nextBtn">下一页</button>
     </div>
   </div>
+  
+  <!-- 题库管理模态窗口 -->
+  <div class="modal fade" id="questionBankModal" tabindex="-1" aria-labelledby="questionBankModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="questionBankModalLabel">题库管理</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div id="questionBankTree" class="question-bank-tree"></div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- 引入jQuery -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -48,7 +66,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <!-- 自定义JS -->
   <script src="js/ui.js" type="module"></script>
-  <script src="js/main.js" type="module"></script>
   <script src="js/store.js" type="module"></script>
+  <script src="js/main.js" type="module"></script>
+  <script src="js/questionBank.js" type="module"></script>
 </body>
 </html>
