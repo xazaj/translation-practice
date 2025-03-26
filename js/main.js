@@ -90,7 +90,7 @@ async function loadDefaultDirectoryFiles() {
     // 跳过第一行(通常是'.')
     for (const line of lines.slice(1)) {
       // 确保行以.txt结尾且包含默认题库目录
-      if (line.endsWith('.txt') && line.split('/')[0] === '1.default') {
+      if (line.endsWith('.txt') && line.split('/')[0] === 'Default') {
         // 构建正确的文件路径
         const filePath = `data/${line}`;
         defaultFiles.push(filePath);

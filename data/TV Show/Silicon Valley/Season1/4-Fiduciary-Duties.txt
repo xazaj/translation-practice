@@ -1,0 +1,471 @@
+Richie! - Right on time. | 里奇！—— 来得正好。
+Hey. | - 嘿。
+You're the lawyer? Ron Laflamme. | 你是律师吗？我是罗恩・拉弗拉姆。
+Great to meet you. | 很高兴见到你。
+All right, homeboy. | 好了，伙计。
+Pop a squat. | 坐下吧。
+Start autographing by the flags. | 从旗帜那边开始签名吧。
+Lot of paper to get through. | 有很多文件要处理呢。
+So, what do you think? About? Jeannie. | 那么，你觉得怎么样？关于什么？珍妮。
+She's pretty hot, right? Oh. | 她很漂亮，对吧？哦。
+Yeah. | 是啊。
+No, she's She's very pretty. | 不，她…… 她非常漂亮。
+Yeah, she is. | 是的，她确实是。
+Oh, we're doing that. | 哦，我们会那样做的。
+Ok. | 好的。
+So yo, Peter tells me you're popping your cherry with this. | 嘿，彼得告诉我这是你第一次做这种事。
+So let me just walk you through it. | 所以让我给你介绍一下流程。
+That stuff you're signing gives you the convertible note for funding and establishes you and Peter Gregory as the board members of Pied Piper, incorporated in the State of Delaware. | 你正在签署的这些文件会给你提供可转换债券用于融资，并确立你和彼得・格雷戈里为皮得・派珀公司（在特拉华州注册成立）的董事会成员。
+Ok. | 好的。
+Why Delaware? Rich, Rich. | 为什么是特拉华州？里奇，里奇。
+Lawyer, not lawyer. | 这是律师的事，不是你的事。
+I got you. | 我懂了。
+So, Peter Gregory, big fan of you. | 那么，彼得・格雷戈里，他可是你的超级粉丝。
+Oh. | - 哦。
+He invited you to his toga party, right? That's a big deal. | - 他邀请你去参加他的古罗马长袍派对了，对吧？那可是件大事。
+Flo Rida's gonna be there. | 弗洛・里达也会去。
+You like Flo Rida? - Should be fun. | - 你喜欢弗洛・里达吗？ - 应该会很有趣。
+Yeah, I went to a lot - See this guitar? Sergei and Larry from Google signed it. | - 是啊，我去过很多…… - 看到这把吉他了吗？谷歌的谢尔盖和拉里在上面签了名。
+Both of them. | - 他们俩都签了。
+Right there. | 就在这儿。
+Mmm. | - 嗯嗯。
+Mm. | 嗯。
+So, Pied Piper. | 那么，皮得・派珀公司。
+You're one of Peter's compression plays, huh? Uhh, one of? How many does he have? Not too many. | 你是彼得的压缩项目之一，是吧？呃，之一？他有多少个这样的项目？不是很多。
+Like six or eight. | 大概六七个或者八九个吧。
+Ok. | 好的。
+Why are there so many? You know how sea turtles have a shit-ton of babies because most of them die on their way down to the water? Peter just wants to make sure that his money makes it to the ocean. | 为什么有这么多呢？你知道海龟会生一大堆蛋，因为大多数蛋在孵化后游向大海的途中就会死掉吧？彼得只是想确保他的钱能最终有所回报。
+But it seems like you got your shit together. | 但看起来你把事情都安排得很好。
+A lot of these guys come in here and they can do all of the engineering stuff but they get all hung up on technicalities. | 很多人来这儿，他们能做所有的工程方面的工作，但却被一些技术细节给困住了。
+They can't just tell you what their vision for the company is. | 他们无法清楚地告诉你他们对公司的愿景是什么。
+Those guys are so fucked. | 那些人可就惨了。
+It's like you need both halves of the brain, right? The Jobs and the Wozniak. | 就好像你需要大脑的两个半球，对吧？就像乔布斯和沃兹尼亚克那样。
+The ying and the yang. | 阴阳调和。
+Oh. | 哦。
+I think it's "yin". | 我觉得是 “阴”。
+"Yin"? - Yeah. | - “阴”？ - 是的。
+Like "yin and yan?" - No. | - 像 “阴和炎” 吗？ - 不是。
+Like yin and yang. | 是 “阴和阳”。
+No. | 不是。
+It's ying and yang, they're opposites. | 是 “阴和阳”，它们是对立的。
+So, Pied Piper, drop it on me. | 那么，皮得・派珀公司，跟我说说吧。
+What is it? Well, we started off as a music app. | 它是做什么的？嗯，我们最开始是一个音乐应用程序。
+Yuck. | - 呸。
+Yeah. | - 是啊。
+Gross. | 真恶心。
+Ugh. | 呃。
+But we've, uh, we've pivoted since then. | 但是，呃，从那以后我们进行了转型。
+Uh-oh. | 哦哦。
+To what? Well, our weissman scores are consistently high across all media, audio, video, meta-data. | 转成做什么了？嗯，我们的魏斯曼分数在所有媒体、音频、视频、元数据方面一直都很高。
+Actually, that's not true. | 实际上，也不完全是这样。
+We've had some trouble encoding 3D video. | 我们在对 3D 视频进行编码时遇到了一些问题。
+I think it's because the pixels change value differently than conventional Just look at the flow diagram, dude. | 我觉得是因为像素的值变化方式与传统的不同…… 看看流程图吧，伙计。
+No, the filter bank is part of the prediction loop. | 不，滤波器组是预测循环的一部分。
+What are you talking about, this is lossless compression. | 你在说什么啊，这可是无损压缩。
+Oh, hey, Big Head, you were there. | 哦，嘿，大头，你当时在那儿。
+Why did Richard use a DCT filter bank? Oh. | 理查德为什么要用离散余弦变换（DCT）滤波器组呢？哦。
+Um Not really sure. | 嗯…… 不太确定。
+Richard tried to explain some of this stuff but a lot of it I didn't really understand, so I'd kinda just nod and smile, you know? Can you at least help us figure out this insane DFT spider web he's using? Dude, do you understand any of this? I eat the fish. | 理查德试着给我解释过一些东西，但很多我都不太懂，所以我就只能点头微笑，你懂吧？你至少能帮我们弄明白他用的这个疯狂的离散傅里叶变换（DFT）蜘蛛网是怎么回事吧？伙计，你懂这些东西吗？我吃鱼。
+I understand you eat the fish. | 我知道你吃鱼。
+But when you clean the fish you can't leave the fish head and guts and shit in the sink. | 但是当你清理鱼的时候，你不能把鱼头和内脏之类的东西留在水槽里。
+Because the whole house smells like a bait station. | 因为那样整个房子闻起来就像个鱼饵站。
+So you gotta put it in the trash and then take the trash out. | 所以你得把它扔进垃圾桶，然后把垃圾倒掉。
+Do you understand? Yes. | 你明白了吗？明白了。
+I eat the fish. | 我吃鱼。
+Motherfuck! Do you know how awkward it is to not be able to describe your own company? Like, I built Pied Piper and you could see it but I can't really describe to you what it is even though I kind of know where I'm going. | 他妈的！你知道无法描述自己的公司有多尴尬吗？就像，我创建了皮得・派珀公司，你能看到它，但我却无法真正向你描述它是做什么的，尽管我心里大概知道公司的发展方向。
+You do realize we quit working on our own apps to work for you, right? Shouldn't you more than "Kind of know where you're going?" Because that's basically what the CEO does. | 你知道我们为了给你工作都放弃了自己的应用程序项目，对吧？你不应该只是 “大概知道公司的发展方向” 吧？因为这基本上就是首席执行官要做的事。
+I do. | 我知道。
+Sort of. | 算是吧。
+Ok, it's like trying to tell someone how to get somewhere, even though you don't really know the exact address. | 好吧，这就好比你想告诉别人怎么去某个地方，尽管你并不知道确切的地址。
+Right? Like, how do you do that? Because you can't just say "Go to 415 elm street," because you don't even know what that is. | 对吧？就像，你要怎么做呢？因为你不能直接说 “去榆树街 415 号”，因为你甚至都不知道那是什么地方。
+Right? So you have to say, you know, "Go straight down that big road and take a right at the weird thing. | 对吧？所以你就得说，你知道的，“沿着那条大路直走，在那个奇怪的东西那儿右转”。
+" But, you can't describe what that weird thing is because you just know it as a weird thing, you know, in your head. | “但是，你无法描述那个奇怪的东西是什么，因为在你脑海里你就只知道它是个奇怪的东西。
+You always have. | 一直都是这样。
+Is that weird thing in your head an aneurysm? Richard, I'm just gonna recap for a second, um, you turned down ten million dollars to be able to develop something that you, as the head of the company, can't even describe to another human being? I say this only to motivate you. | 你脑子里那个奇怪的东西是个动脉瘤吗？理查德，我简单总结一下，嗯，你拒绝了一千万美元，就为了开发一个你作为公司负责人都无法向别人描述的东西？我这么说只是为了激励你。
+Ok, so I have been instructed to remove you from the list of employees assigned to the Nucleus project. | 好的，所以我接到指示要把你从被分配到 “核心” 项目的员工名单中移除。
+You will no longer receive any Nucleus related communications, uh, file reports, or attend any Nucleus meetings. | 你将不再收到任何与 “核心” 项目相关的通讯、文件报告，也不能参加任何 “核心” 项目的会议。
+Any questions? Uh, no. | 有什么问题吗？呃，没有。
+That's That's pretty clear. | 这…… 这很清楚了。
+Great. | 很好。
+Am I being reassigned to something else? Not that I am aware of. | 我会被重新分配到其他项目吗？据我所知不会。
+At this time. | 目前不会。
+No. | 不会。
+Wait, so then am I being fired? Because I have a three year contract and my stock options Ok. | 等等，那我是要被解雇了吗？因为我有一份三年的合同，还有我的股票期权…… 好的。
+Whoa, whoa, whoa. | 哇，哇，哇。
+Nobody is being fired. | 没有人会被解雇。
+Ok? Look, a contract is a contract. | 好吗？听着，合同就是合同。
+You know. | 你知道的。
+You've got a contract. | 你有一份合同。
+And I've got a contract. | 我也有一份合同。
+We all have contracts. | 我们都有合同。
+And-and here at Hooli, contracts are honored. | 而且…… 在胡里公司，合同是会被遵守的。
+Um yours and mine. | 嗯，你的和我的。
+Everybody's. | 每个人的。
+So, um Have I made that perfectly clear? Yeah, no. | 所以，嗯…… 我说明白了吗？是的，明白了。
+That's clear. | 很清楚了。
+But, when I come into work tomorrow, what do I do? That is unclear. | 但是，我明天来上班的时候，我该做什么呢？这还不清楚。
+At this time. | 目前还不清楚。
+Shoulda worn more than my underwear and a bed sheet. | 真该多穿点，不该只穿内裤和床单就来了。
+Underwear? Pussy. | - 只穿内裤？真胆小。
+Yeah. | - 是啊。
+I'm with him. | 我同意他的说法。
+This is the type of evening that requires free-balling. | 这种晚上就应该不穿内裤。
+Oh. | 哦。
+I'm gonna take my underwear off too. | 我也要把内裤脱掉。
+Richard! Hey, you made it! So Peter met with Laflamme today and signed the paperwork, which means Pied Piper is officially launched. | 理查德！嘿，你来了！所以彼得今天和拉弗拉姆见了面并签署了文件，这意味着皮得・派珀公司正式成立了。
+Uh, why didn't you tell me about all the other compression plays Peter was seeding? What? No because it's nothing you need to worry about. | 呃，你为什么不告诉我彼得还在投资其他的压缩项目呢？什么？不，因为这没什么好担心的。
+Because none of those other companies have your vision. | 因为其他那些公司都没有你的远见。
+My vision? - Exactly. | - 我的远见？ - 没错。
+Speaking of which, Peter really wants you to come in on Friday to chat about big picture stuff. | 说到这个，彼得真的希望你周五来谈谈公司的宏观规划方面的事情。
+You know, lay out your vision in broad strokes. | 你知道的，大致阐述一下你的愿景。
+Broad strokes For the vision of the - Uh-huh. | - 大致阐述…… 关于公司的愿景…… - 嗯嗯。
+Well, uh, Pied Piper is compression and we all know that. | 嗯，呃，皮得・派珀公司是做压缩技术的，这我们都知道。
+So we don't need to talk about that but I could because I'm the CEO. | 所以我们不需要再谈这个了，但我可以谈，因为我是首席执行官。
+Pied Piper takes the data And smaller. | 皮得・派珀公司处理数据…… 然后把它变小。
+To smaller. | 变得更小。
+And, also, there's more. | 而且，还有更多。
+It compresses the data overall - Yeah, I Excuse me. | - 它能全面压缩数据 - 是啊，我…… 不好意思。
+See you Friday. | 周五见。
+Hi Tom. | 嗨，汤姆。
+Richard, pace yourself, buddy. | 理查德，悠着点，伙计。
+You know, I wish this was Roman times. | 你知道吗，我希望这是古罗马时代。
+You know? Life was simpler back then. | 你懂的吧？那时候生活更简单。
+Simpler for you. | 对你来说更简单。
+I would have been a slave. | 我那时候可能就是个奴隶。
+There's still time. | 现在还有机会哦。
+Cool costume. | 很酷的服装。
+Where'd you get it? Uhh Uh, my bed. | 你从哪儿弄来的？呃…… 呃，我的床上。
+You're funny! - Oh. | - 你真有趣！ - 哦。
+I'm Brooke and this is my friend Anastasia. | 我是布鲁克，这是我的朋友阿纳斯塔西娅。
+Hi. | 嗨。
+Hi. | - 嗨。
+What's up, guys? Uh So-so-so, how do you know Peter Gregory? - Oh, through work. | - 你们好啊，伙计们？呃…… 那么，你们怎么认识彼得・格雷戈里的？ - 哦，通过工作认识的。
+Mm-hmm. | - 嗯嗯。
+We're actresses. | 我们是演员。
+Cool. | 很酷。
+Uh, what type of actressing you work? Oh, we're working right now. | 呃，你们做哪方面的演艺工作呢？哦，我们现在就在工作呢。
+Our startup sources actors to parties to liven things up and get into conversations with guests and be interested in them. | 我们的创业公司会为派对提供演员，让气氛活跃起来，和客人聊天并表现出对他们的兴趣。
+Oh. | 哦。
+Neat. | 挺有意思的。
+So, uh, who else is paid to be here? Pretty much anyone that's over a seven is with us, and anyone that's under a three is a guest. | 那么，呃，还有谁是被雇来这儿的呢？基本上颜值超过七分的都是我们公司的人，三分以下的就是客人。
+It's a really fun job. | - 这是份很有趣的工作。
+Plus, - Yeah. | 而且， - 是啊。
+Um, I get to work with my boyfriend. | 嗯，我还能和我男朋友一起工作。
+Yo, yo, party people, y'all ready to get crazy? Is that Flo Rida? - No idea. | - 哟，哟，派对的人们，你们准备好疯狂起来了吗？那是弗洛・里达吗？ - 不知道。
+Y'all ready to take this party to a whole 'nother level? It's time to meet the original O.G. Gangster, cash money mobster. | 你们准备好把这个派对提升到一个全新的高度了吗？是时候见见真正的元老级人物，有钱的大佬了。
+Y'all put your hands together for my brother! The illest, the chillest, emperor of Rome, big Pete Gregory! | 大家为我的兄弟鼓鼓掌吧！最厉害、最酷的，罗马皇帝，伟大的皮特・格雷戈里！
+He is the illest and the chillest? Big Pete Gregory! | 他是最厉害、最酷的吗？伟大的皮特・格雷戈里！
+Thank you, Florida. | 谢谢你，弗洛里达（这里可能是叫错了，结合前文推测应该是叫错成了 Flo Rida 弗洛・里达）。
+Welcome to the Peter Gregory foundation's fourth annual orgy of caring. | 欢迎来到彼得・格雷戈里基金会第四届年度关爱狂欢派对。
+The first three were fine. | 前三届都还不错。
+I hope that you enjoy the party. | 我希望你们能享受这个派对。
+There is a second bar in back where the line is much shorter. | 后面还有一个吧台，那边排队的人少很多。
+Thank you. | 谢谢。
+I'm finished. | 我说完了。
+That was very abrupt. | 说得太突然了。
+So this is a rap concert? - Yep. | - 所以这是一场说唱音乐会吗？ - 是的。
+Holy shit, look at Erlich! How the fuck did he get up there? Man. | 我的天呐，看看埃利希！他到底是怎么跑到那儿去的？老兄。
+See, that's what I wish I had. | 看，那就是我想要拥有的东西。
+It's like, I don't have any - Game. | 就好像，我没有…… 魅力（泡妞的本事）。
+Game, yes! That's it. | - 魅力，没错！就是这个。
+You know, I always knew I was missing something and then someone explained to me the concept of game, I remember very distinctly thinking, "That's what I don't have. Game." | 你知道吗，我一直都知道自己缺了点什么，然后有人跟我解释了 “魅力” 这个概念，我清楚地记得当时我就想，“这就是我没有的东西。魅力。”
+Sorry. | 抱歉。
+Hello? - What's up, Richie Rich? Great seeing you last night, buddy. | - 喂？ - 你好啊，阔少爷里奇？昨晚很高兴见到你，伙计。
+Just wanted you to know I had my associate draft up everything like we talked about and it is all good. | 只是想让你知道，我让我的助手按照我们说的把所有东西都起草好了，一切都没问题。
+Just emailed you the board consent which appoints your new board member. | 刚刚给你发了任命新董事会成员的董事会同意书。
+So just print it, sign it, get it to Gregory to sign and it is donezo. | 所以你把它打印出来，签上名，再让格雷戈里签字，这事就成了。
+Uh, new board member, what? It's in the pdf, you'll see. | 呃，新董事会成员，什么？都在那个 PDF 文件里，你看看就知道了。
+All right, homey, I gotta go. | 好了，兄弟，我得走了。
+My enema guy is here. | 给我灌肠的人来了。
+Gary! Namaste! | 加里！合十礼（你好）！
+Pied Piper incorporated amended board of directors. | 皮得・派珀公司修订后的董事会成员名单。
+Richard Hendricks, Peter Gregory Erlich Bachman? Oh, my God. | 理查德・亨德里克斯，彼得・格雷戈里 埃利希・巴赫曼？我的天呐。
+Is sleeping beauty awake? Yes, she is. | 睡美人醒了吗？是的，她醒了。
+Oh, boy. | 哦，天哪。
+Here, I brought you something for your stomach. | 给，我给你带了点治胃的东西。
+Be forewarned, the orange juice has vodka in it. | 提醒你一下，这橙汁里加了伏特加。
+Little hair of the dog. | （喝）点解醉酒（用以缓解宿醉）。
+What exactly happened last night, from your side? We happened, Richard. | 从你那边说，昨晚到底发生了什么？我们之间发生了点事，理查德。
+And the best part is, we can relive it whenever we want to. | 最棒的是，我们随时都可以重温那些事。
+We're two halves of the same brain! Whoa! You complete me! | 我们是同一个大脑的两半！哇！你使我完整！
+Don't ever say that again! Do you understand me? I will beat the shit out of you. | 别再那么说了！你明白我的意思吗？我会把你揍得屁滚尿流。
+Yo, yo, get that camera out my face. | 哟，哟，把那相机从我面前拿开。
+Come on, Mr Ok, ok. | - 拜托，先生 好的，好的。
+Get the camera out my face! - Look at this part. | - 把相机从我面前拿开！ - 看看这部分。
+I'm asking this fat, beautiful man In front of God and the Flo Rider and this white, weird cocaine statue - to be on the Pied Piper board of directors. | - 我在上帝、弗洛・里达和这个奇怪的白色可卡因雕像面前，请求这位胖胖的、帅气的男士加入皮得・派珀公司的董事会。
+Yes! - A thousand times, yes! - He's doin' it! - Shake on it. | - 好啊！ - 一千个愿意，好啊！ - 他答应了！ - 握个手吧。
+It's a deal. | - 成交。
+Oh, no. | 哦，不。
+Plus, we have this for the Pied Piper documentary that we're eventually gonna make. | 而且，我们还有这个，以后可以用来制作皮得・派珀公司的纪录片。
+We're making history together, partner. | 我们正在一起创造历史，伙伴。
+Are you dressed like Steve Jobs? Oh, am I? Well, I suppose Steve and I always have shared a similar aesthetic. | 你穿得像史蒂夫・乔布斯吗？哦，是吗？嗯，我想史蒂夫和我一直都有着相似的审美。
+Hey. | 嘿。
+Little help? Oh. | 能帮个忙吗？哦。
+Ok. | 好的。
+Here you go. | - 给你。
+Thanks, man. | - 谢了，兄弟。
+Sorry about the throw. Bursitis. | - 抱歉刚才扔东西（没扔好）。我有滑囊炎。
+Yeah. | - 嗯。
+Uh, so, you guys having a meeting up here? No. | 呃，那么，你们在这儿开会吗？不。
+Not exactly. | 不完全是。
+We're all currently unassigned. | 我们目前都没有被分配工作。
+How about you? - Yeah. | 你呢？ - 是啊。
+Unassigned. | 没有被分配工作。
+Yeah. | - 嗯。
+That's cool. | 那挺酷的。
+Yeah. | 嗯。
+How could you put Erlich on the board? What were you thinking? You don't put someone inside the company on the board. | 你怎么能让埃利希进入董事会呢？你当时在想什么？你不能让公司内部的人进入董事会。
+Then he and Peter Gregory can vote you out. | 那样的话，他和彼得・格雷戈里就能把你投票赶出去。
+Yeah. | 是啊。
+You gotta find an outsider you trust. | 你得找一个你信任的外部人员。
+Like your mom. | 比如你妈妈。
+I'd put Erlich on the board before my mom. | 我宁愿让埃利希进入董事会也不让我妈妈进。
+Backstabbing bitch. | 背后捅刀子的贱人。
+Guys, I was drunk, ok? You know, I half-jokingly said to Gilfoyle last night. | 伙计们，我当时喝醉了，好吗？你们知道的，我昨晚半开玩笑地对吉尔福伊尔说。
+"It looks like Richard is going to suck Erlich's dick." But that would be reasonable compared to this. | “看起来理查德要去舔埃利希的屁股了。” 但跟这件事比起来，那还算合理的了。
+Richard, um, could I speak to you? Ok. | 理查德，嗯，我能跟你说句话吗？好的。
+Yeah. | 嗯。
+He's the least cool guy I've ever met. | 他是我见过的最不酷的人。
+I heard about what's been happening. | 我听说了发生的事情。
+I have to say, I'm a little disappointed. | 我得说，我有点失望。
+Yeah, I don't I don't know what I was thinking. | 是啊，我不知道我当时在想什么。
+Yes. | 嗯。
+I mean, um, is there a reason I wasn't invited to the party? Is there some sense that I'm not part of the gang? | 我是说，嗯，有什么原因我没被邀请去参加派对吗？是不是觉得我不是团队的一员？
+What? Uh, Jared. | 什么？呃，贾里德。
+Of course not. | 当然不是。
+It was just an oversight. | 那只是个疏忽。
+I mean, we weren't even sure if we were gonna go. | 我是说，我们甚至都不确定我们会不会去。
+Uh-huh. | 嗯嗯。
+And what was it like there? Were there gelatin shots? | 那儿怎么样？有果冻酒吗？
+No. | 没有。
+No, uh, it was stupid and loud. | 没有，呃，那儿又蠢又吵。
+Uh, honestly, you're better off. | 呃，说实话，你没去更好。
+I suppose. | 我想也是。
+I had a fine night. | 我昨晚过得还不错。
+I I had some palak paneer and I watched a documentary about Liberia. | 我吃了点菠菜奶酪，还看了一部关于利比里亚的纪录片。
+But then I woke up to this, um, unexpected development. | 但后来我醒来就看到了这个，呃，意外的情况。
+Do you do you really want Erlich on the board? - Because I'll support you - No. | 你…… 你真的想让埃利希进入董事会吗？ - 因为我会支持你 - 不。
+I don't. | 我不想。
+At all. | 一点都不想。
+I was just drunk. | 我当时只是喝醉了。
+I don't know how to get out of it. | 我不知道怎么摆脱这个局面。
+I mean, what am I going to say to Peter Gregory? | 我是说，我要跟彼得・格雷戈里怎么说呢？
+Well, if you don't sign the documents, and you don't give them to Peter Gregory, then it won't happen. | 嗯，如果你不签署那些文件，也不把它们交给彼得・格雷戈里，那么这件事就不会发生。
+Simple as that. | 就这么简单。
+Really? I Wow. | 真的吗？我…… 哇。
+Ok. | 好的。
+That is a relief, Jared. | 那可真是松了口气，贾里德。
+Thanks. | 谢谢。
+I'm I'm glad you're around. | 我很高兴你在这儿。
+Well, keep that in mind for future parties. | 嗯，以后有派对的时候记住这一点。
+Honestly, sometimes we forget you're here. | 说实话，有时候我们都忘了你在这儿。
+Oh - You guys, company photo time out back. | - 哦 - 你们几个，到后面拍公司合影了。
+Let's go! | 走吧！
+Uh, Gilfoyle, ok, off to the center a little bit. | 呃，吉尔福伊尔，好的，往中间站一点。
+Like your personality. | 就像你的个性一样（暗指他个性古怪，站的位置也偏）。
+No, no, no, no. | 不，不，不，不。
+Dinesh, leave it unbuttoned. | 迪内希，别扣扣子。
+We want you to look like shit. | 我们想让你看起来像个废物。
+Makes for a better "before" photo. | 这样拍出来的 “之前” 的照片效果更好。
+But you're wearing a jacket. | 但你却穿着夹克。
+Yeah, because I'm the genius marketer. | 是啊，因为我是天才营销人员。
+I'm not a code freak like you guys. | 我不像你们这些代码狂人。
+Besides, I'm wearing sandals so I am iconoclasting a little bit. | 而且，我穿着凉鞋，所以我也算是有点离经叛道了。
+Oh, good. | 哦，好的。
+Jared. | 贾里德。
+Ugh. | 呃。
+What the fuck is with that vest? | 那背心到底怎么回事？
+Right over here. | 就站这儿。
+As if you're sort of a late addition that may not stick around for the entire duration of the company. | 就好像你是个后来加入的，而且可能不会在公司待很久的人。
+And then, Richard. | 然后，理查德。
+There you go. | 你站这儿。
+The man of the hour. | 风云人物。
+Ok. | 好的。
+We'll take a few like this, and then Just Richard and I. | 我们先这样拍几张，然后就只拍我和理查德。
+Because at the end of the day, people only want to see a picture of the board members. | 因为说到底，人们只想看董事会成员的照片。
+It Actually, it's, um You're not gonna be a board member. | 其实，呃…… 你不会成为董事会成员了。
+What? I'm in year three of a five year deal and, Matt, you got what, like three years left? | 什么？我签了五年的合同，现在是第三年，而且，马特，你呢，还有大概三年合同期吧？
+Yeah. | 是啊。
+We all got acquired by Hooli, when we didn't work out, none of us got reassigned. | 我们都被胡里公司收购了，当我们的项目没成功时，我们都没有被重新分配工作。
+Because Gavin believes in this Japanese form of management where not being assigned is the most shameful outcome. | 因为加文信奉一种日本式的管理方式，在这种方式中，不被分配工作是最丢脸的结果。
+Yeah, it does feel uncomfortable. | 是啊，这确实让人感觉不舒服。
+Nah. | 不过。
+Give it a week or two, you'll get, like, numb to it. | 过一两周，你就会对此麻木了。
+Well, why are you guys still coming in? Rest and vest. | 那你们为什么还来上班呢？留薪停职（等着股票期权完全归属）。
+Oh because in order to fully vest your options, you've gotta wait until your contracts are up. | 哦，因为为了让你的股票期权完全归属你，你得等到合同到期。
+I get it. | - 我懂了。
+You catch on slow. | - 你反应真慢。
+You'll fit right in here. | 你会很适应这儿的。
+Lunch? Arby's on El Camino? I'll drive. | 吃午饭吗？去埃尔卡米诺大街上的阿比餐厅？我开车。
+No, let's walk. | 不，我们走路去吧。
+It'll take longer. | 那样会花更长时间。
+Gotta do something to fill the day, right? | 总得找点事来打发时间，对吧？
+I was drunk! You took advantage of me! | 我当时喝醉了！你占了我的便宜！
+Man, they are really going at it. | 老兄，他们真的吵得很厉害。
+So, um last night, what was the girl situation? Shhh. | 那么，呃，昨晚，女孩子的情况怎么样？嘘。
+And after all I've given up for this company. | 而且我为了这个公司放弃了那么多。
+Oh, what have you given up? I owned ten percent of Dinesh's app, ten percent of Gilfoyle's app. | 哦，你放弃了什么？我拥有迪内希应用程序的百分之十股份，吉尔福伊尔应用程序的百分之十股份。
+Multiple potential streams of income. | - 多个潜在的收入来源。
+Sure. | - 当然。
+Not to mention that a hundred percent of the team that you have, were all guys that I recruited for this house. | 更不用说你现在的整个团队成员，都是我为这个房子招募来的。
+That must be worth something to me. | 那对我来说肯定是有价值的。
+It is! Ten percent of Pied Piper! For which I forewent, yes, that's a real word, - one million dollars. | 确实是！皮得・派珀公司百分之十的股份！为此我放弃了，是的，这是个真实的词，一百万美元。
+Mmm. | - 嗯嗯。
+I supported you, Richard. | 我支持了你，理查德。
+I bet on you. | 我赌你会成功。
+And now you're just gonna give me a seat on the board, only to retract that offer?! | 而现在你刚要给我一个董事会的席位，却又要收回这个提议？！
+I can't even remember doing that! Oh, really? Well, do you remember this particular dick-bag I got on video? Because you did. | 我甚至都不记得我做过那事了！哦，真的吗？那你还记得我录到视频里的这个混蛋事吗？因为你确实做了。
+Put it away. | 把它收起来。
+It's right here. | 就在这儿呢。
+Goddammit. | 该死的。
+I've seen the video. | 我看过那个视频了。
+It's the wrong album, just give me a sec You know what? Fuck it! You offering me a position on this board and reneging it is a perfect example of you having no vision, no balls and no game. | 这是错误的文件夹，等我一下 你知道吗？去他的！你给我董事会的职位然后又反悔，这充分说明你没远见、没胆量、没魅力。
+Maybe he did blow him. | 也许他真给那家伙口交了。
+Well, love and hate It's all passion. | 嗯，爱与恨 都是激情的表现。
+And if that's the kind of company you wanna run, well, then, fine. | 如果你想经营那样的公司，那好吧。
+God help you. | 上帝保佑你。
+'Cause I sure as hell ain't. | 因为我肯定不会帮你。
+Uh, what are you doing? You give your loyalty to somebody - Let me help you. | 呃，你在干什么呢？你要对某人忠心耿耿啊 - 让我帮你。
+- Don't touch! - I can do it myself. | - 别碰我！ - 我自己能行。
+- All right. | - 好吧。
+I just put it back on. | 我刚把它放回去了。
+Goddammit! Ok. | 该死的！好吧。
+Read that back to me. | 给我念一下这个。
+"Pied Piper's mission is to bring its unique compression algorithm - to a variety" - One thing you should know about living in this house is I do not tolerate substance abuse. | “皮得·派珀公司的使命是将其独特的压缩算法推广到各种……” - 住在这房子里你要知道一点，我绝不容忍滥用药物。
+There's no drinking and lying in this house. | 这房子里不准喝酒和撒谎。
+I should have made that more clear to some of the current residents. | 我真该跟现在的一些住户把这点说得更清楚些。
+Like this one. | 比如这位。
+Don't mind him. | 别理他。
+He'll be gone soon when his company cakes its pants. | 等他的公司搞砸了，他很快就会走的。
+Hopefully, Jurgen, you'll be able to bring a more positive element to the house. | 希望你，于尔根，能给这房子带来更积极的氛围。
+Let me show you the room I'm offering. | 我带你看看我给你准备的房间。
+Some of his stuff is still in there, but, as I mentioned, it will soon be gone. | 里面还有他的一些东西，但就像我刚才说的，很快就会没了。
+Once his company cakes its pants. | 等他的公司搞砸了就没了。
+It's ok. | 没事的。
+Just take a breath. | 深呼吸一下。
+It's fine. | 没事的。
+I'm fine. | 我没事。
+Uh, we just Let's get through this. | 呃，我们就…… 把这事儿挺过去吧。
+Ok, so, read this back to me. | 好吧，那给我念一下这个。
+- "Pied Piper's mission" - Hey, guys. | - “皮得·派珀公司的使命” - 嘿，伙计们。
+Hope you don't mind, the front door was just open. | 希望你们别介意，前门没关。
+Hi, Big Head. | 嗨，大头。
+What's up? Honestly? Nothing. | 怎么样？说实话？没什么事。
+I've just been sitting around all day. | 我一整天就这么闲坐着。
+Not working. | 没工作。
+It's weird, you know? Yeah. | 挺奇怪的，你知道吧？是啊。
+So, what's up with you guys? We're just sort of We're getting ready for this big Peter Gregory meeting. | 那你们呢？我们就是…… 我们在为和彼得·格雷戈里的重要会面做准备。
+And we have we have a lot of work to do, so Cool. | 而且我们有很多工作要做，所以…… 酷。
+Very cool. | 非常酷。
+You know, Richard, the irony is that if you had taken the ten million, you'd be kicking back with a ton of money right now and I'd still be working. | 你知道吗，理查德，讽刺的是，如果你当时拿了那一千万，你现在就可以拿着大把钱逍遥自在，而我还得继续工作。
+But you didn't, obviously. | 但很明显，你没拿。
+And now I've got nothing to do, I'm rolling in it, and you're working your ass off. | 现在我没事可做，钱多得花不完，而你却拼命工作。
+Life's funny isn't it? You guys want to walk to Arby's, maybe grab a bite, play a little hacky sack? | 生活很有趣，不是吗？你们想走去阿比餐厅吃点东西，再玩会儿脚踢袋游戏吗？
+Yeah. | 嗯。
+I should probably get back to work, anyway. | 不管怎样，我可能得回去“工作”了。
+I mean, not work, exactly, I don't I don't work. | 我是说，其实也不算工作，我不…… 我没工作。
+But, you know, just get back to Hooli. | 但，你知道的，就是回胡里公司。
+Sit around all day and get paid a bunch of money to do nothing. | 整天闲坐着，拿一大笔钱却什么都不用干。
+Weird. | 真奇怪。
+You ready? You know what you're going to say? You want to run it by me? | 你准备好了吗？你知道你要说什么吗？你想跟我过一遍吗？
+No, no. | 不，不用。
+I got this. | 我自己行。
+Fuck Erlich. | 去他妈的埃利希。
+You know, I turned down ten million dollars to build this thing. | 你知道吗，我拒绝了一千万美元来做这个项目。
+You want vision, I will show you fucking vision. | 你想要远见，我就让你见识真正的远见。
+I like this new angry side to you. | 我喜欢你这新的愤怒一面。
+Being around angry people relaxes me, because I know where I stand. | 和愤怒的人在一起让我放松，因为我知道自己的立场。
+Oh, shoot. | 哦，糟了。
+I think I got something stuck in my teeth. | 我觉得我牙缝里卡东西了。
+I'm just gonna go to the bathroom, check it out. | 我去趟洗手间看看。
+I'll be back in a sec. | 我马上回来。
+Richard, it's Jared. | 理查德，我是贾里德。
+Are you ok? Hey buddy, what's going on here? I thought I had something in my teeth, but when I looked over, right? I looked in the mirror like this, uh, my pants they hit the countertop, and it must have some water on there, right? | 你没事吧？嘿，伙计，这儿怎么回事？我以为我牙缝里卡东西了，然后我看了看，对吧？我这样对着镜子看，呃，我的裤子碰到了台面上，那上面肯定有水，对吧？
+So I got a spot on my pants, kinda looked like I pissed myself like a big baby. | 所以我裤子上弄了块污渍，就好像我像个大婴儿一样尿裤子了。
+So what I did was, I just took off all my pants and I put it in the water just to make it all completely wet. | 所以我就把裤子都脱了，然后把它浸到水里，让它全湿了。
+You know, that way I figured no one would really notice. | 你知道，我觉得那样就没人会注意到了。
+So, you know, it wouldn't be as bad. | 所以，你知道的，就没那么糟了。
+I've got it under control. | 我能控制住局面。
+I've sorted it out. | 我已经处理好了。
+We're good. | 没问题了。
+Yes. | 是的。
+So you felt this wouldn't look as bad. | 所以你觉得这样看起来不会那么糟。
+- Understood. | - 明白了。
+- Yeah. | - 嗯。
+But, Richard? Um Consider that maybe this might not be the best choice for the meeting? | 但是，理查德？嗯…… 想想这可能不是参加会议的最佳选择？
+Yeah. | 是啊。
+Holy What the fuck am I doing? I can't go like this to the meeting. | 天哪…… 我到底在干什么？我不能这样去参加会议。
+Jared. | 贾里德。
+I have no vision. | 我眼前一片模糊。
+Yes, you do. | 不，你能看清的。
+- I believe in you - No, no, I literally have no vision. | - 我相信你 - 不，不，我真的眼前啥都看不见。
+All I see is stars and swirls. | 我只看到星星和漩涡。
+I cannot see right now. | 我现在什么都看不见。
+Ok, let's get your pants on. | 好吧，咱们把你的裤子穿上。
+Jared? Richard? Are you in there? Ohh. | 贾里德？理查德？你们在里面吗？哦。
+Hey, there's some weather over the ocean so Peter would love to get started. | 嘿，海上有天气变化，所以彼得想马上开始。
+Are you guys ready? Yep. | 你们准备好了吗？准备好了。
+All good. | 一切都好。
+Be there in a jiffy. | 马上就到。
+- Ok. | - 好的。
+- Oh. | - 哦。
+Jared, I'm on a carpet in a bathroom. | 贾里德，我在洗手间的地毯上呢。
+Yeah, ok. | 嗯，好的。
+Um, I know this isn't the best thing to say to someone having a panic attack, but we need to hurry here. | 嗯，我知道对一个正在恐慌的人说这个不太好，但我们得快点了。
+- Doing ok? - Yes, much better. | - 感觉好点了吗？ - 是的，好多了。
+Nope. | 不。
+Worse. | 更糟了。
+Richard, you're gonna listen to me if you know what's good for you. | 理查德，如果你知道怎么做对你好，你就听我的。
+- Erlich. | - 埃利希。
+- I may have been wrong about being a board member and I may be wrong about being the Steve Jobs in our relationship. | - 我可能不该当董事会成员，我可能也不该自比我们关系里的史蒂夫·乔布斯。
+But I do know this, you are the Steve Wozniak. | 但我知道，你就是史蒂夫·沃兹尼亚克。
+And no Woz should go into a meeting like that alone. | 而且没有哪个沃兹尼亚克该像那样独自去参加会议。
+- No. | - 不。
+Actually - So if you'll just let me come in, then I won't speak. | 其实…… - 所以只要你让我进去，我不会说话的。
+And I just think you should have somebody in there who will actually have your back. | 我只是觉得你得有个人在里面真正支持你。
+Ok. | 好吧。
+No, I Erlich, I want you to be in there. | 不，我…… 埃利希，我希望你进去。
+Ok wait, what? | 好吧，等等，什么？
+Yes, and I need you to do all the talking. | 是的，而且我需要你全权发言。
+Because I feel like if I do I'm gonna puke all over Peter Gregory. | 因为我觉得如果我说话，我会吐彼得·格雷戈里一身。
+Oh, ok. | 哦，好的。
+Wow. | 哇。
+That was easier than I All the talking? | 这比我想得容易…… 全权发言？
+Oh, Erlich, you're here too? - Ok. | 哦，埃利希，你也在这儿啊？ - 好吧。
+Come on in, guys. | 进来吧，伙计们。
+- Um, I'm going to stay here, I think. | - 嗯，我想我还是留在这儿吧。
+Because I look absurd. | 因为我看起来太滑稽了。
+Yeah. | 是啊。
+Yeah, ok. | 嗯，好的。
+- So what are you going to say? - Fuck, I don't know. | - 那你打算说什么？ - 操，我不知道。
+Today's user wants access to all of their files from all their devices instantly. | 如今的用户希望能立即从所有设备上访问他们的所有文件。
+That's why cloud-based is the holy grail. | 这就是为什么基于云的服务是理想之选。
+Now Dropbox is winning, but when it comes to audio and video files, they might as well be called Dripbox. | 现在Dropbox占优势，但说到音频和视频文件，他们简直可以叫“慢滴箱”（暗指传输慢）。
+Using our platform, Pied Piper users would be able to compress all their files to the point where they truly can access them instantly. | 使用我们的平台，皮得·派珀公司的用户能够将他们所有的文件压缩到真正可以立即访问的程度。
+We control the pipe, they just use it. | 我们掌控通道，他们只需使用就行。
+That's the vision in Richard Hendricks' head. | 这就是理查德·亨德里克斯心中的愿景。
+Sure. | 当然。
+Sounds fine. | 听起来不错。
+Oh, I received an email from Ron Laflamme saying that this gentleman is going to be our third board member? Uhh Yes. | 哦，我收到罗恩·拉弗莱姆的邮件，说这位先生将成为我们的第三位董事会成员？呃…… 是的。
+Yes. | 是的。
+Uh, Erlich helped me with all this stuff. | 呃，埃利希在这些事情上帮了我很多。
+He's very talented. | 他很有才华。
+I need him as a partner. | 我需要他做我的合作伙伴。
+Fine. | 好吧。
+It's ok for you to leave now. | 你现在可以走了。
+All right, ok. | 好的，行。
+Wait, is that you and Gavin Belson? | 等等，那是你和加文·贝尔森吗？
+Yes. | 是的。
+It's an old photograph. | 那是张旧照片。
+Were you guys friends? I thought so. | 你们是朋友吗？我还以为是呢。
+Good-bye. | 再见。
+How'd it go? That was amazing. | 进展如何？太棒了。
+I mean, that was like everything in my head but, like, clear. | 我的意思是，那就像我脑子里想的所有东西，但更清晰了。
+Did you just make that up on the spot? Yeah. | 你是当场编出来的吗？是的。
+We should probably write some of it down. | 我们也许应该把其中一些内容写下来。
+Yeah. | 嗯。
+Well, look. | 嗯，听着。
+I gotta be honest, I mean, I can't tell you how much this means. | 我得说实话，我是说，我都没法跟你说这有多重要。
+You really saved my ass even after I was such a dick to you. | 你真的救了我一命，即使我之前那么对你。
+- You're making up! - What else could I do, Richard? You're my Wozniak. | - 你在瞎编！ - 我还能怎么办，理查德？你是我的沃兹尼亚克。
+And I will always be Motherfuck | 而且我永远都会是…… 他妈的

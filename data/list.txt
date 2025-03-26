@@ -1,120 +1,69 @@
 .
-1.default
-1.default/Peppa Pig.txt
-2.Peppa-Pig
-2.Peppa-Pig/Season1
-2.Peppa-Pig/Season1/1-Muddy-Puddles.txt
-2.Peppa-Pig/Season1/10-Bicycles.txt
-2.Peppa-Pig/Season1/11-The-New-Car.txt
-2.Peppa-Pig/Season1/12-Snow.txt
-2.Peppa-Pig/Season1/13-Flying-a-kite.txt
-2.Peppa-Pig/Season1/14-My-Cousin-Chloe.txt
-2.Peppa-Pig/Season1/15-Daddy-Loses-his-Glasses.txt
-2.Peppa-Pig/Season1/16-Hiccups.txt
-2.Peppa-Pig/Season1/17-Picnic.txt
-2.Peppa-Pig/Season1/18-Mummy-Pigs-Birthday.txt
-2.Peppa-Pig/Season1/19-Dressing-Up.txt
-2.Peppa-Pig/Season1/2-Mr.-Dinosaur-is-Lost.txt
-2.Peppa-Pig/Season1/20-The-School-Fete.txt
-2.Peppa-Pig/Season1/21-Musical-Instruments.txt
-2.Peppa-Pig/Season1/22-Babysitting.txt
-2.Peppa-Pig/Season1/23-New-Shoes.txt
-2.Peppa-Pig/Season1/24-Ballet-Lesson.txt
-2.Peppa-Pig/Season1/25-The-Tooth-Fairy.txt
-2.Peppa-Pig/Season1/26-Treasure-Hunt.txt
-2.Peppa-Pig/Season1/27-Not-Very-well.txt
-2.Peppa-Pig/Season1/28-Windy-Castle.txt
-2.Peppa-Pig/Season1/29-Pancakes.txt
-2.Peppa-Pig/Season1/3-Polly-Parrot.txt
-2.Peppa-Pig/Season1/30-Museum.txt
-2.Peppa-Pig/Season1/31-Secrets.txt
-2.Peppa-Pig/Season1/32-Thunderstorm.txt
-2.Peppa-Pig/Season1/33-Piggy-in-the-Middle.txt
-2.Peppa-Pig/Season1/34-Fancy-Dress-Party.txt
-2.Peppa-Pig/Season1/35-Very-Hot-Day.txt
-2.Peppa-Pig/Season1/36-Mister-Skinnylegs.txt
-2.Peppa-Pig/Season1/37-Lunch.txt
-2.Peppa-Pig/Season1/38-The-Sleepy-Princess.txt
-2.Peppa-Pig/Season1/39-The-Tree-House.txt
-2.Peppa-Pig/Season1/4-Best-Friend.txt
-2.Peppa-Pig/Season1/40-Daddy-Gets-Fit.txt
-2.Peppa-Pig/Season1/41-Shopping.txt
-2.Peppa-Pig/Season1/42-Chloe's-Puppet-Show.txt
-2.Peppa-Pig/Season1/43-My Birthday Party.txt
-2.Peppa-Pig/Season1/44-The Playground.txt
-2.Peppa-Pig/Season1/45-Tidying Up.txt
-2.Peppa-Pig/Season1/46-Frogs and worms and Butterflies.txt
-2.Peppa-Pig/Season1/47-Daddy-Puts-up-a-Picture.txt
-2.Peppa-Pig/Season1/48-At the Beach.txt
-2.Peppa-Pig/Season1/49-Cleaning the Car.txt
-2.Peppa-Pig/Season1/5-Hide-and-Seek.txt
-2.Peppa-Pig/Season1/50-Grandpa Pigs Boat.txt
-2.Peppa-Pig/Season1/51-Daddys Movie Camera.txt
-2.Peppa-Pig/Season1/52-School-Play.txt
-2.Peppa-Pig/Season1/6-The-Playgroup.txt
-2.Peppa-Pig/Season1/7-I-am-Peppa-Pig.txt
-2.Peppa-Pig/Season1/8-Camping.txt
-2.Peppa-Pig/Season1/9-Gardening.txt
-3.silicon-valley
-3.silicon-valley/season1
-3.silicon-valley/season1/1-Minimum-Viable-Product.txt
-3.silicon-valley/season1/2-The-Cap-Table.txt
-3.silicon-valley/season1/3-Articles-of-Incorporation.txt
-3.silicon-valley/season1/4-Fiduciary-Duties.txt
-3.silicon-valley/season1/5-Signaling-Risk.txt
-3.silicon-valley/season1/6-Third-Party-Insourcing.txt
-3.silicon-valley/season1/7-Proof-of-Concept.txt
-3.silicon-valley/season1/8-Optimal-Tip-to-top-Efficiency.txt
-3.silicon-valley/season1/Peppa-Pig-Season-1.txt
-3.silicon-valley/season2
-3.silicon-valley/season2/1-Sand-Hill-Shuffle.txt
-3.silicon-valley/season2/10-Two-Days-of-The-Condor.txt
-3.silicon-valley/season2/2-Runaway-Devaluation.txt
-3.silicon-valley/season2/3-Bad-Money.txt
-3.silicon-valley/season2/4-The-Lady.txt
-3.silicon-valley/season2/5-Server-Space.txt
-3.silicon-valley/season2/6-Homicide.txt
-3.silicon-valley/season2/7-Adult-Content.txt
-3.silicon-valley/season2/8-White-Hat|Black-Hat.txt
-3.silicon-valley/season2/9-Binding-Arbitration.txt
-3.silicon-valley/season3
-3.silicon-valley/season3/1-Founder-Friendly.txt
-3.silicon-valley/season3/10-The-Uptick.txt
-3.silicon-valley/season3/2-Two-in-the-Box.txt
-3.silicon-valley/season3/3-Meinertzhagen's-Haversack.txt
-3.silicon-valley/season3/4-Maleant-Data-Systems-Solutions.txt
-3.silicon-valley/season3/5-The-Empty-Chair.txt
-3.silicon-valley/season3/6-Bachmanity-Insanity.txt
-3.silicon-valley/season3/7-To-Build-a-Better-Beta.txt
-3.silicon-valley/season3/8-Bachman's-Earning's-Over-Ride.txt
-3.silicon-valley/season3/9-Daily-Active-Users.txt
-3.silicon-valley/season4
-3.silicon-valley/season4/1-Success-Failure.txt
-3.silicon-valley/season4/10-Server-Error.txt
-3.silicon-valley/season4/2-Terms-of-Service.txt
-3.silicon-valley/season4/3-Intellectual-Property.txt
-3.silicon-valley/season4/4-Teambuilding-Exercise.txt
-3.silicon-valley/season4/5-The-Blood-Boy.txt
-3.silicon-valley/season4/6-Customer-Service.txt
-3.silicon-valley/season4/7-The-Patent-Troll.txt
-3.silicon-valley/season4/8-The-Keenan-Vortex.txt
-3.silicon-valley/season4/9-Hooli-Con.txt
-3.silicon-valley/season5
-3.silicon-valley/season5/1-Grow-Fast-or-Die-Slow.txt
-3.silicon-valley/season5/2-Reorientation.txt
-3.silicon-valley/season5/3-Chief-Operating-Officer.txt
-3.silicon-valley/season5/4-Tech-Evangelist.txt
-3.silicon-valley/season5/5-Facial-Recognition.txt
-3.silicon-valley/season5/6-Artificial-Emotional-Intelligence.txt
-3.silicon-valley/season5/7-Initial-Coin-Offering.txt
-3.silicon-valley/season5/8-Fifty-One-Percent.txt
-3.silicon-valley/season6
-3.silicon-valley/season6/1-Artificial-Lack-of-Intelligence.txt
-3.silicon-valley/season6/2-Blood-Money.txt
-3.silicon-valley/season6/3-Hooli-Smokes!.txt
-3.silicon-valley/season6/4-Maximizing-Alphaness.txt
-3.silicon-valley/season6/5-Tethics.txt
-3.silicon-valley/season6/6-RussFest.txt
-3.silicon-valley/season6/7-Exit-Event.txt
-3.silicon-valley/season6/90-Ten-Years-Later-The-Extended-Pied-Piper-Documentary.txt
+Default
+Default/Peppa Pig.txt
+TV Show
+TV Show/Peppa Pig
+TV Show/Peppa Pig/Season1
+TV Show/Peppa Pig/Season1/1-Muddy-Puddles.txt
+TV Show/Peppa Pig/Season1/10-Bicycles.txt
+TV Show/Peppa Pig/Season1/11-The-New-Car.txt
+TV Show/Peppa Pig/Season1/12-Snow.txt
+TV Show/Peppa Pig/Season1/13-Flying-a-kite.txt
+TV Show/Peppa Pig/Season1/14-My-Cousin-Chloe.txt
+TV Show/Peppa Pig/Season1/15-Daddy-Loses-his-Glasses.txt
+TV Show/Peppa Pig/Season1/16-Hiccups.txt
+TV Show/Peppa Pig/Season1/17-Picnic.txt
+TV Show/Peppa Pig/Season1/18-Mummy-Pigs-Birthday.txt
+TV Show/Peppa Pig/Season1/19-Dressing-Up.txt
+TV Show/Peppa Pig/Season1/2-Mr.-Dinosaur-is-Lost.txt
+TV Show/Peppa Pig/Season1/20-The-School-Fete.txt
+TV Show/Peppa Pig/Season1/21-Musical-Instruments.txt
+TV Show/Peppa Pig/Season1/22-Babysitting.txt
+TV Show/Peppa Pig/Season1/23-New-Shoes.txt
+TV Show/Peppa Pig/Season1/24-Ballet-Lesson.txt
+TV Show/Peppa Pig/Season1/25-The-Tooth-Fairy.txt
+TV Show/Peppa Pig/Season1/26-Treasure-Hunt.txt
+TV Show/Peppa Pig/Season1/27-Not-Very-well.txt
+TV Show/Peppa Pig/Season1/28-Windy-Castle.txt
+TV Show/Peppa Pig/Season1/29-Pancakes.txt
+TV Show/Peppa Pig/Season1/3-Polly-Parrot.txt
+TV Show/Peppa Pig/Season1/30-Museum.txt
+TV Show/Peppa Pig/Season1/31-Secrets.txt
+TV Show/Peppa Pig/Season1/32-Thunderstorm.txt
+TV Show/Peppa Pig/Season1/33-Piggy-in-the-Middle.txt
+TV Show/Peppa Pig/Season1/34-Fancy-Dress-Party.txt
+TV Show/Peppa Pig/Season1/35-Very-Hot-Day.txt
+TV Show/Peppa Pig/Season1/36-Mister-Skinnylegs.txt
+TV Show/Peppa Pig/Season1/37-Lunch.txt
+TV Show/Peppa Pig/Season1/38-The-Sleepy-Princess.txt
+TV Show/Peppa Pig/Season1/39-The-Tree-House.txt
+TV Show/Peppa Pig/Season1/4-Best-Friend.txt
+TV Show/Peppa Pig/Season1/40-Daddy-Gets-Fit.txt
+TV Show/Peppa Pig/Season1/41-Shopping.txt
+TV Show/Peppa Pig/Season1/42-Chloe's-Puppet-Show.txt
+TV Show/Peppa Pig/Season1/43-My Birthday Party.txt
+TV Show/Peppa Pig/Season1/44-The Playground.txt
+TV Show/Peppa Pig/Season1/45-Tidying Up.txt
+TV Show/Peppa Pig/Season1/46-Frogs and worms and Butterflies.txt
+TV Show/Peppa Pig/Season1/47-Daddy-Puts-up-a-Picture.txt
+TV Show/Peppa Pig/Season1/48-At the Beach.txt
+TV Show/Peppa Pig/Season1/49-Cleaning the Car.txt
+TV Show/Peppa Pig/Season1/5-Hide-and-Seek.txt
+TV Show/Peppa Pig/Season1/50-Grandpa Pigs Boat.txt
+TV Show/Peppa Pig/Season1/51-Daddys Movie Camera.txt
+TV Show/Peppa Pig/Season1/52-School-Play.txt
+TV Show/Peppa Pig/Season1/6-The-Playgroup.txt
+TV Show/Peppa Pig/Season1/7-Mummy Pig at work.txt
+TV Show/Peppa Pig/Season1/8-Camping.txt
+TV Show/Peppa Pig/Season1/9-Gardening.txt
+TV Show/Silicon Valley
+TV Show/Silicon Valley/Season1
+TV Show/Silicon Valley/Season1/1-Minimum-Viable-Product.txt
+TV Show/Silicon Valley/Season1/2-The-Cap-Table.txt
+TV Show/Silicon Valley/Season1/3-Articles-of-Incorporation.txt
+TV Show/Silicon Valley/Season1/4-Fiduciary-Duties.txt
+TV Show/Silicon Valley/Season1/5-Signaling-Risk.txt
+TV Show/Silicon Valley/Season1/6-Third-Party-Insourcing.txt
+TV Show/Silicon Valley/Season1/7-Proof-of-Concept.txt
+TV Show/Silicon Valley/Season1/8-Optimal-Tip-to-top-Efficiency.txt
 list.txt

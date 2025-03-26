@@ -62,6 +62,16 @@ function createModal() {
       closeButton.focus();
     }
   });
+  
+  // 添加模态框隐藏事件监听
+  modalElement.addEventListener('hidden.bs.modal', function () {
+    // 当模态框隐藏时，确保不会保留焦点
+    // 将焦点设置回主文档，避免aria-hidden冲突
+    document.querySelector('.manage-btn').focus();
+    
+    // 移除aria-hidden属性，避免与焦点冲突
+    this.removeAttribute('aria-hidden');
+  });
 }
 
 // 打开题库管理器
