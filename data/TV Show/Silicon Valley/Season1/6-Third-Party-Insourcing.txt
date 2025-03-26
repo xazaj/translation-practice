@@ -1,0 +1,439 @@
+I don't know how you did it, but you have essentially aged 40 years in the last seven weeks. | 我不知道你是怎么做到的，但在过去的七个星期里，你基本上老了40岁。
+Really? We had a meth addict in here this morning who was biologically younger than you are, and he's 58. | 真的吗？今天早上我们这儿有个吸毒者，他的生理年龄比你还小，但他已经58岁了。
+MySpace guy. | MySpace 那伙计。
+So what is going on? Uh It's this cloud service configuration, - I've been stuck on it for over a week. | 所以到底怎么了？呃，是这个云服务配置，我卡在这儿已经一个多星期了。
+Wow. | 哇。
+I'm a good programmer. | 我是个好程序员。
+I mean, it's the only thing I am good at. | 我是说，这是我唯一擅长的事情。
+I mean, last year, I threw a Frisbee and it chipped my tooth. | 我是说，去年我扔了个飞盘，结果把牙齿给崩了。
+That's more of a dental issue. | 那更像是个牙齿问题。
+Yup, OK, I The point is, I learned Ruby on Rails over a weekend when I was 17. | 是的，好的，我是说，重点是，我17岁的时候只用一个周末就学会了Ruby on Rails。
+I should be able to learn cloud, I have to. | 我应该能够学会云计算，我必须得学会。
+Can I give you my professional opinion, as your doctor? | 我能以你的医生的身份，给你点专业意见吗？
+You should have taken that ten million dollars from Gavin Belson, OK? | 你应该接受加文·贝尔森的那1000万美元，好吗？
+But regrets will kill ya so try not to dwell on it. | 但后悔会毁了你的，所以尽量别纠结于此。
+I tried to tell you. | 我试着告诉过你。
+Outside help? No, we're not getting any outside help. | 外部帮助？不，我们不寻求任何外部帮助。
+It's a week until TechCrunch, Richard. | 距离TechCrunch大会只有1周了，理查德。
+We can't wait any longer. | 我们不能再等了。
+Richard, look at the board. | 理查德，看看白板。
+OK, cloud architecture is just a giant turd that is clogging up our pipes. | 好吧，云架构就像是一个巨大的粪团，堵住了我们的管道。
+We have to call in a plumber to fix it. | 我们得请个管道工来修。
+OK, I hate that metaphor, but Erlich is right. | 好吧，我讨厌这个比喻，但埃尔里希说得对。
+Gilfoyle and I finished the distribution services days ago and we're just sitting around waiting for you. | 吉尔福伊尔和我几天前就完成了分发服务，我们只是坐在这儿等你。
+- I can solve it. | - 我能解决。
+- Richard, you're a fucking rock star, OK? | - 理查德，你是个他妈的摇滚巨星，好吗？
+You just don't know cloud, this tiny, little, shitty area, which is becoming super important, and in many ways is the future of computing. | 你只是不熟悉云计算，这个微不足道、糟糕透顶的领域，它正变得超级重要，而且在很多方面是计算的未来。
+That sort of went south on me, but you understand what I'm saying. | 我这么说有点不太妥当，但你应该明白我的意思。
+I've already talked to Peter Gregory about insourcing a consultant. | 我已经和彼得·格雷戈里谈过内部招聘顾问的事了。
+I've made contact with a programmer whose cloud architecture is supposed to be insane. | 我联系了一个程序员，据说他的云架构非常厉害。
+They call him The Carver. | 他们叫他“雕刻师”。
+The Carver? That Black Hat guy who apparently hacked into the Bank of America and took down their entire system, that The Carver? | “雕刻师”？那个据说明明是个黑帽黑客，却黑进了美国银行并搞瘫了他们整个系统的家伙，就是那个“雕刻师”？
+We should get him if we can. | 如果可以的话，我们应该把他招揽过来。
+OK, we can talk to the guy, but, I mean, he's really gonna have to sell me. | 好吧，我们可以和他谈谈，但我是说，他真的得让我信服。
+Six months ago, these guys had 35 million and Series B Financing. | 六个月前，这些家伙还有着3500万美元和B轮融资。
+Now The Carver's here doing teardown. | 现在“雕刻师”在这儿进行拆解工作。
+He's basically moving their carcass to the cloud. | 他基本上是在把他们的残骸搬到云端。
+Don't touch anything. | 别碰任何东西。
+Failure is contagious. | 失败是会传染的。
+I think that's him. | 我觉得那就是他。
+Excuse me, Mr. Carver? | 打扰一下，卡弗先生？
+Yeah, uh, people refer to me as The Carver, but no one actually calls me that, it's what people call a screen name. | 是的，呃，人们叫我“雕刻师”，但没人真的这么叫我，这只是个网名。
+You know. | 你知道的。
+I'm Kevin. | 我是凯文。
+OK, Kevin, um, we're from Pied Piper, we spoke earlier. | 好的，凯文，呃，我们来自 Pied Piper，我们之前通过话。
+- Yeah, so you guys are fucked, huh? | - 是啊，所以你们完蛋了，对吧？
+- No. No, we're not fucked. | - 不。不，我们没完蛋。
+Yes, we are totally fucked. | 我们彻底完蛋了。
+We have a live demo in one week and our cloud is in the shitter. | 我们下周有个现场演示，我们的云服务糟糕透顶。
+- That's accurate. | - 这话说得没错。
+- Wait, are you Richard? | - 等等，你是理查德吗？
+Yes, I am. | 是的，我是。
+Yeah, your algorithm is solid. | 你的算法很扎实。
+It's a really good schema. | 这是一个很好的架构。
+OK, thanks. | 好的，谢谢。
+I did think you'd be younger. | 我还以为你会更年轻。
+What are you, 25? | 你多大了，25岁？
+Twenty-six. | 26岁。
+Yikes. | 天呐。
+Uh, so I have a Model U.N. thing on Monday, but maybe I could burn through your gig over the weekend. | 呃，我周一有个模拟联合国的活动，但也许我能利用周末把你们的活儿干完。
+Mmm. | 嗯。
+You think you can do our whole job in two days? | 你觉得你能在两天内完成我们的全部工作？
+I know I can do it in two days. | 我知道我能在两天内完成。
+I pound Mello Yello, Oreos and Adderall and I don't sleep until I'm done. | 我会猛灌美乐黄、吃奥利奥和阿德拉，直到完成工作我才会睡觉。
+OK. | 好吧。
+But you know what? I also have an offer to do some migration at Gittawonk this weekend. | 但你知道吗？这个周末我还收到一个在 Gittawonk 进行迁移工作的邀请。
+It's It's kind of chill, and frankly, their tech's a little stronger. | 那工作比较轻松，而且坦白说，他们的技术稍微强一点。
+Whoa. | 哇。
+What? What? | 什么？什么？
+You think Gittawonk's tech is stronger than ours? | 你觉得 Gittawonk 的技术比我们强？
+I'm sorry, I don't remember reading in PandoDaily that Gavin Belson and Peter Gregory were fighting over Gittawonk. | 我不记得在 PandoDaily 上看到过加文·贝尔森和彼得·格雷戈里为了 Gittawonk 争得不可开交。
+No one offered ten million dollars to acquire Gittawonk. | 没人出1000万美元收购 Gittawonk。
+Yeah, I agree with Richard, you should come work for us. | 是的，我同意理查德的看法，你应该来为我们工作。
+- What No - What's it gonna take, a blow-job? Because Richard will suck the dick right off of your pelvis. | - 什么，不——需要什么，口交？因为理查德会把你的阴茎从骨盆上吸下来。
+Now you make me laugh, shaggy man. | 你这人真逗。
+All right, I'm in. | 好吧，我加入。
+I'll see you guys Friday. | 我周五见你们。
+OK. | 好的。
+- Well done. | - 干得漂亮。
+- Yeah. | - 是啊。
+Excuse me. | 打扰一下。
+Hi, um, would you guys be interested in buying some candy so you can send my church group to camp? | 嗨，呃，你们有兴趣买些糖果，好让我的教会小组去露营吗？
+Nope. | 不。
+Hundred bucks says there's no church. | 我打赌一百美元，根本就没有教会。
+Whole thing's a scam, little scumbags. | 整个事情就是个骗局，小混蛋们。
+They're just children. | 他们只是孩子。
+Looks like Gilfoyle and his lady Satanist are back from the airport. | 看起来吉尔福伊尔和他的女撒旦崇拜者从机场回来了。
+Can you imagine what kind of shit-show this one's gonna be? | 你能想象这场秀会有多糟糕吗？
+He says that she has an Amy Winehouse vibe. | 他说她有一种艾米·怀恩豪斯的感觉。
+What does that mean? | 那是什么意思？
+All tatted-up and nowhere to go. | 浑身文身，无处可去。
+- Hooked on OxyContin? | - 上了奥施康定的瘾？
+- Decomposing? | - 在腐烂？
+Oh. | 哦。
+Oh, OK, that was dark. | 哦，好吧，这太黑暗了。
+Gentlemen, this is Tara. | 各位，这是塔拉。
+- Hi. | - 嗨。
+- Tara, this is the fellas: Jared, Dinesh, Erlich and Richard. | - 塔拉，这些是伙计们：贾里德、迪内什、埃尔里希和理查德。
+- It's Erlich. | - 我是埃尔里希。
+- It's great to finally meet you guys. | - 很高兴终于见到你们。
+Hi. | 嗨。
+All right. | 好吧。
+Jesus, where did he get Amy Winehouse from? | 天哪，他从哪儿弄来艾米·怀恩豪斯的？
+I mean, I'd have sex with that if you hose the Gilfoyle off of her. | 我的意思是，如果把吉尔福伊尔从她身上弄走，我会和她上床。
+It's weird having a girl in the house. | 房子里有个女孩，感觉很奇怪。
+There's a very strange energy. | 有一种很奇怪的能量。
+Hm. | 嗯。
+Hello Kevin. | 你好，凯文。
+OK, Richard, I just need you to approve Kevin's fee. | 好的，理查德，我只需要你批准凯文的费用。
+I got Erlich to sign and you sign right there. | 我已经让埃尔里希签了字，你就在那儿签字。
+Twenty thousand dollars for two days. | 两天两万美元。
+You know who else thought my price was too high? Bitraptor. | 你知道还有谁觉得我的价格太高？比特霸王龙。
+Who? | 谁？
+Exactly. | 没错。
+Great. | 太好了。
+Peter Gregory is on his way out of town so I'm gonna hustle out there and get him to co-sign these and the check and I'll be back as soon as I can. | 彼得·格雷戈里正要出城，所以我得赶紧去让他在这上面和支票上共同签字，我一办好就回来。
+Thank you. | 谢谢。
+You OK over there? | 你还好吗？
+You have any questions? | 你有什么问题吗？
+Yeah, one question. | 有，一个问题。
+Cool. | 好的。
+Shoot. | 说吧。
+Why do you keep your lips pressed so tight together when you're not talking? | 为什么你说话的时候嘴唇总是紧紧地闭着？
+'Cause they're like white. | 因为它们看起来很白。
+It looks uncomfortable. | 看起来很不舒服。
+Hey, guys. | 嘿，伙计们。
+Hey, Kevin, um, so how did you bypass Bank of America's network security? I want details. | 嘿，凯文，呃，你是怎么绕过美国银行的网络安全的？我想知道细节。
+My lawyers told me I'm not allowed to discuss it. | 我的律师告诉我，我不被允许讨论这件事。
+Totally get it. | 完全理解。
+- Hey, babe? - Hmm. | - 嘿，宝贝？- 嗯。
+You're up. | 你该起床了。
+- All right, I'm gonna go have a shower. | - 好吧，我要去洗个澡。
+- Mm-hm. | - 嗯。
+- Uh, what was that? | - 呃，那是什么？
+- What? | - 什么？
+Tara just whispered something to you and then she looked at me in a weird way. | 塔拉刚在你耳边说了些什么，然后她用一种奇怪的眼神看着我。
+No, she didn't. | 没有，她没有。
+Yeah, she did. | 是的，她说了。
+What's up? | 怎么了？
+Do you know what compersion is? | 你知道什么是“共情嫉妒”吗？
+It's when someone takes pleasure in seeing their loved one gratified by another person. | 当一个人看到自己的爱人被另一个人满足时，会感到愉悦。
+Sexually. | 性方面。
+It's the opposite of jealousy. | 这是嫉妒的反面。
+It sounds like it's the opposite of normal. | 听起来像是反常。
+Why are you telling me about this thing? | 你为什么告诉我这个？
+As shocking as this is Tara is attracted to you. | 尽管这很令人震惊，但塔拉对你有好感。
+Come again? | 再说一遍？
+Yeah, freaked me out too, at first. | 一开始也把我吓了一跳。
+I don't like the "at first" part at all. | 我一点也不喜欢“一开始”这个说法。
+What are you saying? | 你在说什么？
+Since I abide by the maxim, "Do what thou wilt, that is the whole of the law" if you want to fuck my girlfriend, I'm OK with it. | 既然我遵循“为所欲为，即为至理”的格言，如果你想和我的女朋友上床，我也没意见。
+Jesus Christ, man, I could barely stand next to you when you're in your towel. | 天哪，伙计，当你围着毛巾的时候，我都很难忍受站在你身边。
+I don't want to have a threesome with you. | 我不想和你来个三人行。
+I'm not talking about a threesome. | 我不是说三人行。
+Listen, I don't even have to be in the room, unless that's better for you. | 听着，我甚至不需要在房间里，除非那样对你更好。
+OK, no, I don't | 好吧，不，我不
+Right, so we're all settled then. | 好吧，那我们就说定了。
+- Yep. | - 是的。
+- Do you need parking validation? | - 你需要停车验证吗？
+No, I used Lyft. | 不，我用的是 Lyft。
+So I'll Lyft it back. | 所以我用 Lyft 把它送回去。
+Why don't I have Peter's car take you home. | 我让彼得的车送你回家吧。
+He's not using it, we're shipping off to Arallon tomorrow. | 他现在不用，我们明天要运到阿拉隆去。
+- Arallon? | - 阿拉隆？
+Yeah, the island Peter's building. | 是的，彼得正在建造的那个岛屿。
+What's the the red line? | 那条红线是什么？
+That's the International Date Line. | 那是国际日期变更线。
+The island's built right on it so the western half can celebrate the first new years on Earth, then the next day, they walk over to the eastern half and celebrate the last new years on Earth. | 这个岛屿正好建在国际日期变更线上，所以西半部可以庆祝地球上第一个新年，然后第二天，他们走到东半部庆祝地球上最后一个新年。
+But if you can walk, why does he need the car on the island? | 但如果你能走路，他为什么还需要岛上的车？
+Peter's not really big on walking. | 彼得不太喜欢走路。
+So I'll just have the guys pull it up front for you. | 所以我让伙计们把它开到你前面。
+Great. | 太好了。
+Driverless car. | 无人驾驶汽车。
+Select destination. | 选择目的地。
+Hi. | 嗨。
+Um I'm going to 5230 Newell Road, Palo Alto | 我打算去帕罗奥图的纽厄尔路5230号
+Route guidance calibrated. | 路线引导已校准。
+four point six miles. | 4.6英里。
+Buckle up, please. | 请系好安全带。
+OK. | 好的。
+Enjoy your ride. | 祝您旅途愉快。
+You? | 你呢？
+Tara wants to have sex with you? | 塔拉想和你上床？
+You sure? | 你确定吗？
+Yeah, Gilfoyle just told me, to my face. | 是的，吉尔福伊尔刚才当着我的面告诉我的。
+He told you that Tara wants to copulate with someone else in the house other than him and that someone is you, Dinesh? | 他告诉你塔拉想和房子里的其他人而不是他发生性关系，而那个人就是你，迪内什？
+Yeah, that's You know, you seem confused by this but for a different reason than I am. | 是的，你知道，你对此感到困惑，但原因和我不一样。
+Don't you think it's weird that Tara wants some strange and she chooses you over me, the logical person in the house? | 你不觉得奇怪吗，塔拉想找一个陌生人，她却选择了你而不是我，房子里的理性之人？
+OK, I see where we are ending up on this. | 好吧，我知道我们在这个问题上的分歧在哪里。
+Thank you for your time. | 感谢你抽出时间。
+Wait, are you sure that she didn't ask Gilfoyle for a danish and maybe you misheard her? | 等等，你确定她没有向吉尔福伊尔要一个丹麦糕点，也许你听错了？
+You're probably right, she just wanted to fuck a danish. | 你可能是对的，她只是想吃一个丹麦糕点。
+Wait, you just built all the indexes on the fly? | 等等，你刚刚在运行时构建了所有的索引？
+Yeah, of course. | 是的，当然。
+OK, well Well, then what's that? | 好吧，那么那个是什么？
+The key value store. | 键值存储。
+Tuples. | 元组。
+Speak English. | 说英语。
+You're kind of doing that lip thing again there, buddy. | 你又在做那个嘴唇的动作了，伙计。
+No, I'm not. | 不，我没有。
+Stop looking at my lips. | 别看我的嘴唇。
+Destination override. | 目的地覆盖。
+New destination. | 新目的地。
+One Gregory Drive. | 格雷戈里大道一号。
+Arallon. | 阿拉隆。
+4,126 miles. | 4126英里。
+Enjoy your ride. | 祝您旅途愉快。
+Um, what's happening? | 嗯，发生了什么？
+I'm sorry, what Mr. Car? | 抱歉，什么，卡先生？
+Hey. | 嘿。
+Tara and I are going to a Satanic baptism. | 塔拉和我要去参加一个撒旦洗礼。
+You wanna come? | 你想来吗？
+Stu Burns decided to walk the left-hand path with us. | 斯图·伯恩斯决定和我们一起走左道。
+The database administrator for Yahoo is becoming a Satanist? | 雅虎的数据库管理员要成为撒旦教徒了？
+We're everywhere. | 我们无处不在。
+Hey, Erlich, are you coming? | 嘿，埃尔里希，你来吗？
+Dinesh is. | 迪内什来。
+He is? | 他来？
+This is Monica. | 我是莫妮卡。
+Hi Monica, it's Jared. | 嗨，莫妮卡，我是贾里德。
+Uh, quick question Jared, I can't talk right now. | 呃，贾里德，我有个问题，我现在不能说话。
+One of our assistants has been confusing the eastern, western time zones of Arallon on work orders. | 我们的一个助手在工作订单上把阿拉隆的东、西时区弄混了。
+Now a bunch of important things are happening a day early. | 现在一堆重要的事情提前一天发生了。
+Peter is going to be furious when he finds out. | 彼得发现后会气疯的。
+He's going to make that noise. | 他会发出那种声音。
+Oh, shit, that's him on the other line. | 哦，天哪，那是他在另一条线上。
+I gotta go. | 我得走了。
+- Oh wait Monica. | - 等等，莫妮卡。
+It just - Hi, Peter. | 嗨，彼得。
+Hello, Monica? | 你好，莫妮卡？
+Um, car? Mr. Car? | 呃，车？卡先生？
+Uh, excuse me. | 呃，打扰一下。
+Arallon is an island, so how are we? | 阿拉隆是个岛屿，那我们怎么去？
+Oh, no, no! No. | 哦，不，不！不。
+Stop. | 停下。
+Let me out. | 让我出去。
+Mmm. | 嗯。
+Um Uh, that's not good. | 嗯，那不太好。
+Oh, no! No! | 哦，不！不！
+Excuse me please! Please honk. | 请让一让！请按喇叭。
+Please honk. | 请按喇叭。
+No, no, no, no. | 不，不，不，不。
+No, no, no. | 不，不，不。
+No, no. | 不，不。
+Please. | 请。
+Please. | 请。
+Oh, no, that's not good. | 哦，不，那不太好。
+OK, Donald, stay calm. | 好的，唐纳德，保持冷静。
+103 hours to destination. | 距离目的地还有103小时。
+Entering sleep mode. | 进入睡眠模式。
+- What? No! - Enjoy your ride. | - 什么？不！- 祝您旅途愉快。
+OK, stay calm. | 好的，保持冷静。
+Stay calm. | 保持冷静。
+Wait, my phone. | 等等，我的手机。
+No bars. | 没信号。
+No bars. | 没信号。
+No bars. | 没信号。
+No bars. | 没信号。
+We bring thy garden, o mighty Lucifer, the fragrances which abound therein, vapors of | 我们带来你的花园，强大的路西法，那里的芬芳，那里的蒸汽
+What the fuck are we doing here? | 我们他妈的在这里干什么？
+Look at these fucking people. | 看看这些他妈的人。
+Through this, the black flame of Satan thou walkest in Hell. | 穿过这个，撒旦的黑焰在地狱中行走。
+The gates are flung wide and thy passage is heralded by the deathless cries of his guardian beasts. | 大门被打开，你的通道被他守护野兽的不朽哭声宣告。
+Breathe of his breath, o brother of the night and nourish his waning brain. | 呼吸他的气息，哦，夜晚的兄弟，滋养他那衰弱的大脑。
+- From the despair - I just figured it out. | - 从绝望中——我想明白了。
+It all makes sense. | 这一切都说得通。
+Figured what out? | 明白了什么？
+Why Tara might be in to you more than me. | 为什么塔拉可能对你比对我更感兴趣。
+She's attracted to ugliness. | 她被丑陋所吸引。
+- Oh, fuck you. | - 哦，去你的。
+- No, think about it. | - 不，好好想想。
+This is the life that she chooses, right? | 这就是她选择的生活，对吧？
+She's attracted to unattractiveness. | 她被不吸引人所吸引。
+Look at all these ugly people and Gilfoyle and now you. | 看看这些丑陋的人，吉尔福伊尔，还有现在的你。
+That's ridiculous. | 这太荒谬了。
+I'm way more attractive than you are. | 我比你更有吸引力。
+- No, you're not. | - 不，你不是。
+- Way better looking. | - 比你好看多了。
+By no metric could you possibly be considered more attractive than me. | 没有任何标准能让你被认为比我更有吸引力。
+You're saying that every woman in the entire world would think you're more attractive than I am? | 你的意思是世界上每个女人都会觉得你比我更有吸引力？
+Yes. | 是的。
+Unless they're completely fucked up. | 除非她们完全疯了。
+Damn it. | 该死。
+You doing OK there? | 你还好吗？
+Yep, yeah. Fine, just, you know, it's big orchestration stuff, a lot of moving parts. | 是的，是的。很好，只是，你知道，这是个大型的协调工作，有很多活动部件。
+Nothing you need to worry about. | 没什么需要你担心的。
+You just focus on the cloud. | 你只要专注于云服务就行。
+I'm here if you need me. | 如果你需要我，我就在这儿。
+You know what? Uh I know it's not what we hired you for, but I am actually having a little trouble with the data replication in the persistence layer. | 你知道吗？呃，我知道这不是我们雇你的原因，但我实际上在持久层的数据复制方面有点问题。
+Move over. | 靠边点。
+Uh-huh. | 嗯。
+Oh, Christ. | 哦，天哪。
+I'm much more handsome than you are. | 我比你帅多了。
+No, my face is completely symmetrical. | 不，我的脸完全对称。
+You know what my nickname was when I was a kid? | 你知道我小时候的绰号是什么吗？
+- What? - Pakistani Denzel. | - 什么？- 巴基斯坦丹泽尔。
+You look nothing like him. | 你一点也不像他。
+Denzel Washington has a beautiful smile. | 丹泽尔·华盛顿有个美丽的笑容。
+You look ridiculous. | 你看起来很可笑。
+Hail Satan, it is done. | 撒旦万岁，事情完成了。
+- Hail Satan. | - 撒旦万岁。
+- Hail Satan, it is it's done. | - 撒旦万岁，事情真的完成了。
+Well, thanks for coming, everyone. | 好吧，感谢大家的到来。
+Brother Jason was kind enough to furnish this week's food. | 杰森兄弟很慷慨地提供了这周的食物。
+It's Chick-fil-A. | 是Chick-fil-A的。
+I know, they're on the Christian right, but darned if that chicken isn't good. | 我知道，他们属于基督教右派，但该死的，那鸡肉真好吃。
+I think the Dark Lord would understand. | 我想黑暗之主会理解的。
+Also a reminder. | 另外提醒一下。
+If you parked in the Sav-On parking lot, they do tow. | 如果你把车停在Sav-On停车场，他们会拖走的。
+Well, I didn't know if you wanted original Oreos or Double Stuf so I went a little nutty and I got both. | 我不知道你想要原味奥利奥还是双倍夹心，所以我有点疯狂，两种都买了。
+How's it, um - Fuck. | 怎么样，嗯——该死。
+Fuck. | 该死。
+- Kevin? Hello? Fuck. | - 凯文？你好？该死。
+What are you doing down here? | 你在这里下面做什么？
+I did it again, I did it again. | 我又做了，我又做了。
+- Did what? - I did it again. | - 做了什么？- 我又做了。
+No. | 没有。
+What is this? | 这是什么？
+Did you overwrite the data schema? | 你覆盖了数据架构吗？
+Why would you do this? | 你为什么要做这个？
+You don't ever do this! | 你永远不要做这个！
+That's exactly what they said when I was working at BofA. | 这正是我在美国银行工作时他们对我说的话。
+Working at BofA? I thought you hacked in. | 在BofA工作？我以为你是黑客入侵的。
+No. | 没有。
+I was a consultant at the retail banking services. | 我是零售银行服务的顾问。
+I crashed their entire system. | 我搞崩溃了他们整个系统。
+It took a team of seven engineers more than a week to comb through all the code and find my mistake. | 七个工程师的团队花了超过一周的时间来梳理所有代码，找出我的错误。
+And the only way that I ever avoided being sued was by agreeing to never tell anyone that I worked there. | 我避免被起诉的唯一方法就是同意永远不告诉任何人我在那里工作过。
+Oh, fuck. | 哦，该死。
+Oh, fuck, what?! I just told you. | 哦，该死，什么？！我刚刚告诉了你。
+Now I could get in trouble. | 现在我可能会惹上麻烦。
+Trouble? You just skull-fucked my whole system. | 麻烦？你刚刚把我的整个系统搞得一团糟。
+I am going to punch you in the fucking | 我要揍你的
+We don't like sacrifice goats or anything. | 我们不喜欢献祭山羊或别的什么。
+We're not like the Order of the Golden Dawners, you know. | 我们不像黄金黎明会，你知道的。
+Yeah. | 是啊。
+Richard, are you OK? | 理查德，你还好吗？
+Um Mmm Dinesh, uh, we may have a slight problem. | 嗯，迪内什，我们可能有点小问题。
+The Carver just carved up our entire platform. | “雕刻师”刚刚把我们的整个平台给拆了。
+What the fuck? | 什么鬼？
+Yeah, the database layers, the application layers, even the chef scripts are fucked. | 是的，数据库层、应用层，甚至是厨师脚本都他妈的乱套了。
+The little fucker must have hacked into the DDL tables like he did with BofA. | 这个小混蛋一定是像搞美国银行那样黑进了DDL表。
+He didn't hack into BofA's. | 他没有黑进美国银行。
+He was consulting there at the time, when he took down the system by accident. | 他当时是作为顾问在那里，他意外地搞瘫了系统。
+- Oh, you told them too? - What the fuck? | - 你也告诉他们了？- 他妈的什么？
+Richard, why would you let that little fetus access the DDL? | 理查德，你为什么会让那个小家伙访问DDL？
+Because I thought that fetus was better than me and so did you and everybody and you just, you pressured me into hiring him | 因为我以为那个小家伙比我强，你和每个人也都这么以为，你只是，你逼着我雇用了他
+Yes, Richard, for the cloud, to deploy the cloud. | 是的，理查德，为了云服务，部署云服务。
+So that you could do what you do best and concentrate on everything else which the fetus just fucked up. | 这样你就能做你最擅长的事情，专注于其他所有事情，而那个小家伙刚刚把它们都搞砸了。
+You need to drag this little shit stain | 你需要把这坨狗屎拖出来
+You hear that? Out from under this table and have him go through every single line of code with you to unfuck it while it's still unfuckable. | 你听见了吗？把他从桌子底下拖出来，让他和你一起逐行检查代码，趁还能挽救的时候挽救一下。
+I should not have eaten all of that Satanist chicken. | 我就不该吃那些撒旦教徒的炸鸡。
+OK, and with this one here, did you delete it or just move it? Hello? Kevin. | 好的，那这个呢，你是删掉了还是只是移动了？凯文，喂？
+Maybe. | 可能吧。
+I don't know. | 我不知道。
+What? What does that mean? What's wrong with you, man? I can't focus. | 什么？那是什么意思？你怎么了，伙计？我没法集中精神。
+I'm out of Adderall. | 我的阿德拉吃完了。
+Where's that Jared guy? He was getting my refill. | 那个贾里德呢？他不是去帮我拿药的吗？
+That's actually a really good question. | 这确实是个好问题。
+I don't know where he is. | 我不知道他在哪儿。
+The Carver's Adderall prescription. | “雕刻师”的阿德拉处方。
+I hope that's not a problem. | 希望这不成问题。
+Dead battery. | 没电了。
+That's a problem. | 这可麻烦了。
+I need to lay down. | 我得躺一会儿。
+What? No! You said you could code for 48 hours straight. | 什么？不行！你说过你能连续编程48小时的。
+That's like your thing. | 这可是你的本事。
+Yeah, how the fuck do you think I do that? Adderall. | 是啊，你以为我是怎么做到的？靠阿德拉。
+Well, we don't have any. | 可我们现在没有了。
+It's really bright in here. | 这里太亮了。
+Who takes Adderall anymore. | 现在谁还吃阿德拉。
+Half the kids in Palo Alto. | 帕罗奥图有一半的孩子都在吃。
+Hey. | 嘿。
+Any of you guys currently on Adderall and, uh, you know, want to make 50 dollars? | 你们谁要是正在吃阿德拉，呃，想不想赚50美元？
+Oh, boy. | 哦，天哪。
+What do you mean, it's not Adderall? It's Adderall! I know what Adderall looks like. | 你说什么，这不是阿德拉？这就是阿德拉！我知道阿德拉是什么样的。
+It's not Adderall. | 这不是阿德拉。
+Uh, excuse me. | 呃，打扰一下。
+Caleb? There's been some kind of mistake. | 凯莱布？这里有点误会。
+What you sold me was not actually Adderall. | 你卖给我的根本不是阿德拉。
+So maybe we could Do you think you could get me some real Adderall? Yeah, yeah, of course. | 那我们能不能，你觉得你能搞到真的阿德拉吗？能，当然能。
+Um I could do that or, um, I can give you some of this. | 嗯，我可以搞到，或者，我可以给你这个。
+Ow! OK, I'm gonna You're gonna do what, bitch? Call the cops on me? Tell them you got the wrong illegal drugs from a kid? You dumb piece of shit. | 哎哟！好吧，你要干嘛，臭婊子？报警抓我？告诉他们你从一个孩子手里买了错的毒品？你这个笨蛋。
+Get the fuck out of here. | 滚出去。
+- Uh, you - Run! - All right, I'm running. | - 呃，你 - 快跑！- 好的，我跑。
+- Mm-hm. | - 嗯。
+Keep running! Stupid Richard, what's wrong? Have you been crying? | 快跑！理查德，你怎么了？哭了吗？
+Hey! Which one was it? It was church candy, wasn't it? | 嘿！到底是哪个？是教堂糖果吧？
+You just brought piss to a shit fight, you little cunt! Ow! No, no, no! | 你真是往屎里掺尿，小婊子！哎哟！不，不，不！
+Now you get in your fucking house and you get me five Adderall or I'll slit your fucking throat! | 你现在就给我进屋，给我弄五片阿德拉，不然我就割了你的喉咙！
+You understand? I'll kill your mother! I'll rape your father! | 听懂了吗？我会杀了你妈！我会强奸你爸！
+I'll curb-stomp that little face so hard that your teeth will go flying, you little shit! | 我会把你那张小脸踩得稀巴烂，让你的牙齿满天飞，小杂种！
+Now go! Go! Go! Go! - Get me five Adderall, right now! - OK! I'm sorry! I'm sorry! | 快去！快去！快去！快去！- 给我弄五片阿德拉，马上！- 好！对不起！对不起！
+- Hi. | - 嗨。
+- Tara. | - 塔拉。
+- Hello. | - 你好。
+- Hi. | - 嗨。
+First of all So, um I have thought about it. | 首先呢，呃，我已经考虑过了。
+A lot. | 很多。
+To be honest, elements of this arrangement still trouble me. | 老实说，这个安排的某些方面还是让我很困扰。
+However, I have not had a lot of sexual experiences. | 然而，我没有过很多性经历。
+So I feel it may be foolish to turn this down. | 所以我觉得拒绝可能有点傻。
+So as long as Gilfoyle is not in the room and I can verify that the door is locked then I have concluded that yes I would love to have sexual relations with you Tara. | 所以只要吉尔福伊尔不在房间里，我能确认门锁上了，那我就得出结论了，塔拉，我很乐意和你发生性关系。
+Yeah. | 是啊。
+Uh, what are you talking about? Gilfoyle told me. | 呃，你在说什么？吉尔福伊尔告诉我的。
+I know you want to have sex with me. | 我知道你想和我上床。
+Gilfoyle? Would you come in here for a second? Um - Hm? - Um Did you tell Dinesh that I want to have sex with him? | 吉尔福伊尔？你能进来一下吗？呃 - 嗯？ - 呃，你告诉迪内什我想和他上床了吗？
+No. | 没有。
+Oh, wait, yeah, I totally did. | 哦，等一下，是的，我是说了。
+I forgot about that. | 我忘了。
+I was really high. | 我当时嗨得不行。
+I was just fucking with him. | 我就是逗他玩。
+Did he believe me? Uh Did you just present yourself to my woman? | 他相信了吗？呃，你是不是刚对我女朋友毛手毛脚的？
+Uh Oh, this is outstanding. | 哦，这太精彩了。
+Oh, my God, that is so mean of you! Look at how cute he is. | 哦，天哪，你太坏了！看看他多可爱。
+He's adorable. | 他太可爱了。
+You're adorable. | 你也很可爱。
+Don't call me ador It's very emasculating. | 别叫我可爱，这太伤我自尊了。
+What kind of fucking idiot listens to what Gilfoyle has to say? | 到底是什么白痴才会听吉尔福伊尔的话？
+OK, Tara, here's what it is. | 好了，塔拉，事情是这样的。
+If you can tell me to my face that you seriously find Dinesh more attractive than me, then and only then will I concede defeat. | 如果你能当着我的面说你觉得迪内什比我更有魅力，那我才会认输。
+What? And our regression test is done. | 什么？我们的回归测试完成了。
+Yes. | 是的。
+It's clear, we all test out. | 结果很明确，我们都通过了测试。
+The system's stable again. | 系统又稳定了。
+Thank God. | 谢天谢地。
+Now we can move on to the next module and I can forget you ever existed. | 现在我们可以进入下一个模块了，我可以假装你从没存在过。
+Can you do me a favor? Don't tell anyone I cratered this bad. | 能帮我个忙吗？别告诉别人我搞砸得这么惨。
+I won't tell anyone I hired you if you won't tell anyone you worked here. | 只要你不说你来过这儿，我就不说雇过你。
+Oh, the BofA deal. | 哦，美国银行那事儿。
+Got it. | 明白了。
+Well, I'm gonna call my mom and have her pick me up. | 那我就打电话让我妈来接我了。
+Your mom? Oh, by the way, you owe me 20 thousand dollars. | 你妈？哦，对了，你还欠我2万美元。
+What a dick. | 真是个混蛋。
+You have to talk to Jared about that. | 你得跟贾里德说说那事儿。
+Where is Jared? Excuse me. | 贾里德在哪儿？打扰一下。
+Can you help me? | 你能帮我一下吗？
+Obstacle averted. | 障碍排除了。
+Resuming operations. | 恢复运行。
+Please be careful. | 请小心。

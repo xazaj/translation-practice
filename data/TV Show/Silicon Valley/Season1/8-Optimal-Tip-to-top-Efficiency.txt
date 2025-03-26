@@ -1,0 +1,386 @@
+On behalf of the entire Disrupt conference, I would like to apologize for what happened out there this afternoon. | 代表整个 Disrupt 大会，我要为今天下午发生的事道歉。
+This man will never be asked to judge again. | 这个人再也不会被邀请当评委了。
+I've just learned he's been fired from Oracle, and apparently his wife left him. | 我刚听说他被甲骨文公司开除了，而且他老婆也离开了他。
+Anyway, I just got a call from your attorney, Mr. LaFlamme, informing me that in his view this incident is actionable. | 不管怎样，我刚接到你们律师 LaFlamme 先生的电话，他告诉我这件事是可以采取法律行动的。
+And in addition to holding TechCrunch liable for any damages, which may include the loss to Pied Piper of potentially billions in revenue and share value, uh, he be may naming me personally in a lawsuit. | 除了让 TechCrunch 对任何损失负责，这可能包括 Pied Piper 可能损失的数十亿收入和股票价值，他可能会在起诉书中提到我。
+So I would like to propose that we put this incident behind us, legally speaking, by sending Pied Piper directly through to the finals of Start-Up Battlefield, where you will compete for the grand prize. | 所以我想提议，从法律角度来说，我们把这件事抛诸脑后，让 Pied Piper 直接进入 Start-Up Battlefield 的决赛，去角逐大奖。
+- How does that sound? - I think that's | - 这听起来怎么样？- 我觉得
+One question, uh, regarding our hotel accommodations? | 有一个问题，关于我们的酒店住宿？
+Bam! Am I right, guys? | 砰！我说得对吧，伙计们？
+I was just happy you got punched in the face, Erlich, but now I'm super happy. | 我刚才还因为看到你被打了而高兴，Erlich，现在我更高兴了。
+I feel like I won twice. | 我觉得自己赢了两次。
+I'm gonna disrupt this bathroom. | 我要去搅和一下这个洗手间。
+I don't think this couch pulls out. | 我觉得这张沙发床拉不出来。
+I guess I'll get myself a roll-away bed. | 看来我得给自己弄个行军床了。
+I mean, you're welcome, guys. | 我是说，不客气，伙计们。
+I had to fuck a wife and take a punch, but now we get to go into the finals tomorrow without having blown our wad in the prelims. | 我得娶个老婆，还得挨一拳，但现在我们明天就能进决赛了，不用在预赛中浪费精力。
+We're trending up, boys. | 我们正在上升，伙计们。
+We are trending up. | 我们正在上升。
+Maybe you're right. | 也许你说得对。
+But we should probably get back down there and check out the competition. | 但也许我们应该回到那里，看看竞争情况。
+Ladies and gentlemen, Gavin Belson. | 女士们、先生们，Gavin Belson。
+No matter what you may have heard, size matters. | 不管你听到了什么，大小是重要的。
+Welcome, everyone, to a journey into the Nucleus. | 欢迎大家踏上探索 Nucleus 的旅程。
+I hope this sucks. | 我希望这个很糟糕。
+Nucleus will provide the most diverse features ever assembled in a cloud-based compression suite. | Nucleus 将提供有史以来最多样化的基于云的压缩套件功能。
+Massive functionality, inter-connectivity, and the simplicity one has come to expect from the Hooli family. | 强大的功能、互联互通性，以及 Hooli 家族一贯的简洁性。
+We're making all your files available for lightning-fast download. | 我们将使您的所有文件都可以进行闪电般的快速下载。
+Accessible from any device. | 可以从任何设备访问。
+All these features will be seamlessly synced to Hooli-mail, Hooli-search and the full suite of Hooli computing power. | 所有这些功能都将无缝同步到 Hooli-mail、Hooli-search 和 Hooli 的全套计算能力中。
+That's a lot of functionality. | 这是大量的功能。
+Don't worry, he can't come close to our Weissman score. | 别担心，他的 Weissman 分数没法和我们比。
+Even with all this extra shit, it's like a fancy car with a crappy engine. | 即使加上所有这些额外的东西，它就像是一辆有破发动机的豪华车。
+And now, for the moment of truth. | 现在，到了关键时刻。
+As you will now see, our Weissman score is the best in the history of compression. | 现在你们会看到，我们的 Weissman 分数是有史以来压缩领域最好的。
+What the fuck? That's exactly the same score as us. | 他妈的？这和我们的分数一模一样。
+Two-point-eight-nine. | 2.89。
+That is not an error. | 这不是错误。
+We are breathing rare air here, operating at the limit for lossless compression in audio, video and data. | 我们正在挑战无损音频、视频和数据压缩的极限。
+Anyone who tells you that their platform is faster than ours better have good lawyers. | 任何说他们的平台比我们快的人最好有好律师。
+I hope you've enjoyed your journey into the Nucleus. | 希望你们喜欢这次探索 Nucleus 的旅程。
+We have the speed. | 我们有速度。
+We have the features. | 我们有功能。
+And we have Shakira! | 我们还有 Shakira！
+Hola, TechCrunch! | 嗨，TechCrunch！
+I mean, they just completely reverse-engineered our entire compression engine. | 我是说，他们完全逆向工程了我们的整个压缩引擎。
+He totally sniped us. | 他完全抢了我们的风头。
+- We'll be fine. - What? They judge this contest on viability in the marketplace. | - 我们会没事的。- 什么？他们根据市场可行性来评判这个比赛。
+I mean, at best, we're a worse version of Nucleus. | 我是说，顶多我们是 Nucleus 的一个更差版本。
+I mean, they have 50 modules, and they're all awesome. | 我是说，他们有 50 个模块，而且都很棒。
+We have five that barely work. | 我们有 5 个勉强能用的。
+I mean, we're still having trouble compressing | 我是说，我们还在压缩方面有麻烦
+Who the fuck cares? So the platform can't handle 3D files. | 谁他妈在乎？这个平台处理不了 3D 文件。
+You know what, 3D movies suck anyway. | 你知道吗，3D 电影本来就不好。
+I could actually argue this Gavin nonsense is a positive. | 我其实可以争辩说 Gavin 的这种荒唐行为是件好事。
+Please don't. | 别。
+We just need to really dial it up for the big show tomorrow. | 我们只需要为明天的大秀加把劲。
+Dial what up? He just ruined us. | 加什么劲？他刚毁了我们。
+And until then, we need to do what any animal in nature does when it's cornered, act erratically, and blindly lash out at everything around us. | 在此之前，我们需要像自然界中被逼到角落的动物一样，行为反常，盲目地对周围的一切乱抓乱咬。
+I'm gonna go get in Gavin's head. | 我要去钻进 Gavin 的脑袋里。
+Hey, guys, I just had a thought. | 嘿，伙计们，我刚有个想法。
+OK, so this is it, right? A lot of successful start-ups launched with a different business model, and when they ran into trouble, they pivoted to something new. | 好吧，就是这样，对吧？很多成功的创业公司最初采用不同的商业模式，遇到麻烦时就转向新的模式。
+Like Instagram. | 比如 Instagram。
+That was a location-based check-in service when it started. | 它最初是一个基于位置的签到服务。
+And then they pivoted. | 然后他们转向了。
+Or Chat Roulette, OK, that was social media, and then they pivoted to become a playground for the sexually monstrous. | 或者 Chat Roulette，那本来是社交媒体，然后他们转向变成了性怪人的游乐场。
+We just need a new idea, something that people want. | 我们只需要一个新点子，人们想要的东西。
+Right? We can pivot, too. | 对吧？我们也可以转向。
+- Dude, you are fucked up right now. - Yeah, you're pinning bad. | - 伙计，你现在太不正常了。- 是啊，你表现得很差。
+Well, I'll admit, I'm sleep-challenged. | 我承认，我睡眠不足。
+I just spent four days trapped in a steel box out on an oil rig full of robot-forklifts. | 我刚在海上一个满是机器人叉车的油井里的一个钢箱子里被困了四天。
+So, that was hard, but I'm back. | 所以，那很难熬，但我回来了。
+I am recovering and I am focused and we're gonna pivot. | 我正在恢复，我集中精力，我们要转向。
+Don't lose faith, guys. | 别失去信心，伙计们。
+All right, look at me. Look at me. Look at me. | 好了，看着我。看着我。看着我。
+We've got a great name. | 我们有一个很棒的名字。
+We've got a great team. | 我们有一个很棒的团队。
+We've got a great logo, and we've got a great name. | 我们有一个很棒的标志，我们有一个很棒的名字。
+Now we just need an idea. | 现在我们只需要一个点子。
+Let's pivot! Let's pivot! | 让我们转向！让我们转向！
+That might be the last time we see him alive. | 那可能是我们最后一次看到他活着。
+I think I'm just gonna take a walk and, you know, try and clear my head. | 我觉得我出去散散步，你知道，试着清醒一下头脑。
+I'll see you guys back at the hotel room and we'll figure out what to do. | 我会在酒店房间见你们，我们到时候再想出该怎么办。
+We're going to be poor. | 我们要变穷了。
+Hi! I'd like to talk to you about a company called Pied Piper. | 嗨！我想和你们聊聊一家叫 Pied Piper 的公司。
+What does it do? Good question. | 它是做什么的？好问题。
+Maybe you can help us find an answer. | 也许你能帮我们找到答案。
+What if Pied Piper was an app that could attract rodents? You know, like the fairy tale? For purposes of extermination or to feed your pet snake. | 假如 Pied Piper 是一个能吸引啮齿动物的应用程序呢？你知道，就像童话一样？用于灭鼠或者喂你的宠物蛇。
+We're not here to tell you what to do with your rats, we're here to get your rats, STAT. | 我们不是来告诉你怎么处理你的老鼠，我们是来把你的老鼠弄走，立刻。
+Would you be very interested, somewhat interested or not interested? Which one? Which one? Which one? | 你会很感兴趣、有点感兴趣还是不感兴趣？哪一个？哪一个？哪一个？
+Look at them, all full of hope. | 看看他们，满心希望。
+Pricks. | 笨蛋。
+Oh, look, Kwerpy's here recruiting. | 哦，看，Kwerpy 在这里招人呢。
+They just got 20 million in Series A at a $280 million dollar valuation. | 他们刚刚在 A 轮融资中获得了 2000 万美元，估值 2.8 亿美元。
+- Wow. - That could have been us. | - 哇。- 那本可以是我们。
+It's too bad we already have jobs, we could easily go work there. | 真遗憾我们已经有工作了，我们很容易就能去那里工作。
+Yeah. | 是啊。
+It'd be a real dickhead move to bail on Richard now, right? I mean, before we officially go under. | 现在抛弃 Richard 可真是个混蛋行为，对吧？我是说，在我们正式倒闭之前。
+- Yeah. - Yeah. | - 是啊。- 是啊。
+Total dickhead move. | 彻头彻尾的混蛋行为。
+- And we are so close. - I mean, he is standing right there. | - 我们离成功就差一步了。- 我是说，他就站在那里。
+- But I'm not a dickhead. - No. | - 但我不是混蛋。- 不是。
+Neither am I. | 我也不是。
+Yep, just a couple of non-dickheads. | 是啊，我们只是两个不是混蛋的人。
+My dick and my head, totally separate. | 我的命根子和我的脑袋，完全不相干。
+You've heard the phrase, "Time to pay the piper," right? What if there was an app called Pied Piper that could tell you, to a statistical degree of certainty, whether you were going to heaven or hell? | 你听说过“该付钱给吹笛人”的说法吧？要是有个叫 Pied Piper 的应用程序，能从统计学角度告诉你，你会去天堂还是地狱呢？
+Very interested, somewhat interested, not interested? Which one? Which one? Which one? | 你会很感兴趣、有点感兴趣还是不感兴趣？哪一个？哪一个？哪一个？
+So you made some really over-the-top promises about Nucleus. | 所以你对 Nucleus 做了一些非常夸张的承诺。
+- Can you deliver? - Absolutely. | - 你能兑现吗？- 绝对能。
+For me, Kara, goodness, greatness, these are not simply catch phrases, but, in fact, really the intention of Hooli from the beginning. | 对我来说，Kara，善良、伟大，这些不仅仅是口号，事实上，这真的是 Hooli 从一开始就有的意图。
+Gavin, you do not need to dignify any of this with a response! I can speak for myself. | Gavin，你不需要回应这些！我可以代表我自己说话。
+Erlich Bachman, Pied Piper. | Erlich Bachman，Pied Piper。
+Was I brutally assaulted? Yes. | 我被残忍袭击了吗？是的。
+Did Gavin Belson here have anything to do with it? Unclear. | 这里的 Gavin Belson 与此有关吗？不清楚。
+All I know is that the rumor that TechCrunch is all abuzz about is unproven. | 我只知道 TechCrunch 传得沸沸扬扬的谣言是没有证据的。
+- Wait, what rumor? - Thank you. | - 等等，什么谣言？- 谢谢。
+Why would Gavin have anything to do with this? Unless he had some reason to be frightened by Pied Piper and it's superior technology? | Gavin 为什么会和这个有关呢？除非他有什么理由害怕 Pied Piper 和它优越的技术？
+This and all other Gavin Belson rumors are unsubstantiated. | 这些和所有其他关于 Gavin Belson 的谣言都是没有根据的。
+OK, the alcoholism, the sexual impropriety at work, the impending crash of Hooli's stock | 好吧，酗酒、工作中的性不当行为、Hooli 股票即将崩盘
+This is the most ridiculous | 这是最荒谬的
+Exactly. | 就是。
+So why repeat the lascivious details, with which all of us are undoubtedly already familiar? | 那为什么还要重复那些我们无疑都已经很熟悉的淫荡细节呢？
+Guilty or not, Gavin, I stand with you. | Gavin，不管你有没有罪，我都站在你这边。
+Care to comment? Let's keep moving, shall we? | 想评论一下吗？我们继续前进，好吗？
+Yes, let's all keep moving. | 是的，我们大家都继续前进。
+Let's move on from this. | 我们从这件事上继续前进。
+I forgive you, Gavin. | 我原谅你，Gavin。
+No matter how brutally I was assaulted. | 不管我被袭击得多残忍。
+Wow, Pied Piper sounds like a great place to work. | 哇，Pied Piper 听起来像是个很棒的工作地方。
+Oh, yeah, it is. | 哦，是的。
+Pied Piper is the best, right? | Pied Piper 是最好的，对吧？
+Oh, my God, everyday feels like I've died and gone to hell. | 哦，我的天，每天都感觉我死了下地狱了。
+I'm sorry. | 对不起。
+- He's a Satanist, so it's good. - Mm-hmm. | - 他是撒旦教徒，所以这是好事。- 嗯。
+- Oh, fun. - The point is, we love our company, and I don't have a problem saying that out loud. | - 哦，好玩。- 重点是，我们爱我们的公司，我大声说出来没问题。
+- You - Love it. | - 你 - 爱它。
+We both say it out loud and I think that fact, proves that we're not dickheads. | 我们都大声说出来，我觉得这个事实证明我们不是混蛋。
+So what we wanted to ask you was | 所以我们想问你的是
+Guys? Totally between us, our beta crapped out. | 伙计们？完全在我们之间，我们的测试版搞砸了。
+The VC's did a full clawback and our Series A is DOA. | 风险投资方进行了全额回收，我们的 A 轮融资已经死了。
+We're going down. | 我们要完蛋了。
+We have enough runway for maybe two, three weeks max. | 我们最多还有两周、三周的资金维持。
+So do you guys think you could hire me? | 你们觉得你们能雇用我吗？
+How much would it be worth to you if I told you I had a GPS app called Pied Piper, tracking the location of your child? | 要是我告诉你我有一个叫 Pied Piper 的 GPS 应用程序，能追踪你孩子的行踪，你觉得这值多少钱？
+I can follow your child anywhere, and there is nothing you can do to stop me. | 我可以跟着你的孩子去任何地方，你什么都不能做来阻止我。
+Most missing children are never found. | 大多数失踪儿童永远都找不到。
+Interested, very interested, or very interested? | 感兴趣，非常感兴趣，还是非常感兴趣？
+Richard. | Richard。
+Hi - Hey suitcase. | 嗨 - 嘿，行李箱。
+Yeah. - Yeah. | 是的。- 是的。
+So you're Peter called. He saw Erlich's presentation, such as it was. | 所以你是说 Peter 打了电话。他看了 Erlich 的演示，就像演示的那样。
+And Gavin's. | 还有 Gavin 的。
+So he wants me to go back to Palo Alto. | 所以他想让我回帕罗奥图。
+There's just a few other things he wants me working on. | 他只是想让我做几件别的事。
+Now that we're, you know, dead in the water. | 现在我们，你知道，已经没戏了。
+Listen, I'm sorry you walked away from the money like you did. | 听着，我很抱歉你像那样放弃了那笔钱。
+But I swear I only wanted Peter to seed you because I thought you had a really great company. | 但我发誓我只是想让 Peter 给你种子投资，因为我觉得你有一个很棒的公司。
+It just didn't work out for you this time. | 这次就是没成功。
+Uh can I be honest with you? I haven't had more than two straight hours of sleep in months. | 我能和你说实话吗？几个月来我没有连续睡过超过两个小时。
+I've had a cold for, like, a year. | 我好像已经感冒一年了。
+My stomach cramps up so much I feel like I'm menstruating. | 我的肚子疼得我感觉就像来月经了。
+Maybe this is for the better. | 也许这是好事。
+Look, I gotta go. | 看着，我得走了。
+I'm really sorry that we're not gonna be working together anymore. | 我真的很抱歉我们以后不能一起工作了。
+Yeah, me too. | 是啊，我也是。
+I guess I guess we won't see each other again. | 我猜我们不会再见面了。
+Well, I mean, now that the rules about socializing with co-workers aren't in effect anymore. | 我是说，既然关于同事之间社交的规定已经不再有效了。
+Let me know if you want to grab a drink sometime. | 如果你想什么时候喝一杯，告诉我一声。
+What, like a "drink" drink? You go on dates with failures? | 什么，像那种“喝一杯”的约会？你和失败者约会？
+- Constantly. - OK. | - 经常。- 好吧。
+- Uh bye. - OK. | - 呃，再见。- 好吧。
+- Bye. | - 再见。
+You have any weapons or drugs on your person at this time? | 你身上有武器或者毒品吗？
+Why, yes. Yes, I do. Adderall. | 为什么，是的。是的，我有。利他林。
+This is a highly controlled substance. | 这是一种高度管制的物质。
+Are these yours? No! Those belong to an underage kid that I brought to my house. | 这些是你的吗？不！那些属于我带到我家的一个未成年孩子。
+Yeah, sir, I'm going to have to ask you to come with me. | 是的，先生，我得请你和我走一趟。
+That's a kind invitation, but I have too much to do. | 这是一个友好的邀请，但我有太多事要做。
+I'm pivoting! | 我正在转向！
+- Let's go now! - No. | - 现在就走！- 不。
+I'm pivoting! I'm pivoting! I'm pivoting! | 我正在转向！我正在转向！我正在转向！
+I mean, what do we even present tomorrow? | 我是说，我们明天甚至要展示什么？
+Honestly, anyone? | 说实话，任何人？
+Why do we have to present at all? | 我们为什么必须展示？
+What's that supposed to mean? | 那是什么意思？
+If we are going to fail and be humiliated, why do it on stage in front of 1,000 people and a live-streamed audience? | 如果我们要失败并且被羞辱，为什么要在 1000 人面前和直播的观众面前做呢？
+Are you saying we shouldn't even show up? | 你是说我们甚至不应该出现吗？
+No offense, but it's basically going to be a public execution. | 别介意，但基本上这将是一场公开处决。
+Yes, and public executions are very popular. | 是的，公开处决非常受欢迎。
+It's show business. | 这是表演。
+We are not quitting, Richard. | 我们没有放弃，Richard。
+Look, Erlich, I want to present, I do, it's just I don't know. | 看着，Erlich，我想展示，我是想，我只是不知道。
+Jesus, are you OK? What? Yeah, I OK. Yeah, all good. | 天哪，你还好吗？什么？是的，我很好。是的，一切都好。
+They let me go. - Who let you go? - When was the last time you slept, Jared? | 他们放我走了。- 谁放你走了？- Jared，你上次是什么时候睡觉的？
+Absolutely, David. | 绝对，David。
+What are we talking about, gents? | 我们在谈论什么，伙计们？
+We're talking about how I didn't get to present in the prelims, because I was too busy getting my face pummeled so that our team could move forward. | 我们在谈论我为什么没有在预赛中展示，因为我忙着被人打脸，这样我们队才能前进。
+That's why we're presenting tomorrow. | 这就是为什么我们明天要展示。
+And you know what? We're going to win. | 你知道吗？我们要赢。
+Yeah, we're gonna win even if I have to go into the auditorium and personally jerk off every guy in the audience. | 是的，我们要赢，即使我不得不走进礼堂，亲自为观众中的每一个男人手淫。
+That's a lot of jerking. | 那可真是很多手淫。
+And we only have ten minutes to present. | 我们只有十分钟来展示。
+So So, we're fucked, aren't we? | 所以，我们完蛋了，不是吗？
+Yeah, even if he's jerking two at a time, there are, what, 800 guys in that room? | 是的，即使他一次手淫两个，那个房间里有，有多少，800 个男人？
+So that's 400 times whatever the mean jerk-time is. | 所以那是 400 乘以平均手淫时间。
+- The what? - Mean jerk-time. | - 什么？- 平均手淫时间。
+I mean, it doesn't matter, but, hypothetically, time is equal to 400 total jerks at a two-dick rate. | 我是说，这不重要，但，假设一下，时间等于 400 次手淫除以每次两个阴茎的速率。
+Unless Erlich jerks off four guys at a time, and then we can cut that in half. | 除非 Erlich 一次手淫四个男人，那么我们可以把时间减半。
+How would he do four guys? He's got two hands, so that's two dicks at a time, right? | 他要怎么手淫四个男人？他只有两只手，所以一次只能手淫两个阴茎，对吧？
+Look, you have two guys on either side with their dicks, tip to tip, so you're going full-length. | 看着，你两边各有两个男人，他们的阴茎头对头，所以你是全程手淫。
+Four, see? - Oh - From the middle out. | 四个，明白了吗？- 哦 - 从中间向外。
+That does make sense. - Like two Shake Weights? | 这说得通。- 像两个健身球？
+Yeah, so what we're trying to do, hypothetically, is minimize time, which is 800 dudes, multiplied by mean-jerk time, divided by four dicks at a time. | 是的，所以我们要做的是，假设一下，最小化时间，800 个男人乘以平均手淫时间除以每次四个阴茎。
+Of course, Erlich would have to pre-sort guys by height, so that their dicks lined up. | 当然，Erlich 必须先按身高对男人进行排序，这样他们的阴茎才能排成一行。
+Not by height, technically. | 从技术上说，不是按身高。
+The measurement that we're looking for, really, is dick to floor. | 我们真正要找的测量方式是阴茎到地板的距离。
+Call that D2F. - Huh. - Oh, my God. | 叫这个 D2F。- 哦。- 天哪。
+You know, if a guy's dick was long enough, it would be able to reach up or down to another guy with a different D2F. | 你知道，如果一个男人的阴茎够长，它就能向上或向下够到另一个 D2F 不同的男人。
+The longer the dick, the greater the D2F bridge, but I would still be able to jerk it off in one smooth motion I'd just have to jerk it on an angle. | 阴茎越长，D2F 桥梁越大，但我仍然可以一气呵成地手淫，我只是必须斜着来。
+So D2F sub-1 needs to equal D2F sub-2, and D2F sub-3 needs to equal D2F sub-4, where length L creates a complimentary shaft angle. | 所以 D2F 下标 1 必须等于 D2F 下标 2，D2F 下标 3 必须等于 D2F 下标 4，长度 L 形成一个互补的轴向角度。
+I'm such an idiot. Middle out! Middle out! Middle out! | 我真是个白痴。从中间向外！从中间向外！从中间向外！
+Oh, my God. How could I? Uh Guys, does girth-similarity affect Erlich's ability to jerk different dicks simultaneously? | 天哪。我怎么会这样？呃，伙计们，阴茎周长相似性会影响 Erlich 同时手淫不同阴茎的能力吗？
+Shit. Yeah, I think it would. | 该死。是的，我想会的。
+Of course, it does. | 当然会。
+Time to orgasm, or T2O, has to be the same for each matching pair of dicks otherwise I'm wasting a lot of great strokes on a guy that's already busted. | 达到高潮的时间，或者叫 T2O，必须对每对匹配的阴茎都相同，否则我在一个已经射精的男人身上浪费了很多很好的抽插。
+Unless you can hotswap dicks in and out. | 除非你能快速替换阴茎。
+So on a downstroke, you get a new one in. | 所以在向下的抽插中，你会得到一个新的阴茎。
+So when you stroke up you're not wasting any energy. | 所以当你向上抽插时你不会浪费任何精力。
+Even so. | 即使如此。
+I think this is the most reliable metric for stamina. | 我认为这是衡量耐力的最可靠的指标。
+Guys? Richard's been locked in here for almost two hours. | 伙计们？Richard 在这里被锁了快两个小时了。
+Do we think he's OK? Hmm. | 你们觉得他还好吗？嗯。
+You don't think he'd | 你不觉得他会
+He did seem pretty bummed out. | 他看起来确实很沮丧。
+All right, guys, let's go. | 好吧，伙计们，我们走。
+- The finals are starting. - Up! Gilfoyle! Jesus! What happened to the door? | - 决赛开始了。- 起来！Gilfoyle！天哪！门怎么了？
+Don't worry about it, Richard, is the platform up and running? | 别担心这个，Richard，平台运行起来了吗？
+I made a few changes, but yeah | 我做了一些改动，但可以
+OK, tell me on the walk. | 好的，边走边说。
+All right, you dildos, let's go! | 好了，你们这些家伙，我们走！
+All right, talk to me, Richard. | 好了，和我说说，Richard。
+What were you working on last night? | 你昨晚在做什么？
+Well, uh, I might've made a breakthrough. | 嗯，我可能有了一个突破。
+Really, so everything is working? | 真的，所以一切都运行正常？
+Uh, technically, no. | 嗯，从技术上来说，没有。
+Let's face it, ladies, is there anything less sexy than when a user's visualization UX is completely sub-optimal? | 坦白说，女士们，还有什么比用户的可视化用户体验完全不理想更不性感的呢？
+I mean, it's the worst, right? | 我是说，这是最糟糕的，对吧？
+So we've gone through all the research and all the steps. | 所以我们已经完成了所有的研究和步骤。
+We have a solution for these problems and Zenella is ready to bring it to the marketplace. | 我们有了这些问题的解决方案，Zenella 已经准备好把它推向市场了。
+Yeah, I get it, Richard. | 是啊，我懂了，Richard。
+You changed a lot. | 你改变了很多。
+Just give me the basics and I can roll with it. | 只要给我讲讲基本的，我就能跟上了。
+I need to know what I'm presenting here. | 我需要知道我在这里要展示什么。
+I don't think I have time to explain it all. | 我觉得我没有时间解释所有内容。
+What the hell does that mean? Richard? | 这到底是什么意思？Richard？
+Is this the right build? I can't find the mobile suite here. | 这是正确的版本吗？我在这里找不到移动套件。
+Uh, it is nowhere. | 嗯，它不在任何地方。
+I deleted it. - What? - Here they are. | 我删掉了。- 什么？- 它们在这里。
+- Pied Piper's here. - Sorry we're late. | - Pied Piper 在这里。- 对不起，我们迟到了。
+Richard, talk to me. | Richard，和我说话。
+I can't front a band without knowing what we're playing? | 我不能在不知道我们要演奏什么的情况下带领一个乐队。
+Uh I'm think I'm just going to do the presentation myself. | 我想我自己来做这个展示。
+Wait, what? No, no, no, Richard, Richard, Richard, Richard. | 等等，什么？不，不，不，Richard，Richard，Richard，Richard。
+Respectfully Respectfully, you're terrible. | 尊敬地，尊敬地，你很糟糕。
+You have world class showman standing right in front of you and you're going to pass on that? | 你面前就站着世界级的表演家，你要错过这个机会吗？
+Release me, Richard. Release the Kraken! | 放开我，Richard。释放克拉肯！
+- Pied Piper. - You're on. | - Pied Piper。- 你上。
+- This is it! I don't know what you did, Richard, - but I hope it works. | - 就是现在！我不知道你做了什么，Richard，- 但我希望它能成功。
+- Me, too. | - 我也是。
+All right, let's welcome our final team to the finals of this year's TechCrunch Disrupt Start-Up Battlefield. | 好了，让我们欢迎今年 TechCrunch Disrupt Start-Up Battlefield 决赛的最后一只队伍。
+Presenting for Pied Piper is Erlich Bachman. | 代表 Pied Piper 展示的是 Erlich Bachman。
+Uh actually there has been a change of plans. | 嗯，实际上计划有变。
+Presenting for Pied Piper will be Richard Hendricks. | 代表 Pied Piper 展示的将是 Richard Hendricks。
+Richard? Sorry. Got a little light-headed there for a second. | Richard？抱歉。刚才有点头晕。
+I set 'em up for you, now knock 'em down. | 我已经帮你把它们摆好了，现在把它们击倒。
+I don't understand. I thought he made the platform better. | 我不明白。我以为他改进了这个平台。
+- He just deleted everything. - Maybe he moved it to the cloud? No. | - 他刚刚删掉了所有东西。- 也许他把它移到云端了？没有。
+All The Carver's work is gone. | Carver 的所有工作都没了。
+Pied Piper is a cloud based compression. | Pied Piper 是一个基于云的压缩系统。
+Without the cloud, nothing's left. | 没有云，什么都没有了。
+Gentlemen, this is likely the last ten minutes of Pied Piper, so let's enjoy it. | 先生们，这可能是 Pied Piper 最后的十分钟，所以让我们好好享受吧。
+- Has he lost his mind? - He's lost his fucking mind. | - 他失去理智了吗？- 他他妈的失去理智了。
+Hello Hello. Hello. | 你好。你好。你好。
+Um I am My name is Richard Hendricks, and I am, along with this guy, him, him and another guy that has disappeared | 嗯，我是 Richard Hendricks，我，还有这个家伙，他，他，以及另一个消失了的家伙
+Uh um We are Pied Piper. | 呃，我们是 Pied Piper。
+A compression company. | 一个压缩公司。
+Well, you know, in your pamphlets it says that we are a cloud based multi-platform solution for user-focused compression. | 嗯，你们的小册子上说我们是一个基于云的多平台的用户压缩解决方案。
+And we were. | 我们曾经是。
+Until yesterday. | 直到昨天。
+But now we are not. | 但现在我们不是了。
+Uh, because you see, Hooli did everything that we were tying to do, better, way better. | 嗯，因为你们知道，Hooli 做了我们试图做的一切，而且做得更好，好得多。
+Um Nucleus is built on the same engine as ours, like exactly the same, and their Weissman score was 2.89, same as ours. | 嗯，Nucleus 是用和我们完全相同的引擎构建的，他们的 Weissman 分数是 2.89，和我们的一样。
+But the thing is, they built a ton of really great stuff up on top of that. | 但问题是，他们在那上面构建了很多非常棒的东西。
+And we can't compete, so now we have to be something else. | 我们没办法竞争，所以我们现在必须成为别的东西。
+Um well-played, Hooli. | 嗯，Hooli 玩得很好。
+Uh, OK, so anyway, we all know that the most obvious way to compress files is with Shannon coding, right? Top down. | 嗯，好吧，总之，我们都知道压缩文件最明显的方式是用 Shannon 编码，对吧？自上而下。
+Richard, they can't see that, it's too small. - OK. - Literally, hundreds of people here. | Richard，他们看不见那个，太小了。- 好吧。- 这里有几百人。
+Oh, no, but I need | 哦，不，但我需要
+Shit, OK. Uh, so Shannon coding and then David Huffman came along, and he pioneered bottom up, and Lempel-Ziv with left to right, obviously. | 该死，好吧。嗯，Shannon 编码，然后 David Huffman 出现了，他开创了自下而上的编码方式，还有 Lempel-Ziv 的从左到右，显然。
+And for decades, we used these codes to compress, you know, JPEGs, MPEGs, MP3s, zips, all that stuff. | 几十年来，我们用这些编码来压缩，你知道的，JPEGs、MPEGs、MP3s、zips，所有那些东西。
+But we all know that, so there's no point in talking about it. | 但我们都知道这个，所以没有谈论的必要。
+But what happened was, last night I was watching my friends here have this argument. | 但发生的事情是，昨晚我看到我的朋友们在这里争论。
+About, you know, manipulating data | 关于，你知道，操纵数据
+And, you know, how many datas could one guy manipulate at once and, uh | 以及，你知道，一个人一次能操纵多少数据，还有，呃
+And I was just I was thinking. | 我只是我在想。
+Maybe it could be another way, you know? Something that I would call, "middle out". | 也许还有另一种方式，你知道？我会称之为“由内而外”。
+It's up and down, back and forth all at the same time going on at once. | 它是上下、来回同时进行的。
+OK, well, anyway, I deleted all our modules last night, and I completely rebuilt our engine, from scratch last night. | 好吧，总之，我昨晚删掉了我们所有的模块，我昨晚从零开始重建了我们的引擎。
+Um Now, this morning I really only had enough time to do one test, and when I did, we hit a Weissman score of 3.8. | 嗯，今天早上我真的只来得及做一次测试，结果我们达到了 3.8 的 Weissman 分数。
+Now, I know the theoretical limit was 2.9, - but as you can see here - I'm sorry. | 我知道理论上的极限是 2.9，- 但正如你在这里看到的 - 对不起。
+You scored a 3.8? Uh Yes, sir. | 你得到了 3.8 分？嗯，是的，先生。
+And this is a universal lossless compression engine? - Text? Audio? Video? - Yes, that is correct. | 这是一个通用的无损压缩引擎吗？- 文本？音频？视频？- 是的，没错。
+Well, I'm sorry to interrupt your eloquent presentation, Richard. | 对不起，打断你精彩的演讲，Richard。
+But, rather than say anything more, why don't we just give you a file and we'll see whether this thing can do what you say it does. | 但是，与其再说什么，我们为什么不直接给你一个文件，看看这个东西是否能像你说的那样工作。
+Because if it can't, then we're done here, right? Yeah. Yeah, that's fair. | 因为如果它不能，那么我们在这里就结束了，对吧？是的。是的，这很公平。
+So we can give you any kind of file and you can compress it, without degradation, at this standard? Three-eight? Yes yep. | 所以我们可以给你任何类型的文件，你可以按照这个标准在不降低质量的情况下压缩它？3.8？是的，没错。
+All right, give us a minute, please. | 好吧，请给我们一分钟。
+- What do we got? - Does anyone have anything? - I've got a file for him. | - 我们有什么？- 有人有东西吗？- 我有一个文件给他。
+OK. Andy Stafford here has a file for you. | 好的。Andy Stafford 这里有一个文件给你。
+- OK. - It's a 132 gigabytes un-compressed, and it's a 3D video file. | - 好的。- 它是一个未经压缩的 132 GB 的文件，而且是一个 3D 视频文件。
+OK. Shit - A fucking 3D file? - Yes. - Are you fucking kidding me? - Goddammit. | 好的。该死 - 一个他妈的 3D 文件？- 是的。- 你在开玩笑吧？- 该死。
+- Can we handle this? - I guess we'll find out. | - 我们能处理这个吗？- 我猜我们会知道。
+Dammit, I hope this works. | 该死，我希望这能成功。
+Shit it's hung. | 该死，它卡住了。
+Oh, no. Is it stuck? There is a time limit, you have two minutes remaining. | 哦，不。它卡住了吗？有限时，你还有两分钟。
+Come on, come on, come on | 快点，快点，快点
+It looks like it's done. | 看起来它完成了。
+Wait, 24 gigs? What happened? Oh shit, there's no way. | 等等，24 GB？发生了什么？哦，天哪，不可能。
+It didn't compress the whole thing. | 它没有压缩整个文件。
+It should be twice that size. | 它应该是两倍那么大。
+I mean, 24 gigs, that's less than a fourth the file size. | 我是说，24 GB，那不到文件大小的四分之一。
+That seems dubious, Richard. | 这看起来很可疑，Richard。
+Why don't we run a Weissman test for verification, see where we went wrong. | 我们为什么不做一次 Weissman 测试来验证，看看我们哪里出错了。
+OK, I mean it shouldn't take too long, it only compressed half the fucking file. | 好的，我的意思是这不会花太长时间，它只压缩了半个他妈的文件。
+I'm sorry. I shouldn't have rewritten all this code. | 对不起。我不应该重写所有这些代码。
+I mean, what we had before worked. | 我是说，我们之前用的代码能正常工作。
+I'm sorry, guys. | 对不起，伙计们。
+Gavin won. We lost. | Gavin 赢了。我们输了。
+At least it didn't happen in a public and brutally embarrassing way. | 至少这不是以一种公开且极其尴尬的方式发生的。
+- Thanks, Gilfoyle. - Yeah. | - 谢谢，Gilfoyle。- 是啊。
+Wait a second. | 等一下。
+What's happening? There's no errors, look! - Five-point-two? How, how? - Wait, what? | 发生了什么？没有错误，看！- 5.2？怎么，怎么？- 等等，什么？
+Wait, what? Wait, it compressed the whole file? That's the whole file. | 等等，什么？等等，它压缩了整个文件？这就是整个文件。
+It's just half the size I thought it would be. | 它只有我原来以为的一半大小。
+Ladies and gentlemen, obviously we're going to keep looking at this to verify, but with a confirmed score of 5.2, Pied Piper appears to have just doubled the best Weissman score ever measured. | 女士们，先生们，显然我们还会继续查看这个来验证，但有了一个确定的 5.2 分，Pied Piper 似乎刚刚把有史以来测得的最好的 Weissman 分数翻倍了。
+Doubled it! Pied Piper, ladies and gentlemen! Let's hear it for them! | 翻倍了！Pied Piper，女士们，先生们！让我们为他们鼓掌！
+Holy shit! | 天哪！
+Hey, I'm at TechCrunch. | 嘿，我在 TechCrunch。
+This kid Hendricks and Pied Piper just ran a two minute mile. | 这个叫 Hendricks 的孩子和 Pied Piper 刚刚跑出了一个两分钟一英里的成绩。
+We should get on this, now. | 我们应该立刻关注这个。
+Suck it, Gavin Belson! | 吸它，Gavin Belson！
+Hendricks, you beautiful bastard! I told you we'd do it! | Hendricks，你这个漂亮的家伙！我告诉过你能做到！
+Come on! We're not going to be poor! | 快！我们不会穷了！
+What happened? What happened? What happened? | 发生了什么？发生了什么？发生了什么？
+Uh, we just won the cup! | 呃，我们刚刚赢得了奖杯！
+And I don't think it comes as any shock that the winner of this year's Disrupt Cup and $50,000, like they're going to need it, is Pied Piper. | 我不觉得这会让人吃惊，今年的 Disrupt Cup 和 5 万美元的得主，他们肯定需要这笔钱，是 Pied Piper。
+So Richard wrote the code? Richard wrote the code, yes, but the inspiration was clear. | 所以 Richard 写了代码？Richard 写了代码，是的，但灵感是明确的。
+Let me ask you something. | 让我问你一件事。
+How fast do you think you could jack off every guy in this room? 'Cause I know how long it would take me. | 你认为你能多快让这个房间里的每个男人都射精？因为我知道我需要多长时间。
+And I can prove it. | 我可以证明。
+- Nice. - Thank you so much. | - 好。- 非常感谢。
+I don't fully understand it but I would definitely like to invest. | 我不太明白，但我绝对想投资。
+- Oh, great. - Really impressed. | - 哦，太好了。- 非常印象深刻。
+I really want to get you in front of my partners. | 我真的很想让你见见我的合伙人。
+- Really soon. - Oh wow. | - 非常快。- 哦，哇。
+I appreciate that, guys. | 我很感谢你们，伙计们。
+Well, hopefully we'll talk to each other soon. | 希望我们很快能再交流。
+- Thanks. - Thanks. | - 谢谢。- 谢谢。
+- Hey! - Monica! Congratulations! | - 嘿！- Monica！恭喜！
+You were amazing up there. | 你在上面表现得棒极了。
+- Thank you. - I just spoke with Peter. | - 谢谢。- 我刚和 Peter 说过话。
+He watched the live-stream via satellite and said he was "not unpleased". | 他通过卫星观看了直播，说他“不不高兴”。
+Oh, yeah, that's great. | 哦，是的，太好了。
+So I guess we're back to working together, huh? | 所以我想我们又要一起工作了，是吧？
+Yeah. Yeah, I guess so. | 是的。是的，我想是的。
+It's gonna get pretty insane for you, Richard. | 对你来说情况会变得很疯狂，Richard。
+- Yeah. - You're going to have more offers of funding than you're going to know - what to do with. | - 是的。- 你会得到比你知道怎么处理的还要多的资金支持提议。
+- Yeah. - You're going to have to grow a business, hire a staff, rent offices, get an assistant. | - 是的。- 你将不得不发展业务，招聘员工，租用办公室，雇用助手。
+Peter is going to be a lot more hands on and a lot tougher on you. | Peter 会对你会更加亲力亲为，也会更加严厉。
+People may take credit for your idea and try and sue you. | 人们可能会窃取你的想法并试图起诉你。
+- How awesome is that? - Uh yeah, that's awesome. | - 那有多酷啊？- 呃，是的，那很酷。
+I mean if you thought it was crazy getting to this point, - you're not going to believe what it turns into from here. | 我是说如果你觉得达到这个地步已经很疯狂了，- 你不会相信接下来会发生什么。
+- Right. - I mean pretty soon, you could be managing thousands of employees who are all looking up to you. | - 是的。- 我是说很快，你可能就会管理着成千上万仰望着你的员工。
+Gavin Belson, he's not going away anytime soon. | Gavin Belson，他不会很快消失。
+- Mmm. - But it's going to be amazing. | - 嗯。- 但这将是惊人的。
+Excuse me a second. | 对不起，让我一会儿。
+Oh, Jesus. | 哦，天哪。

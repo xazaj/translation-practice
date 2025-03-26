@@ -1,0 +1,443 @@
+The core compression algorithm is optimal. | 核心压缩算法是最优的。
+All the test cases ran optimal. | 所有测试案例都运行得非常完美。
+The Weissman score is optimal. | 韦斯曼得分也是最优的。
+Looks like Nucleus is optimal. | 看起来 Nucleus 也是最优的。
+Good. | 好的。
+Congratulations, guys. | 各位，恭喜了。
+- Oh yeah. | - 哦，是啊。
+- Oh, dog. | - 哦，天哪。
+Richard, the ingestion engine is ready for testing. | 理查德，摄取引擎准备好测试了。
+Have you seen Richard? He's in there, having a little trouble with his personal ingestion engine. | 你看到理查德了吗？他在里面，他的个人摄取引擎有点问题。
+Still? It's been an hour. | 还在？已经一个小时了。
+He's gotta get this done. | 他必须完成这个。
+Oh, he's got his laptop in there, on top of his lap. | 哦，他的笔记本电脑就在他的腿上。
+Hey, Richard. Don't talk to me while I'm in the bathroom please. | 嘿，理查德。请别在我上厕所的时候跟我说话。
+Well, snap it off, we gotta go. | 那就快点，我们得走了。
+I know. Just don't talk to me while I'm in here. | 我知道，但我在这里的时候别跟我说话。
+It's weird. | 这太奇怪了。
+Oh, my God. Jared's been back from that island for a whole day and he didn't get any toilet paper? Are you serious? | 哦，天哪。贾里德从那个岛上回来一整天了，他居然没带厕纸？你是认真的吗？
+Is Jared out there? I thought you didn't want me to talk to you while you were in the bathroom. | 贾里德在外面吗？我以为你不想我在你上厕所的时候跟我说话。
+Make up your mind. | 你倒是拿个主意啊。
+You know what? Just get away from the door, please. | 你知道吗？请离门远点。
+Friday, the pool cleaner comes. | 星期五，清洁泳池的人会来。
+- Do you understand? - Yes. | - 你明白吗？ - 明白。
+And tomorrow is trash day so make sure all the cans are out front. | 明天是倒垃圾的日子，所以确保所有垃圾桶都放在前面。
+Yes. | 明白。
+Now, you are under no circumstances to order any movie on demand, adult or otherwise. | 现在，你不许点播任何电影，成人电影或其他的都不行。
+Yes. | 明白。
+OK, has anything that I've just said confused you? - Yes. | 好，我刚才说的有什么让你困惑的吗？ - 有。
+- Goddamn it! Jesus, Cher. | - 该死！耶稣啊，雪儿。
+Are you bringing your whole closet? I'm a pro, Dinesh. | 你要把整个衣柜都带来吗？我是专业的，迪内希。
+I won't apologize for it. | 我不会为此道歉的。
+I dress according to the moods that I sense in the room. | 我根据房间里的气氛来决定穿什么。
+As such, I must have options. | 所以，我必须有选择。
+We all packed and ready to go? We can take my car but gas is on the company. | 我们都收拾好了吗？我们可以开我的车，但油费公司报销。
+Hello? Did everyone leave? No. | 喂？大家都走了吗？没有。
+What? Oh. | 什么？哦。
+Whoa, whoa I don't know how you read your screen in the car. | 哇，哇，我不知道你怎么在车上看屏幕的。
+It makes me sick as a dog. | 那让我像狗一样难受。
+I'm OK as long as I don't think about it. | 只要我不去想它，我就没事。
+Besides, the presentation is tomorrow. | 再说，演讲是明天的事。
+So if you just don't think about it it really doesn't bother you to be staring at the screen when the car's moving and turning and you're all queasy | 所以只要你不去想它，当车在行驶、转弯，你感到恶心的时候，盯着屏幕看其实也不难受
+Oh, God! - Gilfoyle. | 哦，天哪！ - 吉尔福伊尔。
+- See, I knew it bothered you. | - 看吧，我就知道这让你难受。
+Fucking liar. | 该死的骗子。
+So I'm a little behind, being stuck on that island for four days, but I think I'm on top of everything. | 我被困在那岛上四天，有点落后了，但我觉得我能赶上进度。
+OK, give me your IDs and I'll go register us | 好，把你们的身份证给我，我去帮我们登记。
+There you are. Got your credentials and wristbands for the walkthrough at 4:00 today. | 给你。这是你们今天四点彩排的证件和腕带。
+Uh, walkthrough? Yeah, basically, it's a sound check for the competition. | 彩排？是的，基本上算是比赛前的试音。
+Uh, yeah, we didn't know about that. | 嗯，是啊，我们不知道有这个。
+Did I not tell you about the walkthrough? I am so sorry. | 我没跟你们说彩排的事吗？我真是太抱歉了。
+That's why I'm here. | 我就是为此而来的。
+Peter's on safari with Lorne Michaels and Kanye West until next week so I can put all of my attention on you guys for once. | 彼得这周和洛恩·迈克尔斯以及坎耶·韦斯特一起去狩猎了，所以我这次可以全心全意地关注你们。
+I am so sorry. | 我真是太抱歉了。
+I thought that I talked to you guys about the walk | 我以为我和你们说过彩排的事
+Gentlemen, welcome to the big show. TechCrunch motherfucking Disrupt. | 先生们，欢迎来到大型演出。科技氪他妈的破坏性创新。
+OK, guys, this place is a vortex of distraction. | 好吧，各位，这个地方是个充满干扰的漩涡。
+Normally in the tech world it's two percent women. Guys, these next three days, 15 percent. | 通常在科技界，女性只占百分之二。各位，在接下来的三天里，女性会占到百分之十五。
+It's a goddamn meat market. | 这他妈就是个肉市场。
+I need you to focus. | 我需要你们集中精力。
+How we do here is the entire future of your company. | 我们在这里的表现就是公司的全部未来。
+Don't screw it all up now. | 现在可别搞砸了。
+We have to knock them dead in the preliminaries tomorrow so we can move on to the finals on Friday. | 我们明天必须在预赛中一鸣惊人，这样我们才能进入星期五的决赛。
+I have a question. The program says that Dan Melcher is judging our round. | 我有个问题。节目单上说丹·梅尔彻要给我们这一轮打分。
+Is there any way to get him removed? | 有没有办法让他别给我们打分？
+Not unless there's a conflict of interest. | 除非有利益冲突，否则不行。
+Well, there may be. I did have sexual intercourse with his wife. | 嗯，可能有。我和他老婆发生过性关系。
+What? It was three years ago. | 什么？那是三年前的事了。
+So one of the guys judging us wants to fucking kill you? Maybe. | 所以说，评判我们的人里有一个想杀了你？可能吧。
+I don't know if he found out. | 我不知道他是不是发现了。
+Either way, Richard, you may have to present instead of me so be prepared. | 无论怎样，理查德，你可能要代替我做展示，所以做好准备。
+What, me? Present? No. | 什么，我？做展示？不行。
+We may be fine. We may be totally fine. | 我们可能没事。我们可能完全没事。
+We also may be totally fucked. | 我们也可能完全完蛋了。
+I'll let you know either way. | 我会告诉你们结果的。
+I'm gonna go network. | 我要去拓展人脉了。
+Don't approach me. | 不要靠近我。
+I don't want to present. | 我不想做展示。
+Besides, I'm not even done with the demo. | 再说，我的演示还没做完呢。
+OK, Richard, you need to go to the hotel right now and finish. | 好吧，理查德，你现在就得去酒店把演示做完。
+- Oh, you already checked us into the hotel? - Yeah. | - 哦，你已经帮我们登记入住酒店了？ - 是的。
+Yeah. OK, I'm gonna do this module by module. | 嗯。好吧，我要一个模块一个模块地做。
+Dinesh, you built the edge video player so I'm gonna start with you first. | 迪内希，你搭建了边缘视频播放器，所以我先从你开始。
+OK? OK, you guys set up the booth, OK? | 好吗？好吧，你们去布置展位，好吗？
+Um I think it's this way. | 嗯，我觉得是这边。
+You think? A few flyers, that's all we have? Yeah, I think it is. | 你觉得？就这几张传单，这就是我们全部的资料？嗯，我觉得是。
+Hello, what's your name? Visit us at microdrone.com | 喂，你叫什么名字？请访问我们的网站 microdrone.com
+Oh, wow, Microdrone. They just closed $17 million in seed funding. | 哦，天哪，Microdrone。他们刚刚完成了1700万美元的种子轮融资。
+Hi. | 嗨。
+Hello. | 喂。
+Excuse me. Pied Piper? You guys are competing in the StartUp Battlefield, right? | 打扰一下。你们是 Pied Piper 吗？你们要参加创业战场竞赛，对吧？
+Everyone has been talking about your compression rate. I mean, it is supposed to be sick. | 大家都在谈论你们的压缩率。我是说，那可是相当厉害。
+Yeah. Anyway, you must be great with Java and I just cannot seem to figure out this stupid bug. | 是啊。对了，你肯定很擅长 Java，我却怎么也找不出这个该死的漏洞。
+Do you mind? I'll be back. | 你介意吗？我马上回来。
+Thank you. | 谢谢。
+If we integrate one module every two hours we should be in great shape | 如果我们每两个小时整合一个模块，情况应该会很好
+Richard, follow me. Follow me. Follow me. | 理查德，跟着我。跟着我。跟着我。
+- All right. | - 好吧。
+See you at the hotel. | 在酒店见。
+- See you. | - 再见。
+Very soon, I hope. | 希望很快能见到你。
+Hey, man. Just wanted to say good luck. | 嘿，伙计。我只是想祝你好运。
+OK, thanks. | 好，谢谢。
+But what's with all the Sorry. | 但是，为什么要说这么多对不起呢。
+I just can't be seen talking to you, you know? Hooli people all over the place. | 我不能让人看见我和你说话，你知道吧？到处都是 Hooli 的人。
+I don't know, man, I'm just really into this whole rest and vest life, you know, way more than I thought I would be. | 我也不知道，伙计，我只是真的很喜欢这种休闲和舒适的生活，你知道，比我想象的还要喜欢。
+I just don't want to rock the boat. | 我只是不想惹麻烦。
+Oh, hey, did I tell you? I'm getting a boat. | 哦，嘿，我跟你说过吗？我要买艘船。
+- Wow. | - 哇。
+- And a boat guy to take care of it. | - 还要雇个船夫来照顾它。
+You have to have a boat guy. | 你得雇个船夫。
+- Oh yeah, you've gotta have a boat guy - if you have a boat. | - 哦，是啊，如果你有船，你就得雇个船夫。
+Hey, um, you know that girl, right? Sherry, I think her name was. | 嘿，那个女孩，你知道吧？我想她叫雪莉。
+She said you guys went to school together. | 她说你们是校友。
+Uh, OK, yeah. | 嗯，好吧，是的。
+I saw her at the Valleywag party last night, which was crazy, by the way, dude, there must've been like 12 girls there. | 我昨晚在 Valleywag 派对上看到她了，顺便说一下，伙计，那里大概有12个女孩。
+- Holy shit. | - 天哪。
+- Nuts. | - 疯了。
+Anyway, she said you guys went out a couple times and then she dumped you and you became obsessed with her. | 话说，她说你们约会了几次，然后她甩了你，你就对她着迷了。
+What? What? She said I was obsessed? She said obsessed. | 什么？什么？她说我着迷了？她说我着迷了。
+Uh, that's bullshit, 'cause I think we went out two times. | 嗯，那是扯淡，因为我觉得我们只约会过两次。
+Uh, it was nothing so how could I be obsessed? | 嗯，那不算什么，我怎么可能对她着迷呢？
+That's No, you're going down! Nucleus is gonna crush Wide Diaper. | 不，你要完蛋了！Nucleus 要把 Wide Diaper 压垮。
+You never shoulda said no to my man, Gavin Belson. | 你永远不该拒绝我的兄弟加文·贝尔森。
+OK. Seeded quite a few new companies. | 好吧。孵化了不少新公司。
+Spinder. It's like Tinder but for spinsters. | Spinder。就像 Tinder，但是是给老处女用的。
+Elderly women looking for sex. | 寻找性伴侣的老年妇女。
+There's this girl who's walking around, saying that I'm obsessed with her. | 有个女孩到处说我对她着迷。
+Now that just really pisses me off | 这让我真的很生气
+That's fascinating. | 真是太有意思了。
+Let's just forget about it, OK? | 我们干脆忘掉这件事，好吗？
+Yeah. | 好吧。
+I mean it's It's just so fucked up, right? | 我是说，这太他妈的乱套了，对吧？
+I mean, I barely remember her. | 我是说，我几乎都不记得她了。
+And it's just so insulting to have someone walking around spreading lies about you. | 有人到处散播关于你的谎言，这真是太侮辱人了。
+Right? | 对吧？
+I wonder who she's working with. Like I wonder who she's here with because if she's telling her coworkers, then that's a whole 'nother group of people I gotta worry about. | 我想知道她和谁在一起。我想知道她和谁一起来的，因为如果她告诉了她的同事，那又是另一群我得担心的人了。
+Richard, you don't have to worry about anything - except for Pied Piper right now. | 理查德，你什么都不用担心——除了 Pied Piper。
+- Yeah, I know. | - 是的，我知道。
+Because we have less than 24 hours 'til the preliminaries. | 因为我们离预赛开始不到24小时了。
+No one's worrying, that's the thing. | 没人在担心，这才是问题。
+- Perfect. | - 太好了。
+- Perfect. | - 太好了。
+OK, her. She used the word "obsessed", Dinesh. | 好吧，她用了“着迷”这个词，迪内希。
+- "Obsessed." - Richard, I don't care. | - “着迷。” - 理查德，我不在乎。
+Neither do I. | 我也不在乎。
+That's the entire point. | 这才是重点。
+I'm just gonna check her Instagram real quick. | 我只是要快速查看一下她的 Instagram。
+Because if she's posting comments about me being obsessed I mean, I can't just ignore that. | 因为如果她在 Instagram 上说我对她着迷，我的意思是，我不能视而不见。
+Would you be interested in a device that links to your smartphone and lets you know, even before it happens, whether you're having a panic attack - or a heart attack? | 你会对一个可以连接到你的智能手机并在发作之前告诉你是否即将惊恐发作——或者心脏病发作的设备感兴趣吗？
+- Yeah, yeah. | - 是的，是的。
+OK, here's how Panic-A-Tech works. | 好吧，这就是 Panic-A-Tech 的工作原理。
+You wear this on your finger all day and it tracks your vitals. | 你整天戴着这个，它可以追踪你的生命体征。
+Or if that's too embarrassing, there's also a Bluetooth suppository and that goes right where you think it goes. | 或者如果那样太尴尬，还有一个蓝牙直肠栓，你知道它会放在哪里。
+And that comes with a retrieval kit. | 它还带有一个回收工具包。
+Was he like, "Bro, you're my bro," or was he like, "I wanna shoot you in the face and watch you bleed out all over the stage 'cause you fucked my wife, you cocksuck. " | 他是说“兄弟，你是我的兄弟”，还是说“我想朝你脸上开枪，看着你在我舞台上流血，因为你睡了我的老婆，你这个混蛋”？
+Right in the middle. | 正中间。
+It was like: Huh. | 就像：嗯？
+What happened? How's it going at the hotel? | 发生什么了？酒店那边怎么样？
+Weird. He switched to meta-data extraction and now wants to see you. | 奇怪。他转向了元数据提取，现在想见你。
+Meta-data? Already? Makes no sense. | 元数据？已经？这说不过去。
+He seems very distracted. | 他看起来很心不在焉。
+OK, guys, since we're kind of playing from behind here I put together a little secret weapon. | 好吧，伙计们，因为我们有点处于劣势，我准备了一个秘密武器。
+I I went through the entire list of conference participants and I found images and I found bios and I printed them out so we have them all in one place. | 我查看了与会者的全部名单，找到了照片，找到了简历，还把它们都打印了出来，这样我们就可以把它们放在一个地方了。
+- Why did you do that? | - 你为什么要做这个？
+Uh, OK. Who's this guy? | 嗯，好吧。这家伙是谁？
+Watch. | 看着。
+He is Rick Smith, co-founder of Crosscut Ventures. | 他是 Rick Smith，Crosscut Ventures 的联合创始人。
+How did you? ID-Keen. | 你怎么做到的？身份证识别。
+It's this facial recognition app that Monica put on our phones. | 这是一个面部识别应用程序，莫妮卡把它装在我们的手机上。
+You just point it at anybody, tells you who they are and how important they are to the conference. | 你只要把它对准任何人，它就会告诉你他们是谁，以及他们对会议有多重要。
+You're not showing up at all. | 你根本没显示出来。
+Yeah, maybe I'm not getting a No, I'm getting a signal. | 是啊，也许我没有得到一个信号，不，我收到信号了。
+OK. Um, well Ooh, Jared, Jared, recycling's over there. | 好吧。嗯，哦，贾里德，贾里德，回收站就在那边。
+Hey, so what's the deal? Does the judge know or not? | 嘿，到底怎么回事？那个裁判知道还是不知道？
+I don't know, Monica. He's toying with me. | 我不知道，莫妮卡。他在耍我。
+Or maybe he's not. I can't fucking figure it out. | 或者他不是。我他妈的搞不清楚。
+Erlich, you need to stop this. | 埃利希，你需要停止这个。
+His wife is here. Grow a pair and talk to her, find out for sure. | 他的老婆在这儿。拿出勇气去和她谈谈，弄清楚真相。
+Why don't you grow a pair and I'll talk to her. | 你为什么不去拿出勇气和她谈谈呢？
+Hmph. | 哼。
+What? | 什么？
+Hey. Do you happen to know Java? | 嘿，你碰巧知道 Java 吗？
+Are you kidding? It's like my specialty. | 你在开玩笑吧？那可是我的专长。
+Will you help me? | 你会帮我吗？
+Oh, it would be my honor. | 哦，那将是我莫大的荣幸。
+Yes? Oh, sorry. | 是吗？哦，抱歉。
+Um, I must not have the right room. | 嗯，我可能走错房间了。
+I'm looking for Dan Melcher. | 我在找丹·梅尔彻。
+Yeah, that's us. | 是的，就是这儿。
+Oh, it is? OK. | 哦，是吗？好吧。
+I was looking to speak with his wife. | 我是想和他老婆说句话。
+That's me. | 我就是。
+I'm, well, his new wife, we just got married. | 我是他的新老婆，我们刚刚结婚。
+Oh, congratulations. | 哦，恭喜恭喜。
+Uh, what happened with Madelyn? | 嗯，梅德琳怎么了？
+- You're a friend of Dan's? - Yeah. | - 你是丹的朋友？ - 是的。
+We've We have a common interests. | 我们有共同的兴趣。
+- Uh, many common interests. | - 嗯，很多共同的兴趣。
+- Yeah. | - 是啊。
+Well, she was a nightmare. Pills, in and out of rehab. | 她是个噩梦。吸毒，进进出出戒毒所。
+Had all of these disgusting affairs. | 还有各种恶心的风流韵事。
+You know, the divorce nearly killed Dan. | 你知道，离婚差点要了丹的命。
+Really? Disgusting affairs. | 真的吗？恶心的风流韵事。
+Well, I I feel terrible. | 哦，我我感到很难过。
+No, it's fine. He's put it behind him. | 不，没关系。他已经把那件事抛在脑后了。
+All of it? I mean, every aspect of it? | 所有的？我的意思是，每一个方面？
+Mm-hmm. | 嗯。
+Well, that is That is great to hear. | 哦，那真是太好了。
+What if she's spreading this lie to everyone at this conference? | 如果她在会议上到处散播这个谎言怎么办？
+I mean, honestly, Gilfoyle Richard, stop talking about this or I have to punch you in the face. | 我是说，吉尔福伊尔，理查德，别再说这个了，不然我真要揍你了。
+Fuck. | 他妈的。
+It is huge. | 这件事太重要了。
+- Uh - Very, very huge. | - 嗯 - 非常，非常重大。
+Check, one-two two, tsetse fly, tsetse fly. | 检查，一二二，采采蝇，采采蝇。
+Hey, how's the demo coming? | 嘿，演示进行得怎么样了？
+Um, we're getting there. | 嗯，我们快完成了。
+Uh, definitely Getting there. | 嗯，肯定快完成了。
+Gentlemen, I bring good tidings. | 先生们，我带来了一个好消息。
+Turns out that Melcher is divorced, remarried and has put the previously relationship behind him completely. | 原来梅尔彻已经离婚，再婚，并且已经完全放下了之前的那段感情。
+Problem solved. | 问题解决了。
+That's great. | 太好了。
+It sure is, Richard, it sure as hell is. | 是啊，理查德，这他妈的真是太好了。
+Look at these poor fuckers. They don't even know what's about to hit 'em. | 看看这些可怜的家伙。他们甚至不知道即将发生什么。
+The hammer of God. | 上帝之锤。
+I am so sorry! I am so sorry. | 我真的很抱歉！我真的很抱歉。
+I thought you guys were gonna come get me and and I'm sorry. | 我以为你们会来接我，我我真的很抱歉。
+Wait, Jared, what are you doing here? | 等等，贾里德，你在这儿干什么？
+What? - Who's watching the booth? - Yeah. | 什么？ - 谁在看展位？ - 是啊。
+I thought that maybe Monica could - She's not in the company. | 我以为莫妮卡可以 - 她不在公司。
+We need her here. | 我们需要她在这儿。
+That's the thing. | 这就是问题所在。
+All right, everybody, this run-through is for essential personnel only, essential only. | 好吧，各位，这次彩排只针对关键人员，只有关键人员才能参加。
+Oh. | 哦。
+- We need someone in the booth is the thing. | - 我们需要有人看展位，这才是问题。
+- Right. | - 是啊。
+You're essential to the booth. | 你对展位来说是必不可少的。
+Right. | 是啊。
+All right, each team will have six minutes for presentation and demo, at which point the judges will ask a few questions | 好吧，每个团队将有六分钟的时间进行演讲和演示，之后评委们会问几个问题
+Uh, do you mind if I break in here, just one question. | 嗯，你介意我插一句吗，就一个问题。
+Uh, are the judges allowed to send us through to the finals immediately after we present or do we have to wait until everyone else has gone? | 嗯，评委们在我们做完演讲后能立刻让我们进入决赛，还是我们必须等到其他人都做完演讲？
+Well, I'm just saying what everybody's thinking. | 我只是说出了大家的想法。
+Hello, what's your name? Visit us at microdrone.com | 喂，你叫什么名字？请访问我们的网站 microdrone.com
+- Uh, excuse me, no thank you. | - 嗯，打扰一下，不用了。
+- a free video of you - at TechCrunch Disrupt. | - 一段你在 TechCrunch Disrupt 上的免费视频。
+- Uh, no thank you. | - 嗯，不用了。
+Nathan. Are you Nathan Zimmerman, CEO of Flingual? | 内森。你是内森·齐默尔曼，Flingual 的首席执行官吗？
+I I Whoever's doing this, no thank you. | 我我无论谁在做这个，不用了。
+Yeah, I think we got a dead zone, an audio dead zone right here. | 是的，我觉得这儿有一个音频盲区。
+Listen to this. | 听这个。
+Hear that? | 听到了吗？
+Compared to OK, here's what I want, as soon as the music comes up - Music? - I want you to hit me with a spotlight, bam! | 和这个相比，好吧，这就是我想要的，只要音乐一响 - 音乐？ - 我就要你给我打个聚光灯，砰的一下！
+And a hard spot. | 还要一个强光。
+Better yet, do you have those spotlights that come up from the ground, - like in Pride Fighting. | 更好的是，你有没有那种从地面射出的聚光灯，就像在 Pride Fighting 中那样。
+- Uh I can check. | - 嗯，我可以去查一下。
+OK, so two of those, one on each side and then one in the center so that it casts my shadow behind me, like a giant looking over his own shoulder. | 好吧，那就两边各一个，中间再放一个，这样我的影子就会投射在我背后，就像一个巨人看着自己的肩膀一样。
+- - Do you have any wind machines. | - - 你有没有风扇。
+I'm gonna need two of those | 我需要两个
+Are you humming to yourself? | 你在自言自语吗？
+Was was I? | 我有吗？
+Uh, you know, honestly, I may have found the perfect woman. | 嗯，说实话，我可能找到了完美的女人。
+Whoa. | 哇。
+What? Who? Who? | 什么？谁？谁？
+She's in the booth right next to us, Charlotte. | 她就在我们旁边的展位，夏洛特。
+She's not even physically my type, she has blonde hair and these stupid pink streaks and doesn't seem to be dominant at all. | 她甚至不是我喜欢的类型，她有金色的头发，还有这些愚蠢的粉色条纹，看起来一点也不强势。
+However, I think I'm in love. | 然而，我想我恋爱了。
+Whoa. | 哇。
+She invited me to her room to watch Cloud Atlas later tonight. | 她邀请我今晚晚上去她的房间看《云图》。
+Oh yeah, that means she wants you to lay her. | 哦，是啊，那意味着她想和你上床。
+Is that definitive? I mean, nobody can watch more than like a minute of that film. | 这是确定的吗？我的意思是，没人能看这部电影超过一分钟。
+So what's the deal? I mean, is she hot? | 那到底是怎么回事？我的意思是，她漂亮吗？
+Yeah, I mean, she's attractive, but almost every woman is attractive. | 是啊，我是说，她很有吸引力，但几乎每个女人都有吸引力。
+It was her mind. | 是她的头脑。
+She wrote this Java method that was the most beautiful thing I've ever seen in my life. | 她写了一个 Java 方法，这是我一生中见过的最美丽的东西。
+Elegant, tight. | 优雅，简洁。
+There's just something so hot about a woman that can code like that. | 一个女人能写出这样的代码，真是太迷人了。
+You know, I just want to crawl in her frontal lobe and | 你知道，我只想钻进她的前脑叶
+What's up? | 怎么了？
+You know I wrote that code, right? | 你知道那是我写的代码，对吧？
+No, this code was on her system. | 不，这代码在她的系统里。
+A banged up 15-inch MacBook Pro with shitty stickers on it? | 一台破旧的15英寸 MacBook Pro，上面贴着糟糕的贴纸？
+Everyone here has a beat up 15-inch MacBook Pro With a 1.3 chip and only two gigs of RAM? | 这里的每个人都有一个破旧的15英寸 MacBook Pro，1.3芯片，只有2G内存？
+She doesn't know Java. | 她不懂 Java。
+I wrote that code. | 那是我写的代码。
+- You said you were in love with her mind. | - 你说过你爱她的头脑。
+- Oh fuck. | - 哦，他妈的。
+- You realize what's going on, right? | - 你明白发生了什么，对吧？
+- Uh It's not her you're sexually attracted to, it's my code. | - 嗯，你不是对她有性吸引力，而是对我的代码。
+Shut the That is the most disgusting fucking thing I've ever h | 关闭这个，这是我听过的最令人厌恶的事情
+Just face it, Dinesh, you're gay for my code, you're code gay. | 直接面对它吧，迪内希，你对我的代码有同性恋倾向，你是个代码同性恋者。
+No! No, I'm into her. Her, OK? Fuck your code! | 不！不，我喜欢的是她。她，明白吗？去你的代码！
+You'd like to fuck my code, wouldn't you? Hey, would you like to masturbate to the subroutine I just wrote? | 你喜欢和我的代码做爱，不是吗？嘿，你想不想对着我刚写的子程序手淫？
+No! It's I'm I'm | 不！我只是
+And then I'll sort of close right here in the center with a confidence and poise that, well, they probably won't have seen up until this point. | 然后我会在这里正中央，带着一种他们可能从未见过的自信和镇定，结束我的演讲。
+And then at that point we've got some photos that we're gonna throw up on the big screen. | 然后在那一刻，我们会把一些照片投到大屏幕上。
+Photos? Yeah, you know, just a few. | 照片？是的，你知道，就几张。
+Gandhi, MLK, me as an inquisitive child. | 甘地，马丁·路德·金，还有我小时候好奇的样子。
+Richard, could you please. | 理查德，你能
+Oh, yes, sorry. | 哦，是的，抱歉。
+I'll just plug it in here. | 我就把它插在这里。
+No! Don't! - Don't! - Oh, shi - What the fuck!? - Shit. | 不！别！ - 别！ - 哦，该死 - 这他妈是怎么回事？！ - 该死。
+- Oh, she's here. - Mmm. | - 哦，她来了。 - 嗯。
+Oh, shit, it's frozen. | 哦，该死，它卡住了。
+It's frozen. | 它卡住了。
+That is not me, obviously. | 当然，那不是我。
+He's obsessed with me. | 他对着迷于我。
+I'm sorry. | 我很抱歉。
+Hey, what's wrong? I'm just a little nervous 'cause you're so beautiful. | 嘿，怎么了？我只是有点紧张，因为你太漂亮了。
+Oh? Random question So you didn't write any of that Java code? Uh-uh. | 哦？随机问题，所以你没有写那些 Java 代码？没有。
+But I write all of our tweets and we have like a couple hundred followers. | 但我写了我们所有的推文，我们大概有两百个粉丝。
+Couple hundred Oh, let me move this. | 两百个哦，让我挪一下这个。
+Oh, that's the code your friend wrote. | 哦，那是你朋友写的代码。
+- Yeah, it is. - It's really good, huh? It's fine. | - 是的，是的。 - 写得很好，对吧？还行。
+I don't care about it. | 我不在乎它。
+Mm, there we go. | 嗯，就这样。
+Oh, fu Come on, focus, focus. | 哦，该死，集中精神，集中精神。
+Richard's not gonna finish, is he? He'll finish, Gilfoyle, he has to. | 理查德不会做完的，对吧？他会做完的，吉尔福伊尔，他必须做完。
+Are you OK? Yeah, I'm fine. | 你还好吗？是的，我没事。
+I knew it. | 我就知道。
+You couldn't do it. | 你做不到。
+Please shut up. | 请闭嘴。
+Shut up. | 闭嘴。
+Why is it that every time I'm about to have sex with a lady he's all up in there somehow? Finally, just us. | 为什么每次我要和一个女人上床的时候，他都会以某种方式插进来？终于，只剩下我们了。
+Guys, this round is on me. | 伙计们，这一轮我请客。
+Hey, Jared. There you guys go. | 嘿，贾里德，给你。
+- To Pied Piper. Hmm? - To Pied Piper. | - 为了 Pied Piper。 嗯？ - 为了 Pied Piper。
+Here, here. | 在这里，在这里。
+Yeah, drink it up. | 是的，喝掉它。
+But it's not gonna change who you are. | 但它不会改变你是谁。
+Monica, can I speak to you for a minute? Yeah. | 莫妮卡，我能和你谈一分钟吗？是的。
+No, Sherry, it has to be now! Oh, shit. | 不，雪莉，现在就得说！哦，该死。
+OK, look, we need to talk. | 好吧，看，我们需要谈谈。
+You keep telling people I'm obsessed with you. | 你一直告诉别人我对着迷于你。
+- Richard, why don't you just take a step back - It's not true No, no, no, let me finish. | - 理查德，你为什么不能退一步 - 这不是真的，不，不，不，让我把话说完。
+OK, did I put your picture up on the big screen in the auditorium? Yes. | 好吧，我把你的照片放在礼堂的大屏幕上了吗？是的。
+But that's because I was showing you to my friends to prove a point that I'm not obsessed with you. | 但那是因为我在向我的朋友们展示你，以证明我对你不着迷。
+- Richard, I'm gonna go now. - No, I'm not obsessed with you, Sherry! I'm I'm not. | - 理查德，我现在要走了。 - 不，我对你不着迷，雪莉！我不是。
+That guy Richard I was telling you about just totally freaked out on me. | 我跟你说的那个理查德刚刚完全失控了。
+Yeah, the obsessed guy. | 是啊，那个着迷的人。
+- Where are you? - You've been doing this ever since - we arrived at the conference. | - 你在哪？ - 你从我们到达会议开始就一直在做这个。
+- Which elevators? You really think that you can come between me and Richard Hendricks? We're partners, OK, and I've devoted every second of my waking life for the past two months to him, OK? I am devoted to him and to the precious thing that we're building together! I'm his partner. | - 哪部电梯？你真的认为你可以插足我和理查德·亨德里克斯之间？我们是合伙人，明白吗？在过去的两个月里，我醒着的每一秒都奉献给了他，明白吗？我对他和我们正在一起构建的珍贵事物都忠心耿耿！我是他的合伙人。
+I can tell when he's vomiting - What? No. | 我能分辨出他什么时候在呕吐 - 什么？没有。
+- because he's nervous or when he's vomiting - Never mind, Kate, I'm fine. | - 因为他紧张，或者他呕吐的时候 - 算了，凯特，我没事。
+- because he's sick or when he's vomiting because he had cilantro, which he loves but he shouldn't have because it makes him I had no idea that you felt this way. | - 因为他生病了，或者他呕吐是因为他吃了香菜，他喜欢但不应该吃，因为它会让他 - 我不知道你有这种感觉。
+I mean it, I am so sorry. | 我是说，我真的很抱歉。
+I mean, I'm obsessed with her Richard, can I talk to you for a second? Uh, OK. | 我的意思是，我对她着迷了，理查德，我能和你谈一分钟吗？嗯，好吧。
+I owe you an apology. | 我欠你一个道歉。
+I was way off base. | 我大错特错了。
+Well, yeah, you were. | 是啊，你是错了。
+He cleared it all up for me. | 他把一切都澄清了。
+- Jared? Really? - Yeah. | - 贾里德？真的？ - 是的。
+He's your partner, right? Yeah, he is. | 他是你的合伙人，对吧？是的。
+One of many. | 其中之一。
+Probably too many. | 可能太多了。
+How could I not have seen this? Obviously you're not obsessed with me. | 我怎么可能没看出来？显然你对我并不着迷。
+Richard, it's none of my business, but be safe. | 理查德，这不关我的事，但你要小心。
+- OK? - OK. | - 好吗？ - 好的。
+Of course I'm safe. | 当然我很安全。
+I backup my whole system like five times a day. | 我每天备份我的整个系统五次。
+So uh, Jared, hey, thank you. | 那么，贾里德，嘿，谢谢你。
+For what? Uh, you know, everything. | 为了什么？嗯，你知道，一切。
+I feel like we don't appreciate you enough, so thank you. | 我觉得我们没有足够地欣赏你，所以谢谢你。
+Are you are you crying? Are you crying? Uh, don't do that. | 你在哭吗？你在哭吗？嗯，别这样。
+Don't cry. | 别哭。
+Oh, shit. | 哦，该死。
+I gotta get back to work. | 我得回去工作了。
+I I need to focus here. | 我我需要集中精力。
+We should all go. | 我们应该都走。
+All right, I'm taking care of this one. | 好吧，我来处理这个。
+But when we win this fuckin' thing, Richard, you're buying the next round. | 但是当我们赢得这个该死的东西时，理查德，你得请下一轮。
+Yeah. | 是的。
+Oh no. | 哦，不。
+We're with the conference, is there any sort of discount? - Kind of break you can? - Hm-mm. | 我们是会议的一部分，有没有什么折扣？ - 有什么优惠吗？ - 嗯。
+No. | 没有。
+All right. | 好吧。
+- Hello again. - Oh, hi. | - 再次问好。 - 哦，嗨。
+You know, that was really sweet of you to be so concerned about Dan. | 你这么关心丹，真是太好了。
+He really has been through hell. | 他真的经历了很多磨难。
+Well, it's the least I could do. | 嗯，这是我能做的最少的事情了。
+So how did you know Madelyn again? Oh, uh, long story. | 那么你是怎么再次认识麦德琳的？哦，嗯，说来话长。
+Yeah? I have to admit, I'm curious. | 是吗？我得承认，我很好奇。
+You know what, keep it open. | 知道吗，先放一放。
+Have you ever cared too much? People, are you ready? Are you ready for the ultimate tech startup competition? Let me hear it: Disrupt! Disrupt. | 你有没有太在意过？各位，你们准备好了吗？你们准备好参加终极科技创业大赛了吗？让我听听：颠覆！颠覆。
+Hello. | 喂。
+My name is Saeed Jobrani. | 我叫赛德·乔布拉尼。
+I am the CEO of ImmediBug. | 我是 ImmediBug 的首席执行官。
+And we're here to revolutionize the way you report bugs on your mobile platform. | 我们来这里是为了革新你在移动平台上报告漏洞的方式。
+Happin! will revolutionize location-based mobile news aggregation as you know it. | Happin！将彻底改变你所熟知的基于位置的移动新闻聚合方式。
+We're making the world a better place, through paxos algorithms for consensus protocols. | 我们正在通过共识协议的帕克斯算法让世界变得更美好。
+And we're making the world a better place through software defined data centers for cloud computing. | 我们正在通过云计算的软件定义数据中心让世界变得更美好。
+A better place through canonical data models to communicate between endpoints. | 通过规范的数据模型在端点之间进行通信，让世界变得更美好。
+A better place through scalable, fault-tolerant distributed databases with asset transactions. | 通过可扩展的、容错的分布式数据库进行资产交易，让世界变得更美好。
+And we are truly local mobile social. | 我们是真正的本地移动社交。
+And we're completely So-Mo-Lo. | 我们是完全的社交移动本地化。
+And we're Mo-Lo-So. | 我们是移动本地社交。
+We're Lo-Mo-So, bro. | 我们是本地移动社交，兄弟。
+We were So-Lo-Mo but now we're Mo-Lo-So. | 我们曾经是社交本地移动，但现在是移动本地社交。
+No, Mo-So-Lo. | 不，是移动社交本地化。
+No You want me to get a water or something? - Yeah, drink this. | 不，你要我给你拿点水还是什么？ - 嗯，喝这个。
+- Here. - So we're all good? - We're all great. | - 给你。 - 我们都还好吗？ - 我们都很好。
+I killed it. | 我把它搞定了。
+Our Weissman score on all tests: 2.89. | 我们在所有测试中的韦斯曼得分：2.89。
+Right at the theoretical limit. | 正好在理论极限上。
+Yeah, all the edge modules are humming. | 是的，所有的边缘模块都在正常运行。
+Uh, even on mobile. | 嗯，即使在移动设备上。
+They can throw anything at us. | 他们可以向我们扔任何东西。
+Great. | 太好了。
+Well, good luck. | 好吧，祝你好运。
+I'm gonna go find my seat. | 我要去找个座位。
+Um, except 3D video. | 嗯，除了3D视频。
+What? Erlich better steer them away from that just to be safe. | 什么？埃里希最好让他们远离那个，以防万一。
+Where the hell is Erlich? He wasn't with you guys this morning? | 埃里希到底在哪？今天早上他没和你们在一起吗？
+Rather than heating an entire room, HumanHeater is a microwave technology that can heat the surface of a person's skin instead, potentially saving millions in heating costs and helping the environment, thereby making the world a better place. | 与其加热整个房间，HumanHeater 是一种微波技术，它可以加热人的皮肤表面，这可能节省数百万的供暖费用，帮助环境，从而使世界变得更美好。
+Judges. | 评委们。
+Uh OK, so, you want to heat people with microwaves, is that right? That can't be safe. | 嗯，好吧，那么，你想用微波来加热人，是吗？那不可能安全。
+That's a great question and trust me, it is very, very safe. | 这是一个很好的问题，相信我，它非常非常安全。
+I've been working on it for 15 years. | 我已经研究了15年。
+I don't trust you and it can't be safe. | 我不信任你，它不可能安全。
+And even if it was, I don't think you could ever sell the public on this. | 即使是这样，我认为你永远无法让公众接受这个。
+Thank you. | 谢谢。
+I think when people see the savings on their utility bill and when they see how it saves the environment, they will be sold. | 我认为当人们看到他们的水电费节省了多少，以及它如何节省环境时，他们会接受的。
+Microwaves? Are you kidding me? Man, they are brutal. | 微波？你在开玩笑吗？伙计，那太残忍了。
+All right, let's light this candle. | 好吧，让我们点燃这支蜡烛。
+Where the hell have you been? Uh, there's been some developments. | 你他妈的去哪了？嗯，有一些新情况。
+You know how I fucked Melcher's old wife? - I fucked his new wife, too. | 你知道我和梅尔彻的前妻上床了吗？ - 我也和他现任妻子上床了。
+- What? Uh, don't worry, he's not gonna find out. | - 什么？嗯，别担心，他不会发现的。
+I left way before he got back last night and then I didn't go back this morning until You went back? How many times did you fuck this woman? The old wife or the new wife? - The new wife. | 我在他昨晚回来之前就离开了，然后今天早上我没回去直到 - 你回去了？你和这个女人上了几次？是前妻还是现任妻子？ - 现任妻子。
+- Last night or this morning? Erlich, what are you thinking? This is kind of the big day today. | - 昨晚还是今天早上？埃里希，你在想什么？今天可是个重要的日子。
+Relax, he's not gonna find out. | 放松，他不会发现的。
+She's not gonna tell him. | 她不会告诉他的。
+How the fuck do you know that? Because she'd have to be crazy to tell him and I asked her point blank if she was crazy and she swore to me, no, she's not crazy. | 你怎么他妈知道的？因为她要是告诉他的话，她一定是疯了，我直截了当地问她她是不是疯了，她向我保证，不，她没疯。
+- Pied Piper, you're up. - Let's do it. | - Pied Piper，轮到你了。 - 让我们开始吧。
+The microwaves only penetrate the top layer of skin cells. | 微波只穿透皮肤表层细胞。
+I don't believe you. | 我不相信你。
+It can't be safe. | 这不可能安全。
+Thank you. | 谢谢。
+I've been testing it on these guys all winter and they're fine. | 我整个冬天都在这些家伙身上测试，他们都没事。
+Let me just demonstrate it to assure you - No! No! - No! Please! No one is ever going to buy one of these. | 让我演示一下以向你保证 - 不！不！ - 不！请！没人会买这个东西的。
+Ever. | 永远不会。
+That was HumanHeater. | 那是 HumanHeater。
+Next up, Executive Chairman and Chief Visionary Erlich Bachman presenting Pied Piper. | 下面有请执行董事长兼首席愿景家埃里希·巴赫曼介绍 Pied Piper。
+Since the dawn of time, mankind hath sought to make things smaller, but until now, no man | 自开天辟地以来，人类一直在努力把东西做小，但直到现在，还没有人
+You son of a bitch! Jesus Christ! Everyone remain calm. | 你这个狗娘养的！耶稣基督！大家保持冷静。
+Stay in your seats! Everything is under control! Lights? I think he knows. | 坐在座位上！一切都在控制之中！灯光？我想他知道。
