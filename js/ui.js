@@ -1,6 +1,96 @@
 // 导入状态管理模块
 import { store } from './store.js';
 
+// 问题组件
+class QuestionComponent {
+  constructor(question, index) {
+    this.question = question;
+    this.index = index;
+    this.element = this.createQuestionElement();
+    this.bindEvents();
+  }
+
+  createQuestionElement() {
+    const element = document.createElement('div');
+    element.className = 'question';
+    element.dataset.index = this.index;
+    
+    element.innerHTML = `
+      <div class="question-header">
+        <div class="question-title" role="button" tabindex="0">
+          <span class="question-number">${this.index + 1}.</span>
+          <span class="question-text">${this.question.zh}</span>
+          <span class="tap-hint">提示</span>
+        </div>
+      </div>
+      <div class="answer-container">
+        <textarea class="answer-input" placeholder="请输入英文翻译...">${this.question.userAnswer || ''}</textarea>
+        <div class="hint-container ${this.question.showHint ? 'show' : ''}">
+          <div class="hint-content">
+            <span class="hint-label">参考答案:</span>
+            <span class="hint-text">${this.question.en}</span>
+          </div>
+        </div>
+      </div>
+    `;
+    
+    return element;
+  }
+
+  bindEvents() {
+    const textarea = this.element.querySelector('.answer-input');
+    const questionTitle = this.element.querySelector('.question-title');
+    const hintContainer = this.element.querySelector('.hint-container');
+
+    // 输入事件
+    textarea.addEventListener('input', () => {
+      saveUserAnswer(this.index, textarea.value);
+    });
+
+    // 焦点事件
+    textarea.addEventListener('blur', () => {
+      saveUserAnswer(this.index, textarea.value);
+    });
+
+    // 点击/键盘事件
+    questionTitle.addEventListener('click', () => {
+      this.handleHintToggle(textarea, hintContainer);
+    });
+
+    questionTitle.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        this.handleHintToggle(textarea, hintContainer);
+      }
+    });
+
+    textarea.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        this.handleHintToggle(textarea, hintContainer);
+      }
+    });
+  }
+
+  handleHintToggle(textarea, hintContainer) {
+    const userAnswer = textarea.value.trim();
+    
+    if (this.question.showHint) {
+      toggleHint(this.index, hintContainer, false);
+      return;
+    }
+
+    if (!userAnswer) {
+      UIUtils.shakeElement(textarea);
+      showToast('请先输入你的答案，再查看提示', 'info');
+      textarea.focus();
+      return;
+    }
+
+    toggleHint(this.index, hintContainer, true);
+  }
+}
+
 // 渲染问题列表
 function renderQuestions() {
   const { questions, currentPage, pageSize } = store.getState();
@@ -14,7 +104,7 @@ function renderQuestions() {
   const endIndex = Math.min(startIndex + pageSize, questions.length);
   const currentQuestions = questions.slice(startIndex, endIndex);
   
-  // 如果没有问题，显示提示
+  // 空状态处理
   if (currentQuestions.length === 0) {
     questionsContainer.innerHTML = '<div class="no-questions">没有题目，请上传题库</div>';
     return;
@@ -22,68 +112,9 @@ function renderQuestions() {
   
   // 渲染每个问题
   currentQuestions.forEach((question, index) => {
-    const questionElement = document.createElement('div');
-    questionElement.className = 'question';
-    questionElement.dataset.index = startIndex + index;
-    
-    // 构建问题HTML - 移除提示按钮，添加点击提示指示
-    questionElement.innerHTML = `
-      <div class="question-header">
-        <div class="question-title" role="button" tabindex="0">
-          <span class="question-number">${startIndex + index + 1}.</span>
-          <span class="question-text">${question.zh}</span>
-          <span class="tap-hint">提示</span>
-        </div>
-      </div>
-      <div class="answer-container">
-        <textarea class="answer-input" placeholder="请输入英文翻译...">${question.userAnswer || ''}</textarea>
-        <div class="hint-container ${question.showHint ? 'show' : ''}">
-          <div class="hint-content">
-            <span class="hint-label">参考答案:</span>
-            <span class="hint-text">${question.en}</span>
-          </div>
-        </div>
-      </div>
-    `;
-    
-    // 添加到容器
-    questionsContainer.appendChild(questionElement);
-    
-    // 绑定事件
-    const textarea = questionElement.querySelector('.answer-input');
-    const questionTitle = questionElement.querySelector('.question-title');
-    const hintContainer = questionElement.querySelector('.hint-container');
-    
-    // 保存答案 - 输入时实时保存
-    textarea.addEventListener('input', function() {
-      saveUserAnswer(startIndex + index, this.value);
-    });
-    
-    // 焦点离开时保存答案
-    textarea.addEventListener('blur', function() {
-      saveUserAnswer(startIndex + index, this.value);
-    });
-    
-    // 点击问题标题切换提示显示/隐藏
-    questionTitle.addEventListener('click', function() {
-      handleHintToggle(startIndex + index, textarea, hintContainer);
-    });
-    
-    // 支持键盘访问
-    questionTitle.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        handleHintToggle(startIndex + index, textarea, hintContainer);
-      }
-    });
-    
-    // 按Enter键也可以切换提示
-    textarea.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter' && !e.shiftKey) {
-        e.preventDefault();
-        handleHintToggle(startIndex + index, textarea, hintContainer);
-      }
-    });
+    const questionIndex = startIndex + index;
+    const questionComponent = new QuestionComponent(question, questionIndex);
+    questionsContainer.appendChild(questionComponent.element);
   });
   
   // 更新分页
@@ -260,44 +291,77 @@ function jumpToPage() {
   window.scrollTo(0, 0);
 }
 
-// 显示Toast提示
-function showToast(message, type = 'info', duration = 3000) {
-  // 检查是否已存在Toast
-  let toast = document.querySelector('.toast');
-  
-  // 如果已存在，先移除
-  if (toast) {
-    document.body.removeChild(toast);
-  }
-  
-  // 创建新的Toast
-  toast = document.createElement('div');
-  toast.className = `toast ${type}`;
-  toast.textContent = message;
-  
-  // 添加到页面
-  document.body.appendChild(toast);
-  
-  // 显示Toast
-  requestAnimationFrame(() => {
-    toast.classList.add('show');
-  });
-  
-  // 如果设置了持续时间，定时关闭
-  if (duration > 0) {
-    // 3秒后自动隐藏
-    setTimeout(() => {
-      toast.classList.remove('show');
+// UI工具类
+const UIUtils = {
+  // 显示Toast提示
+  showToast(message, type = 'info', duration = 3000) {
+    // 检查是否已存在Toast
+    let toast = document.querySelector('.toast');
+    
+    // 如果已存在，先移除
+    if (toast) {
+      document.body.removeChild(toast);
+    }
+    
+    // 创建新的Toast
+    toast = document.createElement('div');
+    toast.className = `toast ${type}`;
+    toast.textContent = message;
+    
+    // 添加到页面
+    document.body.appendChild(toast);
+    
+    // 显示Toast
+    requestAnimationFrame(() => {
+      toast.classList.add('show');
+    });
+    
+    // 自动关闭
+    if (duration > 0) {
       setTimeout(() => {
-        if (document.body.contains(toast)) {
-          document.body.removeChild(toast);
-        }
-      }, 300);
-    }, duration);
-  }
+        this.hideElement(toast);
+      }, duration);
+    }
+    
+    return toast;
+  },
   
-  // 返回toast元素，以便调用者可以手动关闭
-  return toast;
+  // 隐藏元素
+  hideElement(element) {
+    if (!element || !document.body.contains(element)) return;
+    
+    element.classList.remove('show');
+    setTimeout(() => {
+      if (document.body.contains(element)) {
+        document.body.removeChild(element);
+      }
+    }, 300);
+  },
+  
+  // 抖动元素
+  shakeElement(element) {
+    if (!element) return;
+    
+    element.classList.add('shake');
+    setTimeout(() => element.classList.remove('shake'), 500);
+  },
+  
+  // 安全设置HTML内容
+  safeSetHTML(element, html) {
+    if (!element) return;
+    
+    try {
+      element.innerHTML = html;
+    } catch (error) {
+      console.error('设置HTML内容时出错:', error);
+      element.textContent = html;
+    }
+  }
+};
+
+// 导出showToast以保持向后兼容
+function showToast(message, type = 'info', duration = 3000) {
+  return UIUtils.showToast(message, type, duration);
 }
 
 // 显示答案弹框
