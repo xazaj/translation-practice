@@ -493,6 +493,8 @@ async function applyQuestionBank(node) {
       
       // 更新状态
       store.setState('questions', questions);
+      // 重置分页到第一页
+      store.setState('currentPage', 1);
       console.log('已更新状态 - 题目数量:', questions.length);
       
       // 更新已应用的题库路径
@@ -607,4 +609,4 @@ export {
   initQuestionBankManager,
   openQuestionBankManager,
   applyQuestionBank
-}; 
+};

@@ -32,7 +32,7 @@ function renderQuestions() {
         <div class="question-title" role="button" tabindex="0">
           <span class="question-number">${startIndex + index + 1}.</span>
           <span class="question-text">${question.zh}</span>
-          <span class="tap-hint">点击查看提示</span>
+          <span class="tap-hint">提示</span>
         </div>
       </div>
       <div class="answer-container">
