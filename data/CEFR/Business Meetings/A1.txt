@@ -1,0 +1,104 @@
+This is our meeting room. | 这是我们的会议室。
+He is the manager. | 他是经理。
+The room is small. | 房间很小。
+We are ready. | 我们准备好了。
+The meeting is at 10 a.m. | 会议在上午十点。
+She is in the office. | 她在办公室。
+The report is on the desk. | 报告在桌子上。
+It is very quiet now. | 现在非常安静。
+He is not here. | 他不在这里。
+The coffee is hot. | 咖啡是热的。
+You are late. | 你迟到了。
+The projector is new. | 投影仪是新的。
+This is my notebook. | 这是我的笔记本。
+We are all here. | 我们都到了。
+He is not the boss. | 他不是老板。
+The plan is good. | 这个计划很好。
+She is very kind. | 她很友好。
+The topic is simple. | 主题很简单。
+I am happy today. | 我今天很开心。
+The file is open. | 文件是打开的。
+
+We sit together. | 我们坐在一起。
+She talks a lot. | 她说了很多。
+He stands near the door. | 他站在门边。
+I write on the board. | 我在白板上写字。
+They listen carefully. | 他们认真听。
+You speak well. | 你说得很好。
+He laughs loudly. | 他大声笑。
+We wait for the boss. | 我们等老板。
+I come early. | 我早到。
+She works here. | 她在这里工作。
+We talk after the meeting. | 我们会议后聊天。
+He leaves at 5 p.m. | 他下午五点离开。
+I go to the room. | 我去房间。
+They walk to the table. | 他们走到桌边。
+You sit near me. | 你坐我旁边。
+He listens to her. | 他听她说。
+She comes on time. | 她准时来。
+I read the paper. | 我读文件。
+We wait for the call. | 我们等电话。
+They speak English. | 他们说英语。
+
+We need a break. | 我们需要休息。
+She drinks tea. | 她喝茶。
+He reads the report. | 他读报告。
+I write an email. | 我写一封邮件。
+They open the door. | 他们打开门。
+You take notes. | 你做笔记。
+He closes the window. | 他关窗户。
+I see the screen. | 我看到屏幕。
+She brings the file. | 她带来了文件。
+We start the meeting. | 我们开始会议。
+He checks the list. | 他检查清单。
+They ask questions. | 他们提问。
+I answer the phone. | 我接电话。
+She makes coffee. | 她冲咖啡。
+We watch the video. | 我们看视频。
+He shows the paper. | 他展示文件。
+I send the email. | 我发送邮件。
+They take the chairs. | 他们拿椅子。
+You hear the sound. | 你听到声音。
+We stop the meeting. | 我们结束会议。
+
+She gives me the pen. | 她给我笔。
+He sends us the email. | 他把邮件发给我们。
+I tell you the time. | 我告诉你时间。
+They show us the room. | 他们带我们看房间。
+We give her the paper. | 我们把文件给她。
+You bring me a cup. | 你给我拿来一杯。
+He writes me a note. | 他给我写了张纸条。
+She tells us the name. | 她告诉我们名字。
+I show you the photo. | 我给你看照片。
+They offer us water. | 他们给我们水。
+We give them the chairs. | 我们把椅子给他们。
+He sends her a file. | 他发给她一个文件。
+I ask him a question. | 我问他一个问题。
+She shows me the list. | 她给我看清单。
+You tell him the news. | 你告诉他消息。
+They give me the book. | 他们给我这本书。
+We send them a message. | 我们发信息给他们。
+He offers her a seat. | 他给她让座。
+I give you a pen. | 我给你一支笔。
+She brings me a drink. | 她给我带了饮料。
+
+We call him the boss. | 我们叫他老板。
+They make the plan easy. | 他们让计划变得简单。
+I find the topic hard. | 我觉得这个话题很难。
+She keeps the room clean. | 她保持房间干净。
+You make the note short. | 你把笔记写得很短。
+He calls the idea smart. | 他称这个想法很聪明。
+We find the report useful. | 我们觉得报告有用。
+They name her the leader. | 他们任命她为负责人。
+I make the meeting short. | 我把会议开得很短。
+She finds the question easy. | 她觉得问题很容易。
+You call the team strong. | 你说这个团队很强。
+We keep the file open. | 我们保持文件开启。
+He finds the seat soft. | 他觉得椅子很软。
+They call this place quiet. | 他们说这个地方很安静。
+I make the list long. | 我把清单列得很长。
+She calls the idea new. | 她称这个想法很新。
+We find the time right. | 我们觉得时间合适。
+He names me the helper. | 他叫我小助手。
+You keep the door open. | 你把门开着。
+They make the answer clear. | 他们让答案很清楚。

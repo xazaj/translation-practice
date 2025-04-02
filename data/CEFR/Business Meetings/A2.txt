@@ -1,0 +1,105 @@
+The meeting room is available now. | 会议室现在可以用了。
+The manager is not in the office today. | 经理今天不在办公室。
+The chairs are too close together. | 椅子摆得太近了。
+Our new schedule is very tight. | 我们的新日程安排得很紧。
+The speaker is very confident. | 演讲者非常自信。
+The list of tasks is long. | 任务清单很长。
+This presentation is important. | 这个演讲很重要。
+The topic was a bit confusing. | 这个话题有点令人困惑。
+The idea is worth trying. | 这个想法值得一试。
+The lights are too bright. | 灯太亮了。
+The room is clean and quiet. | 房间干净又安静。
+The discussion is almost finished. | 讨论快结束了。
+The deadline is next Friday. | 截止日期是下周五。
+Her answer was very clear. | 她的回答很清楚。
+The meeting was boring. | 会议很无聊。
+This suggestion is helpful. | 这个建议很有帮助。
+The notes are easy to understand. | 会议记录容易理解。
+His explanation is simple. | 他的解释很简单。
+The documents are ready. | 文件准备好了。
+My manager is always busy. | 我的经理总是很忙。
+
+People talk during the break. | 人们在休息时聊天。
+She writes everything down. | 她把所有内容都写下来。
+He waits outside the room. | 他在房间外等。
+They arrive before 9 a.m. | 他们在上午九点前到达。
+I listen carefully. | 我认真听。
+The guests leave after lunch. | 客人们午饭后离开。
+He speaks very slowly. | 他讲话很慢。
+We work in different teams. | 我们在不同的团队工作。
+She comes early every time. | 她每次都来得很早。
+I stay until the end. | 我待到最后。
+They laugh during the meeting. | 他们在会议中笑了。
+He stops talking when the boss enters. | 老板进来时他就不说话了。
+We meet every Monday. | 我们每周一开会。
+She checks her email often. | 她经常查邮件。
+I prepare before every meeting. | 我每次开会前都做准备。
+You ask good questions. | 你问的问题很好。
+He speaks English well. | 他英语说得很好。
+We arrive at the same time. | 我们同时到达。
+They wait for the decision. | 他们等待决定。
+She smiles at everyone. | 她对每个人微笑。
+
+I open the window. | 我打开窗户。
+She takes a notebook from her bag. | 她从包里拿出一个笔记本。
+We bring drinks for the meeting. | 我们为会议带来了饮料。
+He checks the report again. | 他再次检查报告。
+They send the plan by email. | 他们通过邮件发送计划。
+You read the paper quickly. | 你很快读完了文件。
+She closes the door quietly. | 她轻轻地关上门。
+We finish the task today. | 我们今天完成任务。
+I write the name on the board. | 我把名字写在白板上。
+He shows the picture to the group. | 他向大家展示图片。
+They use a new projector. | 他们用一个新的投影仪。
+You need to answer the question. | 你需要回答这个问题。
+I print the meeting agenda. | 我打印会议议程。
+She prepares lunch for everyone. | 她为大家准备午餐。
+We start at 9 a.m. sharp. | 我们九点整开始。
+He finds a problem in the file. | 他发现文件中有个问题。
+They send the report today. | 他们今天发送报告。
+You clean the whiteboard. | 你清理白板。
+I copy the notes. | 我抄写笔记。
+We organize the chairs. | 我们整理椅子。
+
+I give you the report. | 我把报告给你。
+She shows us the plan. | 她向我们展示计划。
+He tells me the time. | 他告诉我时间。
+We send them the link. | 我们把链接发给他们。
+You bring me a pen. | 你给我带支笔。
+They read us the schedule. | 他们念了日程给我们听。
+He sends her a message. | 他发给她一条信息。
+We give him the files. | 我们把文件给他。
+I tell her the answer. | 我告诉她答案。
+She offers them some advice. | 她给了他们一些建议。
+They bring us water. | 他们给我们带了水。
+You show me the report. | 你给我看报告。
+We give the manager the papers. | 我们把文件交给经理。
+He gives her a notebook. | 他给了她一个笔记本。
+I send you the slides. | 我把幻灯片发给你。
+She tells me the topic. | 她告诉我主题。
+They offer us help. | 他们提供帮助。
+We give you the idea. | 我们把想法告诉你。
+He shows me the chart. | 他给我看图表。
+You send them the link. | 你把链接发给他们。
+
+We call her the leader. | 我们叫她为负责人。
+They made the task easier. | 他们让任务更容易了。
+I found the answer correct. | 我发现答案是对的。
+She keeps the room clean. | 她保持房间整洁。
+You made the meeting interesting. | 你让会议变得有趣。
+He called the idea helpful. | 他称这个想法很有帮助。
+We found the report useful. | 我们发现报告很有用。
+They named him the new manager. | 他们任命他为新经理。
+I made the list longer. | 我把清单列得更长了。
+She found the topic hard. | 她觉得这个话题难。
+You kept the table tidy. | 你保持了桌面整洁。
+He painted the wall white. | 他把墙刷成白色。
+We called the plan simple. | 我们认为这个计划很简单。
+They made the solution clear. | 他们让解决办法很清楚。
+I kept the document open. | 我把文件保持开启状态。
+She made the goal clear. | 她明确了目标。
+You found the task boring. | 你觉得任务无聊。
+We named her team leader. | 我们任命她为团队负责人。
+He called the idea funny. | 他觉得这个主意很好笑。
+They kept the questions short. | 他们把问题简化了。
+

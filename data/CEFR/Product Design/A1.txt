@@ -1,0 +1,100 @@
+The bag is new. | 这个包是新的。
+This pen is blue. | 这支笔是蓝色的。
+My phone is small. | 我的手机很小。
+The table is clean. | 桌子很干净。
+The design is simple. | 设计很简单。
+Her room is big. | 她的房间很大。
+The chair is red. | 这把椅子是红色的。
+His idea is good. | 他的想法很好。
+The app is fast. | 这个应用很快。
+The model is ready. | 模型准备好了。
+My plan is easy. | 我的计划很简单。
+The project is fun. | 这个项目很有趣。
+This tool is helpful. | 这个工具很有帮助。
+That part is important. | 那一部分很重要。
+The box is heavy. | 这个盒子很重。
+The photo is nice. | 这张照片很好看。
+This game is cool. | 这个游戏很酷。
+The sketch is clear. | 这张草图很清晰。
+The page is blank. | 这页是空白的。
+My team is ready. | 我的团队准备好了。
+I work here. | 我在这里工作。
+He runs fast. | 他跑得很快。
+She sings well. | 她唱得很好。
+The bell rings. | 铃响了。
+We wait now. | 我们现在等。
+They walk home. | 他们走路回家。
+You sleep early. | 你睡得早。
+The idea grows. | 这个想法在发展。
+The team meets. | 团队见面。
+The pen drops. | 笔掉了。
+He eats quickly. | 他吃得很快。
+She comes late. | 她来得晚。
+We start soon. | 我们很快开始。
+The app loads. | 应用加载了。
+The tool works. | 工具正常运作。
+I swim often. | 我经常游泳。
+He talks a lot. | 他说很多话。
+The light shines. | 灯亮着。
+It ends now. | 现在结束了。
+The design fails. | 设计失败了。
+I see the model. | 我看到了模型。
+She uses the tool. | 她使用这个工具。
+He draws a line. | 他画了一条线。
+We build a box. | 我们做了一个盒子。
+They open the app. | 他们打开了应用。
+You fix the error. | 你修复了错误。
+The teacher shows a photo. | 老师展示了一张照片。
+The team tests the idea. | 团队测试这个想法。
+He paints a picture. | 他画了一幅画。
+She writes the name. | 她写下了名字。
+I check the file. | 我检查了文件。
+They copy the code. | 他们复制了代码。
+We use this part. | 我们用了这部分。
+You close the page. | 你关上了页面。
+She makes a sketch. | 她画了一个草图。
+I like this design. | 我喜欢这个设计。
+He buys a book. | 他买了一本书。
+The app shows a list. | 应用显示了一个列表。
+They print the image. | 他们打印了图片。
+We send the file. | 我们发送了文件。
+She gives me a pen. | 她给我一支笔。
+He shows us the photo. | 他给我们看那张照片。
+I send her a message. | 我给她发了信息。
+We bring him a book. | 我们带了一本书给他。
+They tell me the answer. | 他们告诉我答案。
+You send them a file. | 你给他们发了个文件。
+He writes me a note. | 他给我写了一张便条。
+She gives him a tool. | 她给他一个工具。
+I show you the plan. | 我给你看这个计划。
+We offer her help. | 我们给她提供帮助。
+He buys us lunch. | 他请我们吃午饭。
+She tells them the idea. | 她告诉他们这个想法。
+I send you the photo. | 我发给你照片。
+They give us the file. | 他们把文件给我们。
+You write me a message. | 你给我写了消息。
+We show him a sketch. | 我们给他看草图。
+He brings me a sample. | 他带了一个样品给我。
+She sends them the image. | 她把图像发给他们。
+They show us the result. | 他们给我们看结果。
+I give her a copy. | 我给她一份副本。
+We call the tool easy. | 我们觉得这个工具简单。
+She makes the app faster. | 她让应用更快了。
+He paints the model blue. | 他把模型涂成蓝色。
+They call it new. | 他们叫它新。
+I find the part useful. | 我觉得这部分有用。
+She makes the photo clear. | 她让照片变清晰了。
+He keeps the plan secret. | 他保守这个计划。
+We name it QuickTool. | 我们把它命名为QuickTool。
+They leave the screen blank. | 他们让屏幕保持空白。
+I find the app slow. | 我觉得这个应用慢。
+She makes the list short. | 她让列表变短了。
+He calls the idea fun. | 他觉得这个想法有趣。
+We find the test easy. | 我们觉得测试简单。
+You make the tool small. | 你让工具变小了。
+They name the model BoxA. | 他们给模型起名叫BoxA。
+I keep the file clean. | 我保持文件整洁。
+He leaves the room quiet. | 他让房间保持安静。
+She calls the tool strong. | 她说这个工具很强。
+They make the box red. | 他们把盒子弄成红色。
+We find the idea smart. | 我们觉得这个想法聪明。

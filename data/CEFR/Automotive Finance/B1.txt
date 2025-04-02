@@ -1,0 +1,100 @@
+The system is stable and reliable. | 系统稳定可靠。
+Our service is always available online. | 我们的服务始终可在线访问。
+The application is ready for submission. | 申请已经准备好提交。
+The interface is simple and user-friendly. | 界面简洁，用户友好。
+The process is fully automated. | 流程是全自动的。
+The data is correct and complete. | 数据是正确且完整的。
+My role is a sales support officer. | 我的角色是销售支持专员。
+The approval result is final. | 审批结果是最终的。
+The requirement is clearly stated in the form. | 要求在表格中写得很清楚。
+The error is only temporary. | 错误只是暂时的。
+The customer is interested in a car loan. | 客户对汽车贷款感兴趣。
+The new version is more flexible. | 新版本更加灵活。
+The solution is cost-effective. | 该方案具有成本效益。
+This information is confidential. | 这些信息是保密的。
+The interface is down due to timeout. | 接口因为超时而中断了。
+The system is under maintenance. | 系统正在维护中。
+The customer is not eligible for this campaign. | 客户不符合这个活动的资格。
+The design is based on real user needs. | 设计基于真实用户需求。
+The product is popular among young users. | 这款产品在年轻用户中很受欢迎。
+The issue is currently being investigated. | 该问题目前正在调查中。
+The system runs smoothly. | 系统运行顺畅。
+The student studies every evening. | 学生每天晚上都学习。
+The application crashes occasionally. | 应用程序偶尔会崩溃。
+She travels to school by bus. | 她坐公交车上学。
+The meeting starts at ten. | 会议十点开始。
+The message appears suddenly. | 信息突然出现。
+We arrived early for the interview. | 我们为了面试早早就到了。
+The loan expired last week. | 贷款上周到期了。
+They waited outside the office. | 他们在办公室外等候。
+The customer complained politely. | 客户有礼貌地提出了投诉。
+The data loads quickly. | 数据加载得很快。
+The system froze again. | 系统又卡住了。
+He works in the IT department. | 他在 IT 部门工作。
+They walked to the service center. | 他们走到服务中心。
+The process failed without warning. | 流程失败了，毫无预警。
+The teacher arrived on time. | 老师准时到了。
+The screen blinked twice. | 屏幕闪了两下。
+The students gathered in the lab. | 学生们聚集在实验室里。
+The server went down during lunch. | 服务器在午餐时间崩溃了。
+The technician responded immediately. | 技术人员立刻做出了回应。
+I submitted the application. | 我提交了申请。
+She completed the task before lunch. | 她在午饭前完成了任务。
+They updated the form yesterday. | 他们昨天更新了表格。
+We checked the data twice. | 我们检查了数据两次。
+The officer explained the process clearly. | 工作人员清楚地解释了流程。
+He answered the question correctly. | 他正确地回答了问题。
+The system recorded the request. | 系统记录了该请求。
+The bank processed the loan. | 银行处理了贷款。
+She joined the school club last week. | 她上周加入了学校社团。
+We canceled the meeting. | 我们取消了会议。
+They issued the card immediately. | 他们立即发放了卡片。
+The student downloaded the report. | 学生下载了报告。
+I saved the draft before closing. | 我在关闭前保存了草稿。
+The customer received the notification. | 客户收到了通知。
+He printed the agreement. | 他打印了协议。
+We monitored the system closely. | 我们密切监控系统。
+She called the support team. | 她打电话给客服团队。
+The officer reviewed the document. | 工作人员审查了文件。
+They launched the new version. | 他们上线了新版本。
+The teacher praised the student. | 老师表扬了学生。
+She gave the officer her ID card. | 她把身份证交给了工作人员。
+The teacher showed the class a new tool. | 老师给全班展示了一个新工具。
+I sent the manager a reminder. | 我给经理发了个提醒。
+They offered us a better solution. | 他们给我们提供了一个更好的方案。
+We told the team the good news. | 我们把好消息告诉了团队。
+The coach taught the players a new tactic. | 教练教球员一个新战术。
+He gave the dealer the document. | 他把文件交给了经销商。
+The system sent the user a confirmation email. | 系统向用户发送了一封确认邮件。
+The app showed the student the results. | 应用程序向学生显示了结果。
+I brought my friend a backup charger. | 我给朋友带了一个备用充电器。
+They offered the bank a partnership plan. | 他们向银行提出了一个合作方案。
+The officer gave the customer a token number. | 工作人员给了客户一个号码牌。
+She passed the interviewer her resume. | 她把简历递给了面试官。
+We gave the client a detailed explanation. | 我们给客户做了详细解释。
+He told the assistant the issue. | 他把问题告诉了助理。
+The system granted users instant access. | 系统给予用户即时访问权限。
+She sent her teacher a draft report. | 她给老师发了一个报告草稿。
+They paid the dealer the full amount. | 他们向经销商支付了全额。
+The student handed the librarian the book. | 学生把书交给了图书管理员。
+He showed his parents the new app. | 他给父母展示了那个新应用。
+They made the system more efficient. | 他们让系统更高效。
+She found the report quite useful. | 她发现报告非常有用。
+We kept the form blank. | 我们让表格保持空白。
+The officer called the case urgent. | 工作人员称该案件为紧急案件。
+He painted the wall blue. | 他把墙漆成了蓝色。
+The teacher made the question easy. | 老师让问题变得容易。
+I consider this function essential. | 我认为这个功能是必要的。
+They named the project Sunrise. | 他们给这个项目取名为“日出”。
+She left the section empty. | 她把那一栏留空了。
+We declared the application invalid. | 我们宣布该申请无效。
+He found the file missing. | 他发现文件不见了。
+The update made the app unstable. | 这次更新让应用变得不稳定。
+She made the environment more friendly. | 她让环境更加友好。
+They called the meeting productive. | 他们认为这次会议富有成效。
+We marked the status pending. | 我们将状态标为“待处理”。
+The manager kept the decision private. | 经理将决定保密。
+She found the software easy to use. | 她觉得这款软件易于使用。
+They declared the candidate eligible. | 他们宣布候选人符合资格。
+He made the feedback very clear. | 他把反馈表达得非常清楚。
+The platform made learning fun. | 这个平台让学习变得有趣。

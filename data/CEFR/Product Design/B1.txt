@@ -1,0 +1,100 @@
+The new design is innovative. | 这个新设计很有创意。
+Our product is user-friendly. | 我们的产品很容易使用。
+The idea is practical. | 这个想法是实用的。
+The concept is original. | 这个概念很独特。
+This solution is effective. | 这个解决方案是有效的。
+Her design is attractive. | 她的设计很吸引人。
+The layout is simple. | 布局很简洁。
+The prototype is ready. | 原型已经准备好了。
+The result is satisfying. | 结果令人满意。
+The plan is flexible. | 这个方案很灵活。
+The app is responsive. | 这个应用反应迅速。
+His idea is valuable. | 他的想法很有价值。
+This product is affordable. | 这个产品价格合理。
+The model is outdated. | 这个模型过时了。
+The feature is unique. | 这个功能很独特。
+Our goal is clear. | 我们的目标很明确。
+Their feedback is helpful. | 他们的反馈很有帮助。
+The interface is clean. | 界面很清爽。
+The process is efficient. | 这个流程很高效。
+The design is complete. | 设计已经完成。
+The designer works every day. | 设计师每天工作。
+The idea grows gradually. | 这个想法逐渐发展。
+The colors match well. | 这些颜色搭配得很好。
+The product arrived yesterday. | 产品昨天到了。
+The team meets regularly. | 团队定期见面。
+The prototype failed suddenly. | 原型突然失败了。
+The presentation began early. | 演示开始得很早。
+The cost increased slowly. | 成本慢慢上升了。
+The project continues today. | 项目今天继续进行。
+The app crashed again. | 应用又崩溃了。
+She hesitates sometimes. | 她有时会犹豫。
+The feedback helped. | 反馈起作用了。
+The discussion lasted an hour. | 讨论持续了一小时。
+The idea changed quickly. | 想法很快改变了。
+The model collapsed. | 模型垮掉了。
+The paint dries fast. | 油漆干得快。
+The error disappeared. | 错误消失了。
+The system failed. | 系统失败了。
+The team improved. | 团队进步了。
+He agrees finally. | 他终于同意了。
+She presented her idea. | 她展示了她的想法。
+The designer created a sketch. | 设计师画了一个草图。
+He tested the prototype. | 他测试了原型。
+They developed a new app. | 他们开发了一个新应用。
+The team launched the product. | 团队发布了这个产品。
+We reviewed the design. | 我们审查了设计。
+I downloaded the file. | 我下载了文件。
+He fixed the error. | 他修复了错误。
+She updated the version. | 她更新了版本。
+We analyzed the data. | 我们分析了数据。
+They improved the interface. | 他们改进了界面。
+She shared the link. | 她分享了链接。
+He added the feature. | 他添加了这个功能。
+We followed the guide. | 我们按照指南做了。
+The client requested a change. | 客户提出了一个变更请求。
+They completed the project. | 他们完成了这个项目。
+He uploaded the document. | 他上传了文件。
+We adjusted the layout. | 我们调整了布局。
+The team solved the problem. | 团队解决了问题。
+She drew a new diagram. | 她画了一个新图表。
+He gave the client a sample. | 他给客户一个样品。
+She showed the manager her plan. | 她向经理展示了她的计划。
+The team sent the customer a survey. | 团队向客户发送了一份调查。
+We offered the user a solution. | 我们给用户提供了一个解决方案。
+They taught the intern the software. | 他们教实习生使用软件。
+She handed the supervisor the report. | 她把报告交给了主管。
+He offered the company his idea. | 他向公司提出了他的想法。
+We mailed the client the design. | 我们把设计寄给了客户。
+They brought the boss a proposal. | 他们向老板带来一个提议。
+I showed the user the update. | 我向用户展示了更新内容。
+He sent the engineer a request. | 他向工程师发出一个请求。
+We provided the tester a sample. | 我们向测试员提供了一个样品。
+She gave the assistant instructions. | 她给助理下达了指令。
+They handed the judge a prototype. | 他们把原型交给了评审。
+He offered the teacher an example. | 他给老师一个例子。
+She told the team the results. | 她告诉团队结果。
+We sent the supplier the order. | 我们向供应商发送了订单。
+He showed the class the product. | 他向班级展示了产品。
+I offered the reviewer some advice. | 我向评审提出了一些建议。
+They gave the manager a timeline. | 他们给经理一个时间表。
+We found the app useful. | 我们发现这个应用很有用。
+They made the process faster. | 他们让流程更快了。
+She called the result perfect. | 她认为这个结果很完美。
+He painted the model blue. | 他把模型涂成蓝色。
+We named the feature SmartMode. | 我们给这个功能起名叫 SmartMode。
+She considered the design clever. | 她认为这个设计很聪明。
+They kept the interface simple. | 他们保持界面简洁。
+He made the logo bigger. | 他把标志做大了。
+We declared the test successful. | 我们宣布测试成功。
+They found the solution effective. | 他们发现这个解决方案有效。
+She left the screen blank. | 她让屏幕保持空白。
+He made the layout responsive. | 他让布局具备响应性。
+We chose the theme dark. | 我们选择了深色主题。
+They elected him leader. | 他们选他当领导。
+She kept the name secret. | 她保密了这个名字。
+We called the project SmartStart. | 我们把这个项目叫 SmartStart。
+They considered the prototype complete. | 他们认为原型已经完成。
+He found the design impressive. | 他觉得设计令人印象深刻。
+She made the experience enjoyable. | 她让体验变得愉快。
+We proved the method useful. | 我们证明这个方法很有用。

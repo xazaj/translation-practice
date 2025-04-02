@@ -1,0 +1,100 @@
+This is a car loan form. | 这是一个汽车贷款表格。
+The system is simple. | 系统很简单。
+The form is ready. | 表格准备好了。
+This function is useful. | 这个功能很有用。
+My application is complete. | 我的申请已完成。
+The page is slow. | 页面很慢。
+Her loan is approved. | 她的贷款已获批。
+The color is red. | 颜色是红色的。
+The car is new. | 这辆车是新的。
+The status is pending. | 状态是待处理。
+The document is clear. | 文件很清晰。
+The user is online. | 用户在线。
+The process is automatic. | 流程是自动的。
+My phone is connected. | 我的手机已连接。
+His account is active. | 他的账户是激活状态。
+The screen is blank. | 屏幕是空白的。
+The product is bundled. | 产品是捆绑的。
+The application is submitted. | 申请已提交。
+The bank is open. | 银行是营业状态。
+The offer is valid. | 这个报价是有效的。
+The system runs well. | 系统运行良好。
+My manager agrees. | 我的经理同意了。
+The customer waits. | 客户在等待。
+The app crashes. | 应用崩溃了。
+She types fast. | 她打字很快。
+He speaks clearly. | 他说话很清楚。
+I agree. | 我同意。
+The meeting starts. | 会议开始了。
+The status changes. | 状态发生变化。
+The page loads slowly. | 页面加载缓慢。
+The button works. | 按钮能用。
+The user complains. | 用户在投诉。
+The device connects. | 设备连接上了。
+The car stops. | 汽车停了。
+The form disappears. | 表格消失了。
+She hesitates. | 她犹豫了。
+They listen carefully. | 他们认真听着。
+He arrives late. | 他到得晚。
+I wait online. | 我在线等待。
+The loan expires. | 贷款过期了。
+I fill the form. | 我填写了表格。
+She submits the application. | 她提交了申请。
+He opens the file. | 他打开了文件。
+They check the result. | 他们查看了结果。
+The user reads the message. | 用户读取了信息。
+We update the system. | 我们更新了系统。
+I close the window. | 我关闭了窗口。
+He prints the contract. | 他打印了合同。
+She uploads the document. | 她上传了文件。
+They review the report. | 他们审阅了报告。
+The team fixes the bug. | 团队修复了漏洞。
+The officer approves the loan. | 审批员批准了贷款。
+The app sends a code. | 应用发送了验证码。
+I save the changes. | 我保存了更改。
+He receives the email. | 他收到了邮件。
+She installs the software. | 她安装了软件。
+The bank processes the request. | 银行处理了请求。
+I restart the device. | 我重启了设备。
+They copy the data. | 他们复制了数据。
+We cancel the order. | 我们取消了订单。
+She gave the manager the report. | 她把报告给了经理。
+I sent the officer the document. | 我把文件发给了审批员。
+They offered the customer a deal. | 他们给客户提供了一个方案。
+He showed me the form. | 他给我看了表格。
+We gave the client a call. | 我们给客户打了电话。
+The system sent him a reminder. | 系统给他发了提醒。
+She wrote the bank a letter. | 她给银行写了封信。
+I brought my boss the file. | 我把文件带给了上司。
+They gave her the result. | 他们把结果给了她。
+The officer offered us help. | 审批员给了我们帮助。
+He taught me the rules. | 他教我规则。
+We paid the dealer a deposit. | 我们给经销商支付了定金。
+I gave the team the update. | 我把最新进展告诉了团队。
+She read him the terms. | 她给他读了条款。
+He told me the reason. | 他告诉我原因。
+The platform shows users the steps. | 平台向用户展示步骤。
+I asked the staff a question. | 我问了工作人员一个问题。
+They promised her a reply. | 他们答应给她一个答复。
+He told the customer the price. | 他告诉客户价格。
+She sent us the confirmation. | 她把确认发给了我们。
+They made the process easy. | 他们让流程变得简单。
+I found the form helpful. | 我觉得这个表格很有用。
+We called the system smart. | 我们称这个系统很智能。
+The team kept the screen clean. | 团队保持了屏幕干净。
+He made the app faster. | 他让应用更快了。
+She found the result correct. | 她发现结果是正确的。
+They named the file draft. | 他们把文件命名为草稿。
+I made the form editable. | 我让表格可编辑。
+We consider the loan valid. | 我们认为贷款是有效的。
+The bank called the service secure. | 银行称该服务安全。
+She painted the button blue. | 她把按钮涂成了蓝色。
+They made the rules clear. | 他们把规则说明清楚了。
+We found the system helpful. | 我们觉得系统很有帮助。
+He made the page responsive. | 他让页面变得响应式。
+She considered the offer fair. | 她认为这个报价很公平。
+I kept the format simple. | 我让格式保持简单。
+They declared the process done. | 他们宣布流程完成了。
+We made the status visible. | 我们让状态变得可见。
+She found the answer wrong. | 她发现答案是错的。
+He kept the data safe. | 他保证数据安全。

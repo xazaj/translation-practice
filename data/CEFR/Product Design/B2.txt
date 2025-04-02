@@ -1,0 +1,100 @@
+The user interface is more intuitive now. | 现在的用户界面更直观了。
+The product strategy is highly innovative. | 产品策略非常有创新性。
+The application is robust and reliable. | 这个应用程序稳定可靠。
+The initial concept was overly ambitious. | 最初的概念过于雄心勃勃。
+The wireframe is relatively detailed. | 线框图相对详细。
+The mockup is visually appealing. | 这个模型图在视觉上很吸引人。
+The feature list is comprehensive. | 功能列表很全面。
+The navigation structure is logical. | 导航结构很合理。
+The user feedback is overwhelmingly positive. | 用户反馈压倒性地正面。
+The prototype is almost functional. | 原型几乎可以使用了。
+The interface is consistent across platforms. | 这个界面在各个平台上都保持一致。
+The layout is adaptable to all devices. | 这个布局适用于所有设备。
+The testing phase is nearly complete. | 测试阶段几乎完成了。
+The codebase is clean and maintainable. | 代码库干净且易于维护。
+The concept is both feasible and scalable. | 这个概念既可行又可扩展。
+The app design is industry-standard. | 这个应用的设计符合行业标准。
+The experience is seamless for the end-user. | 最终用户的体验非常顺畅。
+The prototype is still under evaluation. | 原型仍在评估中。
+The system is currently operational. | 系统目前正在运行中。
+The final version is quite polished. | 最终版本相当精致。
+The design evolved over several iterations. | 这个设计经过多次迭代才发展成型。
+The team collaborated effectively throughout. | 团队在整个过程中协作得很好。
+The requirements changed unexpectedly. | 需求出乎意料地发生了变化。
+The software crashed during testing. | 软件在测试时崩溃了。
+The error appeared again after the update. | 更新后错误再次出现。
+The system rebooted automatically. | 系统自动重启了。
+The concept originated from a workshop. | 这个概念源于一个工作坊。
+The interface loads faster now. | 界面现在加载更快了。
+The mockup received mixed reactions. | 模型图获得了不同的反应。
+The document expired last week. | 文档上周失效了。
+The idea matured over time. | 这个想法是逐渐成熟的。
+The solution emerged from brainstorming. | 这个解决方案是在头脑风暴中产生的。
+The performance improved significantly. | 性能显著提升。
+The problem escalated quickly. | 问题迅速升级了。
+The program terminated without warning. | 程序在没有警告的情况下终止了。
+The app launched successfully. | 应用成功上线了。
+The function failed repeatedly. | 这个功能反复失败。
+The layout shifted slightly. | 布局有些许变化。
+The tool integrated well with others. | 这个工具与其他工具集成得很好。
+The response arrived late. | 回应迟到了。
+The engineer resolved the compatibility issue. | 工程师解决了兼容性问题。
+The team implemented a new layout. | 团队实现了一个新的布局。
+The designer adjusted the color scheme. | 设计师调整了配色方案。
+The manager reviewed the project scope. | 经理审查了项目范围。
+The software processed the input data. | 软件处理了输入的数据。
+The update fixed multiple bugs. | 更新修复了多个漏洞。
+The intern submitted the wireframe. | 实习生提交了线框图。
+The team monitored system performance. | 团队监控系统性能。
+The architect introduced a better structure. | 架构师引入了更好的结构。
+The company released a beta version. | 公司发布了一个测试版。
+The reviewer questioned the feature's necessity. | 评审质疑了该功能的必要性。
+The app consumed too much memory. | 这个应用占用太多内存。
+The update added multi-language support. | 更新添加了多语言支持。
+The prototype met the initial requirements. | 原型满足了初始需求。
+The report highlighted usability concerns. | 报告强调了可用性问题。
+The team deployed the latest build. | 团队部署了最新版本。
+The assistant printed the final design. | 助理打印了最终设计。
+The test exposed several flaws. | 测试暴露了几个缺陷。
+The feature exceeded expectations. | 这个功能超出了预期。
+The model demonstrated high efficiency. | 这个模型表现出高效能。
+The designer gave the client three layout options. | 设计师给客户提供了三个布局选项。
+The team sent the developer detailed guidelines. | 团队给开发者发送了详细的指南。
+The assistant showed the reviewer the new prototype. | 助理向评审展示了新原型。
+The engineer offered the intern technical advice. | 工程师向实习生提供了技术建议。
+The leader handed the manager a revised report. | 负责人向经理递交了修订报告。
+The developer taught the team the new tool. | 开发者教团队使用新工具。
+The specialist gave the tester a checklist. | 专家给测试员一个检查清单。
+The architect mailed the partner the final blueprint. | 架构师把最终蓝图邮寄给了合作伙伴。
+The team presented the users three design themes. | 团队向用户展示了三种设计主题。
+The mentor offered the students guidance. | 导师向学生提供了指导。
+The app showed the user an error message. | 这个应用向用户显示了错误信息。
+The manager gave the staff extra time. | 经理给员工额外的时间。
+The technician sent the designer the modified file. | 技术员把修改后的文件发送给设计师。
+The reviewer gave the author detailed feedback. | 评审给作者详细反馈。
+The speaker offered the audience useful tips. | 讲者给听众提供了实用建议。
+The system displayed the admin the configuration panel. | 系统向管理员显示了配置面板。
+The expert gave the team a valuable suggestion. | 专家给团队一个有价值的建议。
+The interface provided users multiple filter options. | 界面提供了多种筛选选项给用户。
+The platform granted the designer access rights. | 平台授予设计师访问权限。
+The project lead handed the investor the proposal. | 项目负责人把提案交给了投资人。
+The update made the app more responsive. | 更新使应用反应更灵敏。
+The design team found the feature too complex. | 设计团队认为这个功能太复杂了。
+The project lead called the plan unrealistic. | 项目负责人认为这个计划不现实。
+The developer named the method 'AutoGen'. | 开发者把这个方法命名为 'AutoGen'。
+They painted the prototype black and white. | 他们把原型涂成黑白色。
+The reviewer found the layout inconsistent. | 评审认为这个布局不一致。
+The tool kept the interface clean. | 这个工具保持界面整洁。
+The manager considered the suggestion irrelevant. | 经理认为这个建议不相关。
+The test results proved the concept viable. | 测试结果证明这个概念可行。
+The user called the update unnecessary. | 用户认为这次更新没必要。
+The editor made the document easier to read. | 编辑让这份文档更易读了。
+The team left the file unedited. | 团队让文件保持未修改状态。
+The reviewer judged the approach ineffective. | 评审认为这个方法无效。
+The designer found the UI outdated. | 设计师认为界面过时了。
+The developer considered the function redundant. | 开发者认为这个功能多余了。
+They named the new product 'FlexiBoard'. | 他们把新产品命名为 FlexiBoard。
+The trainer found the explanation confusing. | 培训师认为解释令人困惑。
+The tool rendered the process smoother. | 这个工具让流程更顺畅。
+The technician marked the issue resolved. | 技术人员标记这个问题已解决。
+The design made the user journey intuitive. | 设计使用户路径变得直观。

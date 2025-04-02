@@ -1,0 +1,100 @@
+The primary objective is system scalability. | 主要目标是系统可扩展性。
+Her proposal was both practical and comprehensive. | 她的提议既实际又全面。
+The interface is far more intuitive than expected. | 这个界面比预期直观得多。
+This solution is vital for operational efficiency. | 该解决方案对运营效率至关重要。
+The data structure is compatible with our platform. | 这个数据结构与我们平台兼容。
+The approval process is relatively straightforward. | 审批流程相对简单。
+My concern is the inconsistency in data input. | 我担心的是数据输入不一致。
+The reason for rejection is unclear. | 被拒原因不明确。
+The login mechanism is currently under revision. | 登录机制目前正在修订中。
+Their approach is highly adaptable. | 他们的方法高度灵活。
+This requirement is not negotiable. | 这个需求不容协商。
+Our focus is digital transformation. | 我们的重点是数字化转型。
+The evidence is statistically significant. | 证据具有统计学意义。
+The feedback was generally positive. | 反馈总体上是正面的。
+The security policy is well-documented. | 安全策略记录详尽。
+The limitation is purely technical. | 这个限制纯粹是技术性的。
+The message is prominently displayed. | 信息被显著地展示出来。
+Her assumption was fundamentally flawed. | 她的假设从根本上就是错误的。
+The validation criteria are too strict. | 验证标准太严格了。
+Their interface is industry-compliant. | 他们的界面符合行业规范。
+The interface responded inconsistently under pressure. | 在压力下界面反应不一致。
+Several modules failed intermittently during testing. | 几个模块在测试中断断续续地失败。
+The officer hesitated before making the final decision. | 审批员在做最终决定前犹豫了。
+The platform rebooted without any warning. | 平台在没有任何警告的情况下重启了。
+The system evolved significantly over the last update. | 系统在最近一次更新中有显著提升。
+The network fluctuated despite stable connectivity. | 尽管连接稳定，网络仍有波动。
+The data streamed continuously from the server. | 数据从服务器连续流出。
+The API responded promptly throughout the day. | 接口整天都响应及时。
+The submission failed due to a timeout. | 提交因超时失败。
+The error recurred multiple times. | 错误多次反复出现。
+The application crashed unexpectedly. | 应用程序意外崩溃。
+The configuration changed dynamically. | 配置发生了动态变化。
+The logs updated periodically. | 日志定期更新。
+He intervened decisively during the crisis. | 他在危机中果断介入。
+The document loaded seamlessly. | 文档无缝加载。
+The applicant hesitated briefly. | 申请人短暂地犹豫了。
+The screen flickered occasionally. | 屏幕偶尔闪烁。
+The value dropped rapidly. | 数值迅速下降。
+She paused before replying. | 她在回复前停顿了一下。
+The data accumulated over time. | 数据随着时间积累。
+The engineer optimized the loan approval algorithm. | 工程师优化了贷款审批算法。
+She highlighted the discrepancies in the report. | 她指出了报告中的差异。
+The bank postponed the rollout of the new system. | 银行推迟了新系统的上线。
+They reviewed the historical transaction logs. | 他们审查了历史交易日志。
+The analyst interpreted the results accurately. | 分析师准确地解释了结果。
+He referenced the updated compliance guidelines. | 他引用了更新后的合规指南。
+We revised the proposal based on feedback. | 我们根据反馈修改了提案。
+The user ignored the security warning. | 用户忽略了安全警告。
+She retrieved the deleted application form. | 她恢复了被删除的申请表。
+They submitted the final documentation yesterday. | 他们昨天提交了最终文件。
+The officer questioned the reliability of the data. | 审批员质疑数据的可靠性。
+The assistant recorded the customer's request. | 助理记录了客户的请求。
+We examined the uploaded files thoroughly. | 我们彻底检查了上传的文件。
+The system stored the responses locally. | 系统将响应存储在本地。
+He clarified the process during the meeting. | 他在会议中澄清了流程。
+The application triggered multiple warnings. | 该申请触发了多条警告。
+The reviewer flagged the incomplete entry. | 审阅员标记了不完整的输入项。
+I analyzed the root cause of the failure. | 我分析了失败的根本原因。
+They encrypted the customer’s credentials. | 他们加密了客户的凭证信息。
+The manager escalated the issue to IT. | 经理将问题上报给了技术部门。
+The bank issued the applicant a conditional offer. | 银行向申请人发出了一份有条件的报价。
+She sent the development team the revised draft. | 她把修改稿发给了开发团队。
+He offered the client an alternative package. | 他给客户提供了一个替代方案。
+We forwarded the officer the necessary documents. | 我们将必要的文件转发给了审批员。
+They granted the system access to additional data. | 他们授予系统额外的数据访问权限。
+The platform showed the reviewer a summary report. | 平台向审阅员展示了一份摘要报告。
+The team emailed the supervisor their findings. | 团队将调查结果通过邮件发给了主管。
+The assistant handed the manager a printed version. | 助理把打印版交给了经理。
+We offered the vendor a six-month extension. | 我们给供应商提供了六个月的延期。
+He told the support team the exact error message. | 他告诉支持团队具体的错误信息。
+The app displayed the user a list of options. | 应用向用户显示了一系列选项。
+They presented the board their monthly summary. | 他们向董事会提交了月度总结。
+She gave the stakeholder a brief update. | 她向利益相关者提供了简要更新。
+The officer emailed the applicant the rejection note. | 审批员通过邮件向申请人发送了拒信。
+The reviewer showed the vendor the checklist. | 审阅员给供应商看了检查清单。
+We issued the partner a new access token. | 我们给合作伙伴发了新的访问令牌。
+He explained the intern the approval workflow. | 他向实习生讲解了审批流程。
+The system provided the user the verification code. | 系统向用户提供了验证码。
+The dealer offered us a better interest rate. | 经销商为我们提供了更优惠的利率。
+She told the auditor the actual funding amount. | 她告诉审计员实际的放款金额。
+The platform renders the interface fully customizable. | 平台使界面完全可定制。
+We consider the function redundant in this case. | 我们认为这个功能在本案例中是多余的。
+The update made the application significantly slower. | 更新使应用明显变慢。
+She found the instructions unnecessarily complicated. | 她觉得说明复杂得不必要。
+They called the process overly bureaucratic. | 他们称该流程过于官僚。
+He deemed the document legally invalid. | 他认为这份文件在法律上无效。
+We kept the design consistent across modules. | 我们保持各模块设计一致。
+The reviewer marked the statement factually incorrect. | 审阅者标注该陈述为事实错误。
+The manager declared the meeting officially closed. | 经理宣布会议正式结束。
+She found the interface visually appealing. | 她觉得界面在视觉上很吸引人。
+The assistant considered the deadline unrealistic. | 助理认为这个截止日期不现实。
+The bank regarded the application incomplete. | 银行认为该申请不完整。
+He made the form easier to navigate. | 他让这个表格更易于浏览。
+We kept the documentation updated. | 我们保持文档为最新状态。
+They labelled the file confidential. | 他们将该文件标记为机密。
+The officer painted the assessment overly optimistic. | 审批员认为评估过于乐观。
+I found the input field too restrictive. | 我发现输入字段限制太多。
+The system named the user session invalid. | 系统将该用户会话标记为无效。
+She declared the result final. | 她宣布结果为最终结果。
+The developer made the configuration more robust. | 开发者让配置更稳定。

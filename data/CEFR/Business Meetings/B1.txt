@@ -1,0 +1,200 @@
+The meeting is important for all departments. | 这次会议对所有部门都很重要。
+The deadline is next Monday. | 截止日期是下周一。
+The agenda seems too long. | 议程好像太长了。
+The team is ready for the presentation. | 团队已经准备好做汇报。
+The conference room is available at 3 p.m. | 会议室下午三点有空。
+The discussion was very productive. | 讨论很有成效。
+The project is behind schedule. | 项目进度落后了。
+The location is convenient for everyone. | 地点对大家都很方便。
+The topic sounds interesting. | 这个话题听起来很有趣。
+The manager is in a good mood today. | 经理今天心情不错。
+The minutes are clear and detailed. | 会议纪要清晰且详细。
+The new policy is quite confusing. | 新政策让人有些困惑。
+The client is satisfied with our plan. | 客户对我们的计划很满意。
+The coffee is ready in the lounge. | 休息区的咖啡准备好了。
+The document is easy to understand. | 这份文件容易理解。
+The participants are from different teams. | 与会者来自不同的团队。
+The purpose is to solve the issue quickly. | 目的是快速解决问题。
+The screen is too small for everyone to see. | 屏幕太小，大家看不清。
+The organizer is not in the office today. | 组织者今天不在办公室。
+The printer is out of paper. | 打印机没纸了。
+Everyone listened carefully. | 每个人都认真听了。
+People arrived on time. | 人们准时到达了。
+He spoke very clearly. | 他讲得非常清楚。
+They discussed the plan for an hour. | 他们讨论了一个小时的计划。
+The meeting started at 10 a.m. | 会议上午十点开始了。
+She agreed immediately. | 她立刻同意了。
+He left before the meeting ended. | 他在会议结束前离开了。
+We waited for the manager. | 我们等了经理。
+They prepared everything yesterday. | 他们昨天准备好了所有事情。
+The team worked all night. | 团队通宵工作。
+The discussion continued until lunch. | 讨论一直持续到午饭时间。
+People laughed at his joke. | 大家笑了他的玩笑。
+The guests arrived early. | 客人们早早到达了。
+He hesitated before answering. | 他在回答前犹豫了一下。
+Everyone agreed quickly. | 每个人都迅速同意了。
+They responded politely. | 他们礼貌地回应了。
+He apologized for the delay. | 他为延迟道歉。
+She presented confidently. | 她自信地展示了内容。
+They listened silently. | 他们默默地听着。
+The discussion ended late. | 讨论结束得很晚。
+We scheduled the meeting for Friday. | 我们把会议安排在周五。
+He booked the conference room. | 他预订了会议室。
+They confirmed the invitation. | 他们确认了邀请。
+I printed the agenda. | 我打印了议程。
+She sent the calendar invite. | 她发出了日历邀请。
+We discussed the problems. | 我们讨论了这些问题。
+The manager approved the budget. | 经理批准了预算。
+I reviewed the report. | 我审阅了报告。
+They canceled the meeting. | 他们取消了会议。
+He explained the plan clearly. | 他清楚地解释了这个计划。
+She organized the materials. | 她整理了资料。
+We followed the new policy. | 我们遵循了新政策。
+They evaluated the options. | 他们评估了选项。
+I joined the meeting late. | 我晚些时候加入了会议。
+He adjusted the schedule. | 他调整了时间表。
+They shared the feedback. | 他们分享了反馈意见。
+We completed the agenda. | 我们完成了议程安排。
+She closed the meeting. | 她结束了会议。
+He checked the projector. | 他检查了投影仪。
+They translated the document. | 他们翻译了这份文件。
+I gave him the meeting notes. | 我把会议记录给了他。
+She sent me the invitation link. | 她把邀请链接发给了我。
+We offered the client a new time. | 我们给客户提供了一个新的时间。
+They told us the meeting details. | 他们告诉我们会议的详细内容。
+He showed me the presentation file. | 他给我看了演示文稿。
+I emailed her the final version. | 我把最终版本发邮件给她了。
+She handed me the printed agenda. | 她把打印好的议程递给了我。
+They gave the manager their report. | 他们把报告交给经理。
+He passed us the feedback. | 他把反馈意见交给了我们。
+We brought him a copy of the document. | 我们给他带了一份文件副本。
+She asked us the same question. | 她问了我们同一个问题。
+I read him the instructions. | 我把说明读给他听。
+They offered us some suggestions. | 他们给我们提出了一些建议。
+He promised me another meeting. | 他答应再安排一次会议。
+We showed them the new schedule. | 我们给他们看了新时间表。
+She sent us the revised plan. | 她把修改后的计划发给了我们。
+I gave her the project timeline. | 我把项目时间表交给了她。
+They explained us the next steps. | 他们向我们说明了接下来的步骤。
+He brought me a list of attendees. | 他带来了一份参会者名单给我。
+She told me the meeting was canceled. | 她告诉我会议被取消了。
+We called him the team leader. | 我们称他为团队负责人。
+They made her the chairperson. | 他们让她担任主席。
+He found the schedule confusing. | 他觉得时间表很混乱。
+She considered the report helpful. | 她认为这份报告很有帮助。
+We named him the organizer. | 我们任命他为组织者。
+They elected her the new manager. | 他们选她为新经理。
+He kept the meeting short. | 他让会议保持简短。
+She made the document clearer. | 她让文件更清晰了。
+We thought the topic important. | 我们认为这个议题很重要。
+They painted the situation urgent. | 他们认为情况紧急。
+He called the change unnecessary. | 他称这个变动不必要。
+She found the discussion useful. | 她觉得这次讨论很有用。
+They declared the results final. | 他们宣布结果为最终结果。
+We left the room clean. | 我们把房间打扫干净了。
+He proved the plan effective. | 他证明这个计划是有效的。
+She considered the option better. | 她认为这个选项更好。
+We called the decision wise. | 我们认为这个决定是明智的。
+They made the instructions simple. | 他们让指令变得简单。
+He judged the solution reasonable. | 他认为这个解决方案合理。
+We painted the picture clear. | 我们让情况一目了然。
+The meeting is scheduled for next Monday. | 会议定在下周一。
+Everyone seems ready for the presentation. | 每个人似乎都准备好进行汇报了。
+The agenda was quite clear. | 议程非常清晰。
+The room looks spacious enough. | 房间看起来足够宽敞。
+Our manager is always punctual. | 我们经理总是很准时。
+The projector is working well. | 投影仪运作正常。
+Your plan sounds practical. | 你的计划听起来很实际。
+The idea was acceptable to the team. | 这个想法对团队来说可以接受。
+The proposal seems interesting. | 这个提议似乎很有趣。
+This solution is not feasible. | 这个方案不可行。
+Their response was unexpected. | 他们的回应出人意料。
+My colleague is in charge today. | 我的同事今天负责。
+The schedule was tight but manageable. | 日程安排紧凑但可控。
+The discussion became intense. | 讨论变得激烈。
+The deadline is next Friday. | 截止日期是下周五。
+This room feels more comfortable. | 这个房间感觉更舒适。
+The notes were very detailed. | 会议记录非常详细。
+Our manager was very encouraging. | 我们经理非常鼓励人。
+The solution sounds reasonable. | 这个解决方案听起来合理。
+Her idea is worth considering. | 她的想法值得考虑。
+Everyone arrived on time. | 每个人都准时到了。
+The meeting started at 10 a.m. | 会议上午十点开始。
+She spoke clearly during the meeting. | 她在会议中讲得很清楚。
+We agreed quickly. | 我们很快达成了一致。
+The manager spoke first. | 经理首先发言。
+People nodded during the discussion. | 讨论期间人们点头认可。
+They waited outside the room. | 他们在会议室外等候。
+We talked about the project status. | 我们讨论了项目进展。
+I listened carefully. | 我认真听了。
+The client called in the middle. | 客户中途打来了电话。
+We gathered in the meeting room. | 我们聚集在会议室。
+The meeting ended earlier than expected. | 会议比预期提前结束。
+He hesitated before answering. | 他回答前犹豫了一下。
+The team brainstormed for ideas. | 团队集思广益。
+They laughed at the joke. | 他们笑了那个笑话。
+I responded quickly. | 我反应很快。
+We left after the summary. | 总结后我们离开了。
+She volunteered to take notes. | 她自愿做记录。
+They spoke one after another. | 他们依次发言。
+He paused to check the figures. | 他停下来核对数据。
+We discussed the budget details. | 我们讨论了预算细节。
+She presented the sales report. | 她展示了销售报告。
+They reviewed the last quarter results. | 他们审阅了上一季度的结果。
+The assistant booked the conference room. | 助理预订了会议室。
+The team confirmed the meeting time. | 团队确认了会议时间。
+He introduced the new policy. | 他介绍了新政策。
+We followed the agenda strictly. | 我们严格按照议程进行。
+She mentioned a potential delay. | 她提到可能的延迟。
+I received the meeting invite. | 我收到了会议邀请。
+They rejected the first proposal. | 他们否决了第一个提议。
+We postponed the meeting. | 我们推迟了会议。
+He summarized the main points. | 他总结了重点。
+She shared the document via email. | 她通过邮件分享了文件。
+I noticed a mistake in the chart. | 我注意到图表中的一个错误。
+They welcomed the new colleague. | 他们欢迎了新同事。
+We approved the project plan. | 我们批准了项目计划。
+He closed the meeting formally. | 他正式结束了会议。
+I missed one important update. | 我错过了一个重要更新。
+She arranged the next meeting. | 她安排了下一次会议。
+They finalized the action items. | 他们敲定了行动项。
+She gave us the project files. | 她把项目文件给了我们。
+The manager offered me his advice. | 经理给了我建议。
+We showed them our proposal. | 我们向他们展示了提案。
+He handed her the printed agenda. | 他把打印的议程交给了她。
+They sent us a reminder email. | 他们发了一封提醒邮件给我们。
+She brought us the updated version. | 她带来了更新版本给我们。
+He told us his opinion. | 他告诉了我们他的看法。
+We asked him a few questions. | 我们问了他几个问题。
+They offered the client a discount. | 他们向客户提供了折扣。
+The assistant gave the manager the folder. | 助理把文件夹给了经理。
+She read us the summary. | 她给我们读了总结。
+I sent her the final report. | 我把最终报告发给了她。
+We lent them our projector. | 我们把投影仪借给了他们。
+He emailed her the presentation slides. | 他把演示文稿邮件发给了她。
+They offered us a new solution. | 他们为我们提供了新方案。
+The boss gave the team more time. | 老板给了团队更多时间。
+She showed me the mistake. | 她指出了我的错误。
+We provided them the feedback. | 我们给了他们反馈。
+I handed her the attendance sheet. | 我递给她出席表。
+They sent the director the notes. | 他们把笔记发给了主管。
+We elected him the meeting chair. | 我们选他做会议主持人。
+She considered the idea useful. | 她认为这个想法有用。
+They found the discussion productive. | 他们觉得讨论很有成效。
+The team made him their spokesperson. | 团队选他做发言人。
+I called the delay unfortunate. | 我认为这次延迟很遗憾。
+We painted the situation urgent. | 我们将情况描述为紧急。
+He kept the topic relevant. | 他保持话题的相关性。
+They named her the project leader. | 他们任命她为项目负责人。
+I found his answer confusing. | 我觉得他的回答让人困惑。
+We made the meeting brief. | 我们把会议安排得简短。
+She called the proposal promising. | 她认为提案很有前景。
+They considered the report accurate. | 他们认为报告准确。
+He found the summary too vague. | 他觉得总结太含糊。
+I judged the suggestion unnecessary. | 我认为这个建议没必要。
+We thought the outcome fair. | 我们认为结果公平。
+She left the document unfinished. | 她留下了未完成的文件。
+They made the timeline flexible. | 他们让时间表更灵活。
+We called the conclusion reasonable. | 我们认为结论合理。
+I found the location inconvenient. | 我觉得这个地点不方便。
+He thought the schedule perfect. | 他认为时间安排很完美。

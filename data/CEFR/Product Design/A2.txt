@@ -1,0 +1,100 @@
+The new plan is very clear. | 这个新计划非常清晰。
+The idea is not bad. | 这个想法不错。
+The product is quite popular. | 这个产品很受欢迎。
+The result is a bit strange. | 结果有点奇怪。
+The design is too simple. | 这个设计太简单了。
+The sketch is not perfect. | 这张草图不完美。
+This photo is really nice. | 这张照片真的很好看。
+My model is almost ready. | 我的模型快准备好了。
+The idea is still useful. | 这个想法仍然有用。
+Your drawing is very creative. | 你的画很有创意。
+The plan is not final yet. | 计划还不是最终版。
+This tool is very easy to use. | 这个工具很容易用。
+The shape is too big. | 形状太大了。
+The system is already old. | 这个系统已经老旧了。
+The button is too small. | 按钮太小了。
+The result is not very good. | 结果不是很好。
+The design is more modern. | 这个设计更现代。
+That photo is really bright. | 那张照片真的很亮。
+The idea is very smart. | 这个想法很聪明。
+This app is already installed. | 这个应用已经安装好了。
+She works on this every day. | 她每天都做这个。
+He always checks the design. | 他总是检查设计。
+They meet once a week. | 他们每周见一次。
+I often draw in the evening. | 我经常在晚上画图。
+We wait for the result. | 我们等结果。
+The app loads very fast. | 应用加载得很快。
+The tool works without problems. | 这个工具运行正常。
+You speak too quickly. | 你说得太快了。
+He sometimes forgets the steps. | 他有时会忘记步骤。
+The system runs all night. | 系统整晚都在运行。
+I swim every Sunday. | 我每个星期天游泳。
+She paints in the morning. | 她在早上画画。
+We walk to the office. | 我们步行去办公室。
+The screen changes often. | 屏幕经常变化。
+The idea grows slowly. | 这个想法慢慢发展。
+He eats before work. | 他上班前吃饭。
+The test starts soon. | 测试很快开始。
+She travels a lot. | 她经常旅行。
+We arrive early. | 我们早到。
+They come every Friday. | 他们每个星期五来。
+I like this sketch. | 我喜欢这张草图。
+He fixes the problem. | 他修复了这个问题。
+She uses the new tool. | 她使用了新工具。
+They start the meeting. | 他们开始会议。
+We finish the plan. | 我们完成了计划。
+You send the photo. | 你发送了这张照片。
+The teacher shows a model. | 老师展示了一个模型。
+The student draws a car. | 学生画了一辆车。
+He buys a new phone. | 他买了一个新手机。
+I open the file. | 我打开了文件。
+She reads the report. | 她读了报告。
+We check the answer. | 我们检查了答案。
+You print the list. | 你打印了列表。
+They make a video. | 他们制作了一个视频。
+He closes the window. | 他关上了窗户。
+I carry the box. | 我搬了盒子。
+She sends a message. | 她发送了一条消息。
+The team tests the new idea. | 团队测试了这个新想法。
+We share the file. | 我们分享了这个文件。
+You draw the plan. | 你画了这个计划。
+He gives her the file. | 他把文件给了她。
+She shows me the photo. | 她给我看了照片。
+I send you a picture. | 我发给你一张图。
+We offer them help. | 我们提供帮助给他们。
+They give me a chance. | 他们给了我一个机会。
+You write her a note. | 你给她写了一张便条。
+He tells us the answer. | 他告诉了我们答案。
+She brings him a tool. | 她带给他一个工具。
+I show you the app. | 我给你看这个应用。
+They send us a report. | 他们发给我们一份报告。
+We give them a sketch. | 我们给了他们一张草图。
+She writes me a message. | 她写给我一条信息。
+He shows her a picture. | 他给她看了一张图片。
+You send him a copy. | 你发给他一份副本。
+They bring us a gift. | 他们带来了一份礼物给我们。
+We tell him the idea. | 我们告诉他这个想法。
+I offer her a solution. | 我向她提供了一个解决方案。
+She gives me the code. | 她把代码给我了。
+You show them the result. | 你给他们看了结果。
+He sends us the link. | 他把链接发给我们了。
+We call the tool helpful. | 我们认为这个工具很有帮助。
+She makes the list longer. | 她让列表变得更长。
+He keeps the page simple. | 他让页面保持简洁。
+They name it EasyApp. | 他们把它命名为 EasyApp。
+I find the idea boring. | 我觉得这个想法很无聊。
+You make the design better. | 你让设计变得更好了。
+She calls the model smart. | 她说这个模型很聪明。
+We keep the answer short. | 我们让答案简短。
+He finds the photo clear. | 他觉得这张照片很清晰。
+They leave the field empty. | 他们让这个栏位保持空白。
+I make the name longer. | 我让名字变得更长。
+She calls the box heavy. | 她说这个盒子很重。
+You find the test easy. | 你觉得测试很简单。
+We name the plan FastStart. | 我们把计划命名为 FastStart。
+He keeps the model simple. | 他让模型保持简单。
+She finds the tool slow. | 她觉得工具很慢。
+They make the result clear. | 他们让结果变得清楚。
+I leave the photo dark. | 我让照片保持暗色。
+You call the layout new. | 你说这个布局是新的。
+We keep the file open. | 我们让文件保持打开。

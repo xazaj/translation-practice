@@ -1,0 +1,100 @@
+The approval workflow is highly customizable. | 审批流程高度可定制。
+The interface design is both intuitive and modern. | 界面设计既直观又现代。
+The document verification result is final. | 文件验证结果为最终结果。
+The system status is currently inactive. | 系统状态目前为未激活。
+The application outcome is subject to compliance checks. | 申请结果取决于合规检查。
+The revised policy is more aligned with user expectations. | 修订后的政策更符合用户期望。
+The environment is secure and continuously monitored. | 环境安全且持续监控中。
+The customer information is highly confidential. | 客户信息高度保密。
+The training schedule is available on the dashboard. | 培训日程可在仪表板查看。
+The error message is too vague for troubleshooting. | 错误信息太模糊，不利于排查。
+The income verification result is quite reliable. | 收入验证结果相当可靠。
+The scoring logic is transparent and traceable. | 评分逻辑透明且可追溯。
+The status indicator is red due to a timeout. | 状态指示灯因超时而变为红色。
+The final report is pending approval. | 最终报告待审批。
+The system language is configurable. | 系统语言是可配置的。
+The rule engine is now fully parameterized. | 规则引擎现已完全参数化。
+The solution is both scalable and flexible. | 该方案既可扩展又灵活。
+The support team is well-equipped and responsive. | 支持团队装备齐全、响应迅速。
+The interface layout is consistent across modules. | 界面布局在各模块之间保持一致。
+The data source is no longer valid. | 数据源已不再有效。
+The system rebooted after a critical update. | 系统在关键更新后重启了。
+The application failed during rule validation. | 申请在规则校验阶段失败了。
+The notification appeared in the alert tab. | 通知出现在提醒标签中。
+The form submitted without triggering a warning. | 表单提交时未触发警告。
+The user logged out after uploading documents. | 用户在上传文件后退出了登录。
+The process resumed automatically. | 流程自动恢复了。
+The status changed overnight. | 状态在夜间发生了变化。
+The workflow terminated unexpectedly. | 工作流意外终止了。
+The module disconnected due to a timeout. | 模块因超时而断开连接。
+The record vanished from the search result. | 记录从搜索结果中消失了。
+The reviewer paused before finalizing the memo. | 评审在最终确认备忘录前暂停了。
+The rule triggered during the simulation test. | 该规则在模拟测试中被触发。
+The documents arrived separately. | 文件是分开发送的。
+The logs updated every 10 seconds. | 日志每10秒更新一次。
+The report exported successfully. | 报告成功导出。
+The server restarted at midnight. | 服务器在午夜重新启动了。
+The screen froze during data entry. | 在录入数据时屏幕卡住了。
+The schedule changed without notice. | 日程更改了但没有通知。
+The alert sounded twice. | 警报响了两次。
+The process completed ahead of schedule. | 流程提前完成了。
+The officer reviewed the financial statement. | 工作人员审查了财务报表。
+The system captured biometric data. | 系统采集了生物识别数据。
+The module returned an error code. | 模块返回了一个错误代码。
+The applicant uploaded supporting documents. | 申请人上传了支持性文件。
+The vendor provided the parameter file. | 供应商提供了参数文件。
+The team analyzed the market feedback. | 团队分析了市场反馈。
+The bank launched a pilot campaign. | 银行启动了试点活动。
+The reviewer approved the new workflow. | 审核员批准了新工作流。
+The analyst generated a compliance report. | 分析员生成了一份合规报告。
+The update fixed several minor issues. | 更新修复了几个小问题。
+The automation reduced processing time. | 自动化减少了处理时间。
+The function checked the input format. | 该功能检查了输入格式。
+The interface displayed the wrong value. | 接口显示了错误的值。
+The consultant evaluated the solution design. | 顾问评估了解决方案设计。
+The processor logged the request. | 处理器记录了该请求。
+The reviewer flagged the exception. | 审核员标记了该异常。
+The system tracked user behavior. | 系统跟踪了用户行为。
+The report highlighted three inconsistencies. | 报告指出了三处不一致。
+The update introduced new risks. | 更新带来了新的风险。
+The logic bypassed the default rules. | 逻辑绕过了默认规则。
+The reviewer gave the applicant a conditional approval. | 审核员给予申请人有条件批准。
+The team offered the client a bundled package. | 团队向客户提供了一个组合方案。
+The interface showed the user an error prompt. | 接口向用户显示了一个错误提示。
+The engine sent the officer a rejection note. | 引擎向工作人员发送了拒绝通知。
+The platform assigned the reviewer a complex case. | 平台分配给审核员一个复杂的案件。
+The module granted the user a temporary access. | 模块授予用户临时访问权限。
+The officer shared the team a revised guideline. | 工作人员与团队分享了一份修订指南。
+The process allowed the vendor a second submission. | 流程允许供应商进行第二次提交。
+The system sent the analyst a data extract. | 系统向分析员发送了一份数据提取。
+The vendor offered the bank a discount proposal. | 供应商向银行提供了折扣方案。
+The platform emailed the client a confirmation. | 平台给客户发送了一封确认邮件。
+The reviewer returned the team an incomplete memo. | 审核员退还给团队一份不完整的备忘录。
+The engine forwarded the support team a critical alert. | 引擎转发给支持团队一个关键警报。
+The rule assigned the reviewer a deviation code. | 该规则给审核员分配了一个偏差码。
+The officer handed the dealer a rejection letter. | 工作人员把一封拒绝信交给了经销商。
+The memo gave the manager a comprehensive overview. | 备忘录为经理提供了全面概览。
+The logic provided the auditor a summary of changes. | 逻辑为审计员提供了变更摘要。
+The form offered the applicant a list of checkboxes. | 表单向申请人提供了一组复选框。
+The interface sent the bank a timeout response. | 接口向银行发送了一个超时响应。
+The screen displayed the user a warning message. | 屏幕向用户显示了一条警告信息。
+The update made the workflow more streamlined. | 更新使工作流更流畅。
+The analysis declared the input invalid. | 分析结果宣布输入无效。
+The rule engine considered the applicant eligible. | 规则引擎认为申请人符合条件。
+The officer marked the transaction suspicious. | 工作人员将该交易标记为可疑。
+The reviewer found the evidence insufficient. | 审核员认为证据不足。
+The validation rendered the application successful. | 验证使申请变得成功。
+The team kept the record confidential. | 团队将记录保密。
+The interface left the fields editable. | 接口让字段保持可编辑状态。
+The logic labeled the user high-risk. | 逻辑将用户标记为高风险。
+The result showed the system compliant. | 结果显示系统符合规定。
+The assessment made the module obsolete. | 评估使该模块变得过时。
+The memo called the case critical. | 备忘录称此案为关键案件。
+The algorithm tagged the account inactive. | 算法将账户标记为非活跃。
+The check considered the submission complete. | 检查认为提交是完整的。
+The reviewer found the template outdated. | 审核员发现模板已过时。
+The calculation deemed the loan amount excessive. | 计算认为贷款金额过高。
+The design kept the dashboard clean. | 设计让仪表板保持简洁。
+The result proved the function effective. | 结果证明该功能有效。
+The officer regarded the document irrelevant. | 工作人员认为该文件无关。
+The system flagged the entry erroneous. | 系统将该条目标记为错误。
