@@ -1,0 +1,113 @@
+There is a book on the table. | 桌子上有一本书。
+It is difficult to learn English well. | 学好英语很难。
+I used to live in Beijing. | 我以前住在北京。
+I am going to visit my friend tomorrow. | 我打算明天去看望朋友。
+She has already finished her homework. | 她已经做完作业了。
+It takes me 30 minutes to get to work. | 我上班要花30分钟。
+This cake was made by my sister. | 这个蛋糕是我妹妹做的。
+I want you to close the window. | 我希望你把窗户关上。
+Why are you so tired today? | 你今天为什么这么累？
+The more you read, the more you learn. | 你读得越多，学得越多。
+They found it hard to believe. | 他们觉得很难相信。
+There seems to be a problem with the printer. | 打印机好像出了点问题。
+You had better take an umbrella. | 你最好带把伞。
+I would rather stay at home tonight. | 我宁愿今晚待在家里。
+He was made to apologize. | 他被迫道歉了。
+I happened to meet her at the airport. | 我在机场碰巧遇到她。
+So do I. | 我也是。
+Neither did he. | 他也没有。
+As soon as I got home, it started to rain. | 我一到家就开始下雨了。
+She is old enough to go to school. | 她已经够大可以上学了。
+It is said that he speaks five languages. | 据说他会说五种语言。
+There is a pen on the desk. | 桌子上有一支笔。
+There are two apples on the table. | 桌子上有两个苹果。
+There was a dog in the garden. | 花园里有一只狗。
+There is some water in the glass. | 杯子里有一些水。
+It is easy to answer this question. | 回答这个问题很容易。
+It is hard to get up early. | 早起很难。
+It is important to be on time. | 准时很重要。
+It is good to drink water every day. | 每天喝水是好事。
+I used to play football after school. | 我以前放学后踢足球。
+She used to have long hair. | 她以前留长头发。
+We used to live near the river. | 我们以前住在河边。
+He didn’t use to eat vegetables. | 他以前不吃蔬菜。
+I am going to see a movie tonight. | 我今晚打算看电影。
+She is going to clean her room. | 她打算打扫房间。
+We are going to visit grandma tomorrow. | 我们明天要去看奶奶。
+Are you going to buy a new phone? | 你打算买新手机吗？
+I have finished my homework. | 我已经完成作业了。
+She has lost her keys. | 她把钥匙弄丢了。
+We have just eaten lunch. | 我们刚吃过午饭。
+They have never been to Beijing. | 他们从没去过北京。
+It takes me 20 minutes to walk to school. | 我步行去学校要20分钟。
+It took him an hour to finish the work. | 他花了一个小时完成工作。
+It doesn’t take long to read this book. | 读这本书不需要很久。
+How long does it take to go there? | 去那儿要多久？
+The door was opened by the teacher. | 门是老师打开的。
+The cake was made by my mom. | 蛋糕是我妈妈做的。
+The book was written by a famous writer. | 这本书是一位著名作家写的。
+The window was broken by a ball. | 窗户是一个球打破的。
+I want you to help me. | 我希望你帮我。
+He wants me to stay here. | 他希望我待在这儿。
+We want them to come early. | 我们希望他们早点来。
+Do you want her to join us? | 你希望她加入我们吗？
+Why are you sad? | 你为什么难过？
+What do you do on weekends? | 你周末做什么？
+How do you go to work? | 你怎么去上班？
+Where is my bag? | 我的包在哪里？
+The more I eat, the fatter I get. | 我吃得越多，就越胖。
+The more I read, the more I know. | 我读得越多，知道的就越多。
+The earlier we leave, the better. | 我们走得越早越好。
+The more you smile, the happier you feel. | 你笑得越多，就越开心。
+I think it is easy to use. | 我觉得这个用起来很简单。
+She finds it fun to dance. | 她觉得跳舞很好玩。
+They made it clear. | 他们把事情说清楚了。
+We think it is a good idea. | 我们觉得这是个好主意。
+There seems to be a cat under the bed. | 床下好像有一只猫。
+There seems to be a problem. | 好像有个问题。
+There happens to be a bus now. | 现在刚好有一辆公交。
+There doesn’t seem to be any food. | 好像没有食物了。
+You had better take a jacket. | 你最好带一件外套。
+He had better not be late. | 他最好别迟到。
+You’d better go now. | 你最好现在走。
+We’d better stop talking. | 我们最好别再说话了。
+I would rather stay at home. | 我宁愿呆在家里。
+She would rather walk. | 她宁愿走路。
+I’d rather not go today. | 我今天宁愿不去。
+Would you rather stay or go? | 你想留下还是走？
+He was made to wash the dishes. | 他被要求洗碗。
+She was made to say sorry. | 她被要求道歉。
+They were made to do homework. | 他们被要求做作业。
+I was made to wait outside. | 我被要求在外面等。
+I happened to see him. | 我碰巧看到他了。
+She happened to be there. | 她碰巧在那里。
+We happened to meet at the station. | 我们在车站碰巧遇见。
+They happened to call me. | 他们碰巧打电话给我了。
+So do I. | 我也是。
+So does he. | 他也是。
+Neither do I. | 我也不是。
+So did she. | 她也是。
+As soon as I got home, I ate dinner. | 我一到家就吃了晚饭。
+As soon as he saw me, he smiled. | 他一看到我就笑了。
+As soon as she opened the book, the phone rang. | 她一打开书，电话就响了。
+As soon as we finished, we left. | 我们一做完就走了。
+She is old enough to go to school. | 她足够大可以上学了。
+He is strong enough to lift it. | 他足够强壮可以搬它。
+They are tall enough to reach the shelf. | 他们够高可以够到架子。
+It is small enough to carry. | 它很小，可以拿着走。
+It is said that he is very rich. | 据说他很有钱。
+It is said that she sings well. | 据说她唱得很好。
+It is said that the shop is cheap. | 据说这家店很便宜。
+It is said that it will rain tomorrow. | 据说明天会下雨。
+She told me to be careful. | 她告诉我要小心。
+He asked me to sit down. | 他叫我坐下。
+They want us to go with them. | 他们希望我们和他们一起去。
+My mom told me to eat more vegetables. | 妈妈让我多吃蔬菜。
+What made you so happy? | 是什么让你那么开心？
+How do you learn English? | 你怎么学英语？
+Why did he cry? | 他为什么哭？
+When did you come home? | 你什么时候回家的？
+The more I try, the better I get. | 我越努力，越进步。
+The more you walk, the healthier you are. | 你走得越多，就越健康。
+The more I speak, the more confident I feel. | 我说得越多，就越自信。
+The more we talk, the better we understand. | 我们聊得越多，就越了解。

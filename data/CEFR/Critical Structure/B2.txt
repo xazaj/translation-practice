@@ -1,0 +1,92 @@
+There is a key under the sofa. | 沙发下面有一把钥匙。
+There are many tourists in the park today. | 今天公园里有很多游客。
+There was a strange sound last night. | 昨晚有个奇怪的声音。
+There seems to be a mistake in this report. | 这份报告中似乎有个错误。
+It is hard to stay calm in that situation. | 在那种情况下保持冷静是很难的。
+It is important to get enough sleep. | 保证充足的睡眠很重要。
+It is not easy to work and study at the same time. | 一边工作一边学习并不容易。
+It is unnecessary to bring your own laptop. | 没必要带你自己的笔记本电脑。
+I used to play the piano every day. | 我以前每天都弹钢琴。
+He used to drink a lot of coffee. | 他过去喝很多咖啡。
+They used to live in a small village. | 他们以前住在一个小村庄。
+She didn’t use to like spicy food. | 她以前不喜欢辣的食物。
+I’m going to take the bus instead of driving. | 我打算坐公交车而不是开车。
+We are going to have a meeting tomorrow. | 我们明天要开会。
+Are you going to tell her the truth? | 你打算告诉她实情吗？
+He is going to visit his parents this weekend. | 他这周末要去看望父母。
+I have seen that movie twice. | 我已经看过那部电影两次了。
+She has never been to Japan. | 她从没去过日本。
+We have known each other for ten years. | 我们已经认识十年了。
+They have already left the office. | 他们已经离开办公室了。
+It takes me an hour to get home from work. | 我下班回家要花一个小时。
+It took her three days to finish the painting. | 她用了三天完成这幅画。
+It doesn't take long to cook this dish. | 做这道菜不需要太久。
+How long does it take to get to the airport? | 到机场需要多久？
+This letter was written by my grandfather. | 这封信是我祖父写的。
+The cake was made by a famous baker. | 这个蛋糕是由一个有名的面包师做的。
+The house was built in 1920. | 这所房子建于1920年。
+The window was broken by the wind. | 窗户被风吹破了。
+I want you to arrive on time. | 我希望你准时到达。
+She wants her children to be polite. | 她希望她的孩子有礼貌。
+Do you want me to help you? | 你希望我帮你吗？
+We want them to stop making noise. | 我们希望他们不要再制造噪音了。
+Why did you leave so early? | 你为什么这么早离开？
+What do you usually do on weekends? | 你周末通常做什么？
+How can I improve my English? | 我怎样才能提高英语？
+Where did you buy this dress? | 你在哪里买的这条裙子？
+The harder you work, the luckier you get. | 你越努力，你就越幸运。
+The more he talks, the less people believe him. | 他越说，别人越不相信他。
+The sooner you start, the better. | 你越早开始越好。
+The more you practice, the more confident you become. | 你练习得越多，就越自信。
+She found it difficult to stay focused. | 她发现很难集中注意力。
+I think it’s important to be honest. | 我认为诚实很重要。
+They considered it a waste of time. | 他们认为那是浪费时间。
+We believe it is necessary to change the plan. | 我们认为有必要改变计划。
+There seems to be a misunderstanding. | 好像有些误会。
+There appears to be a problem with the system. | 系统好像出了问题。
+There happens to be a bus at 8 a.m. | 早上八点刚好有一辆公交。
+There doesn’t seem to be any food left. | 好像没剩下什么食物了。
+You had better finish your work before noon. | 你最好在中午前完成工作。
+He had better not be late again. | 他最好不要再迟到了。
+You’d better call her right now. | 你最好现在就打电话给她。
+We’d better stay inside if it rains. | 如果下雨我们最好待在屋里。
+I would rather stay home than go out. | 我宁愿待在家里也不愿外出。
+She would rather walk than take the subway. | 她宁愿走路也不坐地铁。
+I’d rather not talk about it. | 我宁愿不谈这件事。
+Would you rather eat out or cook at home? | 你更愿意外出吃还是在家做饭？
+He was made to apologize in front of everyone. | 他被迫在所有人面前道歉。
+She was made to clean the room. | 她被迫打扫房间。
+They were made to rewrite the report. | 他们被要求重写报告。
+I was made to wait outside. | 我被要求在外面等。
+I happened to meet my teacher in the bookstore. | 我在书店碰巧遇到了我的老师。
+He happened to be there at the right time. | 他恰好在合适的时间在那里。
+They happened to know each other. | 他们碰巧认识。
+We happened to take the same train. | 我们碰巧坐了同一班列车。
+So do I. | 我也是。
+So does she. | 她也是。
+Neither do I. | 我也不是。
+So did they. | 他们也是。
+As soon as I got off the bus, it started to rain. | 我一下公交就开始下雨了。
+As soon as she saw the email, she replied. | 她一看到邮件就回复了。
+As soon as he arrived, the meeting began. | 他一到，会议就开始了。
+As soon as we entered the room, the lights turned on. | 我们一进房间，灯就亮了。
+She is smart enough to solve the problem. | 她足够聪明，能解决这个问题。
+He is tall enough to reach the shelf. | 他足够高，能到架子上。
+They are strong enough to carry it. | 他们足够强壮，能搬得动。
+The book is interesting enough to read again. | 这本书足够有趣，值得再读一次。
+It is said that the company will launch a new product. | 据说这家公司将推出新产品。
+It is said that he is very rich. | 据说他很有钱。
+It is said that she studied abroad. | 据说她曾出国留学。
+It is said that the movie is based on a true story. | 据说这部电影是真实故事改编的。
+He told me to be patient. | 他告诉我要有耐心。
+I asked her to help me move. | 我请她帮我搬家。
+They warned us not to go there. | 他们警告我们不要去那里。
+My mother reminded me to take my umbrella. | 妈妈提醒我要带伞。
+What made you change your mind? | 是什么让你改变了主意？
+How can we solve this issue? | 我们怎样才能解决这个问题？
+Why did she ignore your message? | 她为什么没回你消息？
+When will they finish the construction? | 他们什么时候完成施工？
+The more you think about it, the more confused you get. | 你越想越糊涂。
+The more he eats, the fatter he gets. | 他越吃越胖。
+The more we talk, the more we understand each other. | 我们越聊越了解彼此。
+The more questions you ask, the better your understanding. | 你问的问题越多，你的理解就越好。

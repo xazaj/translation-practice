@@ -1,0 +1,92 @@
+There appears to be a conflict between their statements. | 他们的陈述之间似乎存在冲突。
+There has been a rise in online fraud cases recently. | 最近网络诈骗案件有所增加。
+There remains a significant gap between theory and practice. | 理论与实践之间仍存在显著差距。
+There used to be a factory here, but it was torn down. | 这儿原来有一家工厂，但已经被拆除了。
+It is essential to address this issue before it escalates. | 在问题升级前及时处理是至关重要的。
+It is widely believed that sleep affects cognitive performance. | 普遍认为睡眠会影响认知能力。
+It is no longer acceptable to ignore environmental concerns. | 忽视环境问题已不再被接受。
+It may be beneficial to consult an expert before proceeding. | 在推进之前咨询专家可能会有益处。
+I used to struggle with public speaking, but now I enjoy it. | 我以前很害怕公开演讲，现在却喜欢它。
+He used to commute three hours a day. | 他过去每天通勤三个小时。
+They used to own a chain of restaurants. | 他们曾经拥有一家连锁餐厅。
+I didn’t use to care about these details, but now I do. | 我以前不在意这些细节，但现在在意了。
+I’m going to dedicate this weekend to finalizing the report. | 我打算这个周末专心完成报告。
+She is going to relocate to Berlin next month. | 她下个月将搬去柏林。
+Are you going to renew the contract or let it expire? | 你打算续约还是让它作废？
+They are going to launch the new platform next quarter. | 他们将在下个季度推出新平台。
+I have been involved in several cross-functional projects. | 我参与过多个跨部门项目。
+She has lived abroad for over a decade. | 她在国外生活了十多年。
+We have just completed the annual performance review. | 我们刚刚完成年度绩效评估。
+Have you ever experienced such a complex negotiation? | 你经历过如此复杂的谈判吗？
+It took us several iterations to refine the proposal. | 我们反复修改多次才完善了这个提案。
+It will take considerable effort to reverse the damage. | 修复这项损害将需要相当大的努力。
+It doesn’t take long to identify the core issue here. | 找出核心问题并不需要很长时间。
+How long will it take to get management approval? | 获得管理层批准需要多久？
+The project was completed ahead of schedule by the team. | 该项目由团队提前完成。
+The document was reviewed and signed off yesterday. | 这份文件昨天已经审核并签署。
+The data has been compiled by the analytics department. | 数据由分析部门整理汇总。
+The error was caused by a misconfiguration. | 错误是由于配置错误导致的。
+I want you to double-check every detail before submission. | 我希望你在提交前再次核对每一个细节。
+The manager wants the team to be more proactive. | 经理希望团队更具主动性。
+Do you want me to notify the client directly? | 你希望我直接通知客户吗？
+We want the system to run more efficiently. | 我们希望系统运行得更高效。
+Why did they reject such a reasonable proposal? | 他们为什么拒绝了这样合理的提议？
+What prevented you from joining the meeting? | 是什么让你没能参加会议？
+How should we interpret these conflicting results? | 我们该如何解读这些相互矛盾的结果？
+When will the final version be made available? | 最终版本什么时候可以发布？
+The more we automate the process, the fewer errors occur. | 流程越自动化，错误越少。
+The more deeply you understand the system, the easier it is to use. | 你对系统理解越深入，使用起来就越容易。
+The longer we delay, the more complicated the issue becomes. | 拖延得越久，问题就变得越复杂。
+The more transparent the process, the greater the trust. | 流程越透明，信任就越大。
+They found it surprisingly difficult to reach a consensus. | 他们发现达成共识出奇地困难。
+I consider it necessary to consult legal counsel. | 我认为有必要咨询法律顾问。
+We made it clear that the terms were non-negotiable. | 我们明确表示这些条款不可协商。
+She deemed it inappropriate to comment at that time. | 她认为当时不适合发表评论。
+There seems to be a discrepancy in the financial report. | 财务报表中似乎存在差异。
+There appears to be a lack of coordination among departments. | 各部门之间似乎缺乏协调。
+There happens to be a better solution we haven't considered. | 恰好有一个我们尚未考虑的更好方案。
+There doesn’t appear to be any viable alternative. | 似乎没有任何可行的替代方案。
+You had better clarify the objective before proceeding. | 你最好在推进前明确目标。
+He had better not underestimate the complexity of this issue. | 他最好不要低估这个问题的复杂性。
+You’d better verify all the figures. | 你最好核实所有数据。
+We’d better revisit this decision in the next meeting. | 我们最好在下次会议中重新讨论这个决定。
+I would rather wait for confirmation than rush into action. | 我宁愿等确认也不愿仓促行动。
+She would rather take the risk than miss the opportunity. | 她宁愿冒险也不愿错过机会。
+I’d rather not get involved in internal politics. | 我宁愿不参与内部政治。
+Would you rather negotiate now or wait for their offer? | 你愿意现在谈判还是等他们的报价？
+The employees were made to sign a new compliance policy. | 员工被要求签署新的合规政策。
+The interns were made to follow a strict protocol. | 实习生被要求遵循严格的流程。
+He was made to apologize in writing. | 他被要求书面道歉。
+She was made to explain the delay. | 她被要求解释延误的原因。
+I happened to overhear their conversation. | 我碰巧听到了他们的对话。
+They happened to be looking for the same position. | 他们碰巧在找同一个职位。
+We happened to attend the same conference last year. | 我们去年碰巧参加了同一个会议。
+He happened to mention your name. | 他碰巧提到了你的名字。
+So did we. | 我们也是。
+So will she. | 她也会。
+Neither have I. | 我也没有。
+Neither can they. | 他们也不能。
+As soon as the audit was completed, the report was published. | 审计一完成，报告就被发布了。
+As soon as he realized the mistake, he corrected it. | 他一发现错误就纠正了。
+As soon as the results come out, we’ll inform the team. | 结果一出来，我们就通知团队。
+As soon as she returns, we’ll finalize the plan. | 她一回来，我们就敲定计划。
+She is experienced enough to lead the whole project. | 她经验丰富，足以领导整个项目。
+He is confident enough to speak without notes. | 他有足够的自信无需讲稿发言。
+The idea was bold enough to disrupt the entire industry. | 这个想法足够大胆，足以颠覆整个行业。
+You’re not prepared enough to take on this responsibility. | 你还没有足够准备来承担这个责任。
+It is said that the CEO will step down next year. | 据说CEO明年将卸任。
+It is said that a merger is being negotiated. | 据说一项并购正在谈判中。
+It is said that the company is undergoing a major restructure. | 据说公司正在进行重大重组。
+It is said that the changes will impact all departments. | 据说这些变动将影响所有部门。
+He told them to stay until the issue was resolved. | 他让他们在问题解决之前留下来。
+I advised her to consult someone more experienced. | 我建议她咨询更有经验的人。
+They instructed us to follow the updated guidelines. | 他们指示我们遵循更新后的指引。
+My manager encouraged me to apply for the promotion. | 我的经理鼓励我申请升职。
+What led them to make such a drastic change? | 是什么促使他们做出如此大的改变？
+How can we ensure long-term sustainability? | 我们如何确保长期的可持续性？
+Why hasn’t anyone raised this concern earlier? | 为什么之前没人提出这个问题？
+When exactly are we expected to deliver the final version? | 我们到底什么时候需要提交最终版本？
+The more precisely we define the goal, the better the outcome. | 目标定义得越清晰，结果就越好。
+The more options we consider, the more robust the solution. | 我们考虑的选项越多，方案就越稳妥。
+The more stakeholders you involve, the more complex it becomes. | 涉及的利益相关者越多，事情就越复杂。
+The more flexible your plan, the better it adapts to change. | 计划越灵活，越能适应变化。
